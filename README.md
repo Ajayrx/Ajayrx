@@ -4,7 +4,7 @@
 ---
 
 ### 🧑‍💻 **About Me**
-Hi! I’m a passionate coder with a strong foundation in **Java**, **Python**, and **C programming**. 
+Hi! I’m a passionate coder with a strong foundation in **Java**, **Python**, **Html**, **Css**, **JavaScript**, **Yaml** and **C programming**. 
 
 - 🌟 **Experience**: Over a year as a Minecraft Server Developer  
 - 🎮 **Minecraft Modding**: Designed, developed, and maintained mods and plugins to enhance gameplay  
@@ -36,7 +36,7 @@ Hi! I’m a passionate coder with a strong foundation in **Java**, **Python**, a
 
 ### 🖼️ **Projects**
 - 🎮 **Minecraft Server Development**  
-  *Developed mods and plugins to create immersive and exciting gameplay experiences.*  
+  *Developed over a dozen's of Minecraft public server with exciting plugin and mods to enchace the gameplay experience of more than 600+ players *  
 
 - ❤️ **Safe Sphere** ( Live )*  
   *Website that Emphasizing a secure digital environment for specially senior citizens.*
@@ -46,7 +46,7 @@ Hi! I’m a passionate coder with a strong foundation in **Java**, **Python**, a
   *Creating an online C compiler for coding on mobile devices with ease.*  
 
 - 📝 **Online Leave Application for College** *(In Progress)*  
-  *Developing a website where students can submit leave applications that are automatically sent to the proctor via WhatsApp.*  
+  *Developing a website where students can submit leave applications that are automatically sent to the proctor via WhatsApp and then server will send a msg to hostel warden.*  
 
 ---
 
