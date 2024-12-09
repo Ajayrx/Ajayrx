@@ -8,7 +8,7 @@ Hi! I’m a passionate coder with a strong foundation in **Java**, **Python**, a
 
 - 🌟 **Experience**: Over a year as a Minecraft Server Developer  
 - 🎮 **Minecraft Modding**: Designed, developed, and maintained mods and plugins to enhance gameplay  
-- ✨ **Goal**: 
+
 ---
 
 ### 📊 **GitHub Stats**
@@ -39,7 +39,7 @@ Hi! I’m a passionate coder with a strong foundation in **Java**, **Python**, a
   *Developed mods and plugins to create immersive and exciting gameplay experiences.*  
 
 - ❤️ **Safe Sphere** ( Live )*  
-  *Creating an website that Emphasizing a secure digital environment.*
+  *Website that Emphasizing a secure digital environment for specially senior citizens.*
   *[SafeSphere Website](https://ajayrx.github.io/cyber-safety/)*
   
 - 💻 **Online C Compiler** *(In Progress)*  
