@@ -1,23 +1,23 @@
 <h1 align="center">Hi 👋, I'm Ajay Bala</h1>
-<h3 align="center">Aspiring Software Developer | Creative Problem Solver</h3>
+<h3 align="center">Upcoming Software Developer | Creative Problem Solver</h3>
 
 ---
 
 ### 🧑‍💻 **About Me**
-Hi! I’m a passionate coder with a strong foundation in **Java**, **Python**, and **C programming**.  
-I’m an aspiring software developer with a knack for solving problems and building creative solutions.
+Hi! I’m a passionate coder with a strong foundation in **Java**, **Python**, and **C programming**. 
 
 - 🌟 **Experience**: Over a year as a Minecraft Server Developer  
 - 🎮 **Minecraft Modding**: Designed, developed, and maintained mods and plugins to enhance gameplay  
-- ✨ **Goal**: Continuously learn, grow, and contribute to innovative projects  
-- 💡 **Dream**: Shape the future with code, whether it’s crafting engaging gaming experiences or building scalable software!  
-
+- ✨ **Goal**: 
 ---
 
 ### 📊 **GitHub Stats**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ajayrx&show_icons=true&theme=radical&token=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" alt="GitHub Stats" height="180px"/>
+
   
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Ajayrx&theme=darkhub&row=1&column=7&no-frame=True&no-bg=False" /> </div>
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ajayrx&theme=radical&token=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" alt="GitHub Streak" height="180px"/>
   
 </p>
