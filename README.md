@@ -1,63 +1,54 @@
-<h1 align="center">Hi 👋, I'm Ajay Bala</h1>
-<h3 align="center">Upcoming Software Developer | Creative Problem Solver</h3>
+<h2 align="left">Hi 👋! My name is Ajay Bala 
 
----
+###
 
-### 🧑‍💻 **About Me**
-Hi! I’m a passionate coder with a strong foundation in **Java**, **Python**, **Html**, **Css**, **JavaScript**, **Yaml** and **C programming**. 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ajayrx&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ajayrx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-- 🌟 **Experience**: Over a year as a Minecraft Server Developer  
-- 🎮 **Minecraft Modding**: Designed, developed, and maintained mods and plugins to enhance gameplay  
+###
 
----
+<img align="right" height="150" src="https://imgflip.com/gif/9dolgm"  />
 
-### 📊 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ajayrx&show_icons=true&theme=radical&token=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" alt="GitHub Stats" height="180px"/>
+###
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ajayrx&theme=radical&token=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" alt="GitHub Streak" height="180px"/>
-  
-</p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
+</div>
 
----
+###
 
-### 🚀 **Skills & Tools**
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C_Programming-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C Programming" />
-  <img src="https://img.shields.io/badge/Minecraft_Server-62B47A?style=for-the-badge&logo=java&logoColor=white" alt="Minecraft SMP" />
-</p>
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
----
 
-### 🖼️ **Projects**
-- 🎮 **Minecraft Server Development**  
-  *Developed over a dozen's of Minecraft public server with exciting plugin and mods to enchace the gameplay experience of more than 600+ players *  
+###
 
-- ❤️ **Safe Sphere** ( Live )*  
-  *Website that Emphasizing a secure digital environment for specially senior citizens.*
-  *[SafeSphere Website](https://ajayrx.github.io/cyber-safety/)*
-  
-- 💻 **Online C Compiler** *(In Progress)*  
-  *Creating an online C compiler for coding on mobile devices with ease.*  
+<br clear="both">
 
-- 📝 **Online Leave Application for College** *(In Progress)*  
-  *Developing a website where students can submit leave applications that are automatically sent to the proctor via WhatsApp and then server will send a msg to hostel warden.*  
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
----
-
-### 📬 **Connect with Me**
-<p align="center">
-  <a href="https://www.linkedin.com/in/ajay-bala-849841230/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:ajay0i0know@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/Ajayrx" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
----
+###
