@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ajay Bala 
+<h2 align="left">Hi 👋! I'm Ajay Bala 
 
 ###
 
