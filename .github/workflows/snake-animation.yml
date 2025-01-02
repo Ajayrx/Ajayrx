@@ -1,11 +1,9 @@
-name: Generate snake animation
+name: Generate Snake Animation
 
 on:
-  schedule: # execute every 12 hours
+  schedule:
     - cron: "* */12 * * *"
-
   workflow_dispatch:
-
   push:
     branches:
       - master
@@ -22,8 +20,17 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Ajayrx
-          outputs: dist/snake.svg?palette=github-dark
-
+          # You can choose from these color palettes:
+          # github-dark (default)
+          # github-light
+          # github-dark-dimmed
+          # halloween
+          # ocean
+          # forest
+          # rainbow
+          outputs: |
+            dist/snake.svg?palette=ocean
+            
       - name: push snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
