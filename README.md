@@ -4,10 +4,10 @@
 
 ###
 <a href='https://www.linkedin.com/in/ajay-bala-849841230' target="_blank">
-  <img align='left' alt="linkedin" src="/assets/linkedin.svg" height='18px'/>
+  <img align='left' alt="linkedin" src="assets/linkedin.svg" height='18px'/>
 </a>
 <a href='https://discord.gg/rPek42VmkT' target="_blank">
-  <img align='left' alt="discord" src="https:///assets/discord.svg" height='18px'/>
+  <img align='left' alt="discord" src="DevAi/discord.svg" height='18px'/>
 </a>
 <a href='https://www.youtube.com/@sherdilcore' target="_blank">
   <img align='left' alt="youtube" src="https:///assets/youtube.svg" height='18px'/>
