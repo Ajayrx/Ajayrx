@@ -39,7 +39,8 @@
 </div>
 
 <div align="center">
-  <img src="DevAi/ajayrx.gif" height="300px" alt="vscode logo"  />
+  <br>
+  <img src="DevAi/ajayrx.gif" height="200px" alt="vscode logo"  />
 </div>
 
 <div align="center">
