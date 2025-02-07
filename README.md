@@ -43,7 +43,7 @@
 
 <div align="center">
   <br>
-  <img src="DevAi/ajayrx.gif" height="210px" alt="vscode logo"  />
+  <img src="DevAi/ajayrx.gif" height="200px" alt="vscode logo"  />
 </div>
 
 <div align="center">
