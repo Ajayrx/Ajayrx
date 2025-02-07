@@ -3,6 +3,22 @@
 
 
 ###
+<a href='https://www.linkedin.com/in/ajay-bala-849841230' target="_blank">
+  <img align='left' alt="linkedin" src="/assets/linkedin.svg" height='18px'/>
+</a>
+<a href='https://discord.gg/rPek42VmkT' target="_blank">
+  <img align='left' alt="discord" src="https:///assets/discord.svg" height='18px'/>
+</a>
+<a href='https://www.youtube.com/@sherdilcore' target="_blank">
+  <img align='left' alt="youtube" src="https:///assets/youtube.svg" height='18px'/>
+</a>
+<a href='mailto:ajay0i0know@gmail.com' target="_blank">
+  <img align='left' alt="gmail" src="https:///assets/gmail.svg" height='18px'/>
+</a>
+<br>
+<br>
+<p><b>Passionate developer with expertise in Java, Python, C, and Web Development. Over 1 year of experience as a Minecraft Server Developer, creating innovative mods and solutions.</b></p>
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
