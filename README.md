@@ -36,11 +36,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="50px" alt="canva logo"  />
   <img width="18" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="50px" alt="anaconda logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="50px"/>
+          
 </div>
 
 <div align="center">
   <br>
-  <img src="DevAi/ajayrx.gif" height="200px" alt="vscode logo"  />
+  <img src="DevAi/ajayrx.gif" height="210px" alt="vscode logo"  />
 </div>
 
 <div align="center">
@@ -51,9 +54,12 @@
 <div align="left">
   <br>
   <h3>📊 GitHub Stats</h3> 
-  <img src="https://github-readme-stats.vercel.app/api?username=Ajayrx&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ajayrx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
 </div>
 
+![Ajay's Github Stats](https://github-readme-stats.vercel.app/api?username=Ajayrx&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajayrx&hide=TeX&layout=compact)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Ajayrx.Ajayrx)
 
 
