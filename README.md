@@ -1,7 +1,5 @@
 <h2 align="center"><br> <b>Swagat Hai! | Step into Ajay Bala's DevRealm! 🔥</b> <br><br></h2>
 
-
-
 ###
 <a href='https://www.linkedin.com/in/ajay-bala-849841230' target="_blank">
   <img align='left' alt="linkedin" src="DevAi/linkedln.svg" height='18px'/>
