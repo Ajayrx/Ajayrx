@@ -38,6 +38,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="50px" alt="anaconda logo"  />
 </div>
 
+<div align="center">
+  <img src="DevAi/pic.gif" height="300px" alt="vscode logo"  />
+</div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Ajayrx/Ajayrx/output/snake.svg" alt="Snake animation" />
