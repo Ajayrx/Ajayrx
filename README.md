@@ -50,17 +50,10 @@
 
 <div align="left">
   <br>
-  <h3>📊 GitHub Stats</h3>
-  <a href="https://github.com/Ajayrx/github-stats-transparent">
-    <img src="https://raw.githubusercontent.com/Ajayrx/github-stats-transparent/output/generated/overview.svg" alt="GitHub Stats Overview"/>
-    <img src="https://raw.githubusercontent.com/Ajayrx/github-stats-transparent/output/generated/languages.svg" alt="Most Used Languages"/>
-  </a>
+  <h3>📊 GitHub Stats</h3> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Ajayrx&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ajayrx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 
-###
-
-
-
-###
 
