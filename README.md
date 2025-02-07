@@ -47,7 +47,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Ajayrx/Ajayrx/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Ajayrx/Ajayrx/output/snake.svg" alt="Snake animation" height="200"/>
 </div>
 
 
