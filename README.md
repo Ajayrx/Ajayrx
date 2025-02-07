@@ -1,7 +1,5 @@
 <h2 align="center"><br> <b><img src="DevAi/ajay-bala's-devrealm!.svg" alt="DevAi" /></b> <br><br></h2>
 
-
-###
 <a href='https://www.linkedin.com/in/ajay-bala-849841230' target="_blank">
   <img align='left' alt="linkedin" src="DevAi/linkedln.svg" height='18px'/>
 </a>
@@ -40,13 +38,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="50px" alt="anaconda logo"  />
 </div>
 
-###
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/Ajayrx/Ajayrx/output/snake.svg" alt="Snake animation" />
 </div>
 
-
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ajayrx&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
