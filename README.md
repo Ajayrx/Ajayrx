@@ -88,7 +88,6 @@
 
 
 <div align="left">
-  <br>
   <h3> <img src="https://img.shields.io/badge/📊%20GitHub%20Stats-2F86FF" height="30">
        <img src="https://img.shields.io/badge/📜%20Languages%20Used-2F86FF" height="30">
   </h3>
