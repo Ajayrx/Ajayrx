@@ -10,6 +10,7 @@
         <img src="https://img.shields.io/badge/%20%20-FF2F2F" height="30" />
         <img src="https://img.shields.io/badge/%20%20-FFFFFF" height="30" />
         <img src="https://img.shields.io/badge/%20%20-FF2F2F" height="30" />
+        <img src="https://img.shields.io/badge/%20%20-FFFFFF" height="30" />
         <img src="https://img.shields.io/badge/Powered%20By-FE208A" height="30" />
         <img src="https://img.shields.io/badge/Electricity-360be86" height="30" />
     </span>
@@ -18,16 +19,17 @@
 </h1>
 
 <a href='https://www.linkedin.com/in/ajay-bala-849841230' target="_blank">
-  <img align='left' alt="linkedin" src="DevAi/8l.svg" height='18px'/>
+  <img align='left' alt="linkedin" src="DevAi/8l.svg" height='50px'/>
 </a>
 <a href='https://discord.gg/rPek42VmkT' target="_blank">
-  <img align='left' alt="discord" src="DevAi/8d.svg" height='18px'/>
+  <img align='left' alt="discord" src="DevAi/8d.svg" height='50px'/>
 </a>
 <a href='https://www.youtube.com/@sherdilcore' target="_blank">
-  <img align='left' alt="youtube" src="DevAi/8y.svg" height='18px'/>
+  <img align='left' alt="youtube" src="DevAi/8y.svg" height='50px'/>
 </a>
 <a href='mailto:ajay0i0know@gmail.com' target="_blank">
-  <img align='left' alt="gmail" src="DevAi/8g.svg" height='18px'/>
+  <img align='left' alt="gmail" src="DevAi/8g.svg" height='50px'/>
+    <br>
 </a>
 <br>
 <br>
