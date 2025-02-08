@@ -10,8 +10,8 @@
         <img src="https://img.shields.io/badge/%20%20-FF2F2F" height="30" />
         <img src="https://img.shields.io/badge/%20%20-FFFFFF" height="30" />
         <img src="https://img.shields.io/badge/%20%20-FF2F2F" height="30" />
-        <img src="https://img.shields.io/badge/Powered%20By-FFFFFF" height="30" />
-        <img src="https://img.shields.io/badge/Electricity-00FF00" height="30" />
+        <img src="https://img.shields.io/badge/Powered%20By-FE208A" height="30" />
+        <img src="https://img.shields.io/badge/Electricity-360be86" height="30" />
     </span>
    
 
