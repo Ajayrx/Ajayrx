@@ -63,7 +63,7 @@
 
 <div align="center">
   <br>
-  <img src="DevAi/ajayrx.gif" height="200px" alt="vscode logo"  />
+  <img src="DevAi/banner-ajay.gif" height="200px" alt="vscode logo"  />
 </div>
 
 <div align="center">
