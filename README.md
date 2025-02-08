@@ -35,9 +35,15 @@
 </a>
 <br>
 <br>
+<img src="https://img.shields.io/badge/About%20Me!%20🫶-53A2FE" height="30"/>
 <p><b>Passionate developer with expertise in Java, Python, C, and Web Development. Over 1 year of experience as a Minecraft Server Developer, creating innovative mods and solutions.</b></p>
+<div align="left">
+  <img src="DevAi/banner-ajay.gif" height="200px" alt="vscode logo"  />
+</div>
 <br>
-<div align="center">
+<img src="https://img.shields.io/badge/🛠️%20Tools%20and%20Weapons%20Used%20⚙️-4F61FF" height="30">
+<br>
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50px" alt="vscode logo"  />
   <img width="21" />
   <img src="DevAi/8java.gif" height="50px" alt="japanese tech"/>        
@@ -61,20 +67,26 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="50px" alt="copied by ajay from devicon lol" />          
 </div>
 
-<div align="center">
-  <br>
-  <img src="DevAi/banner-ajay.gif" height="200px" alt="vscode logo"  />
-</div>
 
-<div align="center">
+
+<div align="left">
+    <br>
+    <img src="https://img.shields.io/badge/🤍%20Githhub%20Contributions-9800FF"" height="30"/>
+    <img src="https://img.shields.io/badge/🤍%202023%20-FFBC00"" height="30"/>
+    <img src="https://img.shields.io/badge/🤍%202024-38AE10"" height="30"/>
+    <img src="https://img.shields.io/badge/🤍%202025-9800FF"" height="30"/>
+    
+
+<div align="left">
   <img src="https://raw.githubusercontent.com/Ajayrx/Ajayrx/output/snake.svg" alt="Snake animation" height="200"/>
 </div>
 
 
 <div align="left">
   <br>
-  <h3> <img src="https://img.shields.io/badge/📊%20GitHub%20Stats-2F86FF" height="30" </h3>
-
+  <h3> <img src="https://img.shields.io/badge/📊%20GitHub%20Stats-2F86FF" height="30">
+       <img src="https://img.shields.io/badge/📜%20Languages%20Used-2F86FF" height="30">
+  </h3>
 </div>
 
 ![Ajay's Github Stats](https://github-readme-stats.vercel.app/api?username=Ajayrx&count_private=true&show_icons=true&include_all_commits=true)
