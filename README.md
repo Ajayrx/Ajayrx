@@ -18,16 +18,16 @@
 </h1>
 
 <a href='https://www.linkedin.com/in/ajay-bala-849841230' target="_blank">
-  <img align='left' alt="linkedin" src="DevAi/linkedln.svg" height='18px'/>
+  <img align='left' alt="linkedin" src="DevAi/l.svg" height='18px'/>
 </a>
 <a href='https://discord.gg/rPek42VmkT' target="_blank">
-  <img align='left' alt="discord" src="DevAi/discord.svg" height='18px'/>
+  <img align='left' alt="discord" src="DevAi/d.svg" height='18px'/>
 </a>
 <a href='https://www.youtube.com/@sherdilcore' target="_blank">
-  <img align='left' alt="youtube" src="DevAi/youtube.svg" height='18px'/>
+  <img align='left' alt="youtube" src="DevAi/y.svg" height='18px'/>
 </a>
 <a href='mailto:ajay0i0know@gmail.com' target="_blank">
-  <img align='left' alt="gmail" src="DevAi/gmail.svg" height='18px'/>
+  <img align='left' alt="gmail" src="DevAi/g.svg" height='18px'/>
 </a>
 <br>
 <br>
