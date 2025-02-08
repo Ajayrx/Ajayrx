@@ -13,7 +13,9 @@
         <img src="https://img.shields.io/badge/%20%20-FFFFFF" height="30" />
         <img src="https://img.shields.io/badge/Powered%20By-FE208A" height="30" />
         <img src="https://img.shields.io/badge/Electricity-360be86" height="30" />
-        <a href='https://discord.gg/C7vCuVYAzx' target="_blank"><img src="https://img.shields.io/badge/ɢɪᴛʜᴜʙ ᴄᴏᴍᴍᴜɴɪᴛʏ-FHJUSS" height="30" /></a>
+        <a href="https://discord.gg/C7vCuVYAzx" target="_blank">
+          <img src="https://img.shields.io/badge/Click%20to%20Join-My%20Github%20Community-5865F2" height="30" />
+        </a>
     </span>
    
 
