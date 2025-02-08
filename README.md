@@ -1,8 +1,8 @@
 
-<h1 style="text-align: center;">
+<h1 style="text-align: center;">                  
     <span>  
-        <img src="https://img.shields.io/badge/💀%20If%20You%20See%20This,%20You’ve%20Already%20Found%20Ajay-35CFF8" height="30" />
-        <img src="https://img.shields.io/badge/Ajay%20Bala's%20DevRelam!-FF2F2F" height="30" />
+        <img src="https://img.shields.io/badge/💀%20If%20You%20See%20This,%20You’ve%20Already%20Found%20Him-35CFF8" height="30" />
+        <img src="https://img.shields.io/badge/Github%20Core%20Ajay%20Bala-FF2F2F" height="30" />
         <img src="https://img.shields.io/badge/Root%20Access%20Granted-FFFFFF" height="30" />
         <img src="https://img.shields.io/badge/%20404:Limits%20Not%20Found-FF2F2F" height="30" />
         <img src="https://img.shields.io/badge/%20%20-FF2F2F" height="30" />
@@ -13,6 +13,7 @@
         <img src="https://img.shields.io/badge/%20%20-FFFFFF" height="30" />
         <img src="https://img.shields.io/badge/Powered%20By-FE208A" height="30" />
         <img src="https://img.shields.io/badge/Electricity-360be86" height="30" />
+        <a href='https://discord.gg/C7vCuVYAzx' target="_blank"><img src="https://img.shields.io/badge/ɢɪᴛʜᴜʙ ᴄᴏᴍᴍᴜɴɪᴛʏ-FHJUSS" height="30" /></a>
     </span>
    
 
@@ -38,7 +39,7 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50px" alt="vscode logo"  />
   <img width="21" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50px" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="50px" alt="japanese tech"/>        
   <img width="21" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50px" alt="python logo"  />
   <img width="21" />
