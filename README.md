@@ -1,4 +1,44 @@
-<h2 align="center"><br> <b><img src="DevAi/ajay-bala's-devrealm!.svg" alt="DevAi" /></b> <br><br></h2>
+
+<h1 style="text-align: center;">
+    <span>
+        <img src="https://img.shields.io/badge/%20-000000" height="30" />
+        <img src="https://img.shields.io/badge/%20-000000" height="30" />
+        <img src="https://img.shields.io/badge/%20-000000" height="30" />
+        <img src="https://img.shields.io/badge/%20-000000" height="30" />
+        <img src="https://img.shields.io/badge/%20-000000" height="30" />
+        <img src="https://img.shields.io/badge/%20-000000" height="30" />
+        <img src="https://img.shields.io/badge/%20-000000" height="30" />
+        <img src="https://img.shields.io/badge/%20-000000" height="30" />
+        <img src="https://img.shields.io/badge/%20-000000" height="30" />
+        <img src="https://img.shields.io/badge/%20-000000" height="30" />
+        <img src="https://img.shields.io/badge/%20-000000" height="30" />
+        <img src="https://img.shields.io/badge/%20-000000" height="30" />
+        <img src="https://img.shields.io/badge/%20-000000" height="30" />
+        <img src="https://img.shields.io/badge/%20-000000" height="30" />
+        <img src="https://img.shields.io/badge/%20-000000" height="30" />
+        <img src="https://img.shields.io/badge/%20-000000" height="30" />
+        <img src="https://img.shields.io/badge/%20%20-FCD05C" height="30" />
+        <img src="https://img.shields.io/badge/%20%20-FFFFFF" height="30" />
+        <img src="https://img.shields.io/badge/%20%20-FCD05C" height="30" />
+        <img src="https://img.shields.io/badge/%20%20-FFFFFF" height="30" />
+        <img src="https://img.shields.io/badge/%20%20-FCD05C" height="30" />
+        <img src="https://img.shields.io/badge/%20%20-FFFFFF" height="30" />
+        <img src="https://img.shields.io/badge/💀%20If%20You%20See%20This,%20You’ve%20Already%20Found%20Ajay-35CFF8" height="30" />
+        <img src="https://img.shields.io/badge/Ajay%20Bala's%20DevRelam!-FF2F2F" height="30" />
+        <img src="https://img.shields.io/badge/Root%20Access%20Granted-FFFFFF" height="30" />
+        <img src="https://img.shields.io/badge/%20404:Limits%20Not%20Found-3FFF2F" height="30" />
+        <img src="https://img.shields.io/badge/%20%20-FCD05C" height="30" />
+        <img src="https://img.shields.io/badge/%20%20-FFFFFF" height="30" />
+        <img src="https://img.shields.io/badge/%20%20-FCD05C" height="30" />
+        <img src="https://img.shields.io/badge/%20%20-FFFFFF" height="30" />
+        <img src="https://img.shields.io/badge/%20%20-FCD05C" height="30" />
+        <img src="https://img.shields.io/badge/%20%20-FFFFFF" height="30" />
+        <img src="https://img.shields.io/badge/Powered%20By-FFFFFF" height="30" />
+        <img src="https://img.shields.io/badge/Electricity-00FF00" height="30" />
+    </span>
+   
+
+</h1>
 
 <a href='https://www.linkedin.com/in/ajay-bala-849841230' target="_blank">
   <img align='left' alt="linkedin" src="DevAi/linkedln.svg" height='18px'/>
@@ -53,7 +93,7 @@
 
 <div align="left">
   <br>
-  <h3>📊 GitHub Stats</h3> 
+  <h3> <img src="https://img.shields.io/badge/📊%20GitHub%20Stats-2F86FF" height="30" </h3>
 
 </div>
 
