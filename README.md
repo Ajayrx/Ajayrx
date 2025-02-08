@@ -76,6 +76,22 @@
     <img src="https://img.shields.io/badge/🤍%202024-38AE10"" height="30"/>
     <img src="https://img.shields.io/badge/🤍%202025-9800FF"" height="30"/>
     
+<div>
+    <br>
+    <img src="https://img.shields.io/badge/Jan&nbsp;&nbsp;Feb-606666" height="20"/>
+    <img src="https://img.shields.io/badge/Feb-606666" height="20"/>
+    <img src="https://img.shields.io/badge/Mar-606666" height="20"/>
+    <img src="https://img.shields.io/badge/Aprl-606666" height="20"/>
+    <img src="https://img.shields.io/badge/May-606666" height="20"/>
+    <img src="https://img.shields.io/badge/Jun-606666" height="20"/>
+    <img src="https://img.shields.io/badge/Jul-606666" height="20"/>
+    <img src="https://img.shields.io/badge/Aug-606666" height="20"/> 
+    <img src="https://img.shields.io/badge/Sept-606666" height="20"/>
+    <img src="https://img.shields.io/badge/Oct-606666" height="20"/>
+    <img src="https://img.shields.io/badge/Nov-606666" height="20"/>
+    <img src="https://img.shields.io/badge/Dec-606666" height="20"/> 
+</div>
+
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/Ajayrx/Ajayrx/output/snake.svg" alt="Snake animation" height="200"/>
