@@ -18,7 +18,7 @@
 </h1>
 
 <a href='https://www.linkedin.com/in/ajay-bala-849841230' target="_blank">
-  <img align='left' alt="linkedin" src="DevAi/linkdln.svg" height='18px'/>
+  <img align='left' alt="linkedin" src="DevAi/linkedln.svg" height='18px'/>
 </a>
 <a href='https://discord.gg/rPek42VmkT' target="_blank">
   <img align='left' alt="discord" src="DevAi/discord.svg" height='18px'/>
