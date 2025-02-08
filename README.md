@@ -1,7 +1,7 @@
 
 <h1 style="text-align: center;">                  
     <span>  
-        <img src="https://img.shields.io/badge/💀%20If%20You%20See%20This,%20You’ve%20Already%20Found%20Him-35CFF8" height="30" />
+        <img src="https://img.shields.io/badge/If%20You%20See%20This,%20You’ve%20Already%20Found%20Him%20💀-5865F2" height="30" />
         <img src="https://img.shields.io/badge/Github%20Core%20Ajay%20Bala-FF2F2F" height="30" />
         <img src="https://img.shields.io/badge/Root%20Access%20Granted-FFFFFF" height="30" />
         <img src="https://img.shields.io/badge/%20404:%20Limits%20Not%20Found-FF2F2F" height="30" />
@@ -11,12 +11,11 @@
         <img src="https://img.shields.io/badge/%20%20-FFFFFF" height="30" />
         <img src="https://img.shields.io/badge/%20%20-FF2F2F" height="30" />
         <img src="https://img.shields.io/badge/%20%20-FFFFFF" height="30" />
-        <img src="https://img.shields.io/badge/Powered%20By-FE208A" height="30" />
-        <img src="https://img.shields.io/badge/Electricity-360be86" height="30" />
+        <img src="https://img.shields.io/badge/Powered%20By%20Electricity-B5FBA4" height="30" />
         <a href="https://discord.gg/C7vCuVYAzx" target="_blank">
-          <img src="https://img.shields.io/badge/Click%20to%20Join-My%20Github%20Community-5865F2" height="30" />
+          <img src="https://img.shields.io/badge/Click%20to%20Join-My%20Github%20Community-35CFF8" height="30" />
         </a>
-    </span>
+        <img src="https://img.shields.io/badge/Built%20With%20🤍-FE208A"" height="30"/>
    
 
 </h1>
