@@ -21,7 +21,7 @@
   <img align='left' alt="linkedin" src="DevAi/linkedln.svg" height='18px'/>
 </a>
 <a href='https://discord.gg/rPek42VmkT' target="_blank">
-  <img align='left' alt="discord" src="DevAi/discord.svg" height='18px'/>
+  <img align='left' alt="discord" src="DevAi/8d.svg" height='18px'/>
 </a>
 <a href='https://www.youtube.com/@sherdilcore' target="_blank">
   <img align='left' alt="youtube" src="DevAi/youtube.svg" height='18px'/>
