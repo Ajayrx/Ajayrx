@@ -2,7 +2,7 @@
 <h1 style="text-align: center;">                  
     <span>  
         <img src="https://img.shields.io/badge/If%20You%20See%20This,%20You’ve%20Already%20Found%20Him%20💀-5865F2" height="30" />
-        <img src="https://img.shields.io/badge/Owner%20Ajay%20Bala-FF2F2F" height="30" />
+        <img src="https://img.shields.io/badge/Owner%20Ajay%20Bala%20✨-FF2F2F" height="30" />
         <img src="https://img.shields.io/badge/Root%20Access%20Granted-FFFFFF" height="30" />
         <img src="https://img.shields.io/badge/%20Error%20404%20Limits%20Not%20Found-FF2F2F" height="30" />
         <img src="https://img.shields.io/badge/%20%20-FF2F2F" height="30" />
@@ -34,8 +34,18 @@
 </a>
 <br>
 <br>
-<img src="https://img.shields.io/badge/About%20Me!%20🫶-53A2FE" height="30"/>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=FF2F2F&width=435&lines=Nice+to+e-meet+you!;Streaming+Soon%3F+Let's+Connect!;Check+Out+My+Content+%F0%9F%A7%A1" alt="Typing SVG" /></a>
+<span>
+    <img src="https://img.shields.io/badge/About%20Me!%20🫶-53A2FE" height="30"/>
+    <a href="https://ajaybala.framer.website" target="_blank">
+        <img src="https://img.shields.io/badge/My%20Portfolio!%20🚀-FF7CBB" height="30"/>
+        <br>
+    </a>
+</span>
+
+<div>
+    <br>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=FF2F2F&width=435&lines=Nice+to+e-meet+you!;Streaming+Soon%3F+Let's+Connect!;Check+Out+My+Content+%F0%9F%A7%A1" alt="Typing SVG" /></a>
+</div>
 <p><b>Passionate developer with expertise in Java, Python, C, and Web Development. Over 1 year of experience as a Minecraft Server Developer, creating innovative mods and solutions.
     <br>
     <br>
