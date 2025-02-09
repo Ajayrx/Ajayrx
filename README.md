@@ -2,9 +2,9 @@
 <h1 style="text-align: center;">                  
     <span>  
         <img src="https://img.shields.io/badge/If%20You%20See%20This,%20You’ve%20Already%20Found%20Him%20💀-5865F2" height="30" />
-        <img src="https://img.shields.io/badge/Github%20Core%20Ajay%20Bala-FF2F2F" height="30" />
+        <img src="https://img.shields.io/badge/Owner%20Ajay%20Bala-FF2F2F" height="30" />
         <img src="https://img.shields.io/badge/Root%20Access%20Granted-FFFFFF" height="30" />
-        <img src="https://img.shields.io/badge/%20404:%20Limits%20Not%20Found-FF2F2F" height="30" />
+        <img src="https://img.shields.io/badge/%20Error%20404:%20Limits%20Not%20Found-FF2F2F" height="30" />
         <img src="https://img.shields.io/badge/%20%20-FF2F2F" height="30" />
         <img src="https://img.shields.io/badge/%20%20-FFFFFF" height="30" />
         <img src="https://img.shields.io/badge/%20%20-FF2F2F" height="30" />
@@ -16,8 +16,10 @@
           <img src="https://img.shields.io/badge/Click%20to%20Join-My%20Github%20Community-35CFF8" height="30" />
         </a>
         <img src="https://img.shields.io/badge/Built%20With%20🤍-FE208A"" height="30"/>
-   
-
+        <a href="https://github.com/antonkomarev/github-profile-views-counter">
+          <img src="https://komarev.com/ghpvc/?username=Ajayrx&color=green" height="30">
+        </a>
+        
 </h1>
 
 <a href='https://www.linkedin.com/in/ajay-bala-849841230' target="_blank">
@@ -36,7 +38,18 @@
 <br>
 <br>
 <img src="https://img.shields.io/badge/About%20Me!%20🫶-53A2FE" height="30"/>
-<p><b>Passionate developer with expertise in Java, Python, C, and Web Development. Over 1 year of experience as a Minecraft Server Developer, creating innovative mods and solutions.</b></p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=F7270A&width=435&lines=Nice+to+e-meet+you!;Streaming+Soon%3F+Let's+Connect!;Check+Out+My+Content+%F0%9F%A7%A1" alt="Typing SVG" /></a>
+<p><b>Passionate developer with expertise in Java, Python, C, and Web Development. Over 1 year of experience as a Minecraft Server Developer, creating innovative mods and solutions.
+    <br>
+    <br>
+Now that we have that out of the way, let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="20" />
+
+* 👨‍🎓 B.Tech CSE 1st Year Student at BPUT University. » Currently accepting applications for study buddies.  Must have snacks.
+* 🦸‍♂️ Tackling Cyber Scams with AI! 
+* 🎮 Minecraft enthusiast. » My in-game house is nicer than my real one.  Does that count as interior design experience?
+* 🎨 Drawing and Bus Travel. » My two passions. It's a whole thing.
+* 💪 CSE chose me. I didn't choose it. » So, yeah, no need for exercise when coding is a workout for the brain, right? </b></p>
+<br>
 <div align="left">
   <img src="DevAi/banner-ajay.gif" height="200px" alt="vscode logo"  />
 </div>
