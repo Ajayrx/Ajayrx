@@ -4,20 +4,20 @@
         <img src="https://img.shields.io/badge/If%20You%20See%20This,%20You’ve%20Already%20Found%20Him%20💀-5865F2" height="30" />
         <img src="https://img.shields.io/badge/Owner%20Ajay%20Bala-FF2F2F" height="30" />
         <img src="https://img.shields.io/badge/Root%20Access%20Granted-FFFFFF" height="30" />
-        <img src="https://img.shields.io/badge/%20Error%20404:%20Limits%20Not%20Found-FF2F2F" height="30" />
+        <img src="https://img.shields.io/badge/%20Error%20404%20Limits%20Not%20Found-FF2F2F" height="30" />
         <img src="https://img.shields.io/badge/%20%20-FF2F2F" height="30" />
         <img src="https://img.shields.io/badge/%20%20-FFFFFF" height="30" />
         <img src="https://img.shields.io/badge/%20%20-FF2F2F" height="30" />
         <img src="https://img.shields.io/badge/%20%20-FFFFFF" height="30" />
         <img src="https://img.shields.io/badge/%20%20-FF2F2F" height="30" />
         <img src="https://img.shields.io/badge/%20%20-FFFFFF" height="30" />
-        <img src="https://img.shields.io/badge/Powered%20By%20Electricity-B5FBA4" height="30" />
+        <img src="https://img.shields.io/badge/Powered%20By%20Electricity-47E43A" height="30" />
         <a href="https://discord.gg/C7vCuVYAzx" target="_blank">
           <img src="https://img.shields.io/badge/Click%20to%20Join-My%20Github%20Community-35CFF8" height="30" />
         </a>
         <img src="https://img.shields.io/badge/Built%20With%20🤍-FE208A"" height="30"/>
         <a href="https://github.com/antonkomarev/github-profile-views-counter">
-          <img src="https://komarev.com/ghpvc/?username=Ajayrx&color=green" height="30">
+          <img src="https://komarev.com/ghpvc/?username=Ajayrx&color=47E43A" height="30">
         </a>
         
 </h1>
@@ -38,7 +38,7 @@
 <br>
 <br>
 <img src="https://img.shields.io/badge/About%20Me!%20🫶-53A2FE" height="30"/>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=F7270A&width=435&lines=Nice+to+e-meet+you!;Streaming+Soon%3F+Let's+Connect!;Check+Out+My+Content+%F0%9F%A7%A1" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=FF2F2F&width=435&lines=Nice+to+e-meet+you!;Streaming+Soon%3F+Let's+Connect!;Check+Out+My+Content+%F0%9F%A7%A1" alt="Typing SVG" /></a>
 <p><b>Passionate developer with expertise in Java, Python, C, and Web Development. Over 1 year of experience as a Minecraft Server Developer, creating innovative mods and solutions.
     <br>
     <br>
@@ -59,7 +59,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50px" alt="vscode logo"  />
   <img width="21" />
-  <img src="DevAi/8java.gif" height="50px" alt="japanese tech"/>        
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="50px"/>        
   <img width="21" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50px" alt="python logo"  />
   <img width="21" />
@@ -84,10 +84,10 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 <div align="left">
     <br>
-    <img src="https://img.shields.io/badge/🤍%20Githhub%20Contributions-9800FF"" height="30"/>
-    <img src="https://img.shields.io/badge/🤍%202023%20-FFBC00"" height="30"/>
-    <img src="https://img.shields.io/badge/🤍%202024-38AE10"" height="30"/>
-    <img src="https://img.shields.io/badge/🤍%202025-9800FF"" height="30"/>
+    <img src="https://img.shields.io/badge/🤍%20Githhub%20Contributions-3B44DC" height="30"/>
+    <img src="https://img.shields.io/badge/2023%20-FFBC00"" height="30"/>
+    <img src="https://img.shields.io/badge/2024-38AE10"" height="30"/>
+    <img src="https://img.shields.io/badge/2025-9800FF"" height="30"/>
     
 <div>
     <br>
