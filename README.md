@@ -54,7 +54,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 * 👨‍🎓 B.Tech CSE 1st Year Student at BPUT University.
 * 🦸‍♂️ Tackling Cyber Scams with AI! 
 * 🎮 Minecraft enthusiast.
-* 🎨 Drawing and Travel. » My two passions. It's a whole thing.
+* 🎨 Drawing and Traveling 🧳.
 * 💪 No need for exercise when coding is a workout for the brain, right? </b></p>
 <br>
 <div align="left">
@@ -124,7 +124,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
                 </h2>
                 <div class="row">
                     <section class="people">
-                        <img class="avatar" src="DevAi/dev.png" width="28" height="28" alt="" />
+                        <img src="DevAi/dev.png" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABgQFBwH/xAAuEAABAwIEBQIFBQAAAAAAAAABAgMEBREABiExEhMUImFBURYjJLHRM3GBgpH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AW5gmR6PSn50gLIbHa2k6rWdgMAn6tnJcZFUYorRp6tUgAuaebG/2w8r2X1TqNGhV8cDjkhBbLbmiiDrt4v8A7hbl9mTQWOj6JlcJDRLYjOXXb0BQr84ANk2rMZlpBkIbWzIbVy3muK/Av8HFouEeLc4kJdh/Es2W40iCJDbbaW3E8tZKCskrH9xri3WqElVlz46T7cQwGYrqMyuZop8xBaXIAW40lJ/V9kXvuQD/ADbDoZrpLFPcfEh6O+Bdxk3DiPBQfPvjJsp/JotMlIvzWrlNybDvOLDO1Vl1R1PVrBSQpXCkWHbfT9j64CdVZdMzdVFumZMpsyRb6q9m2kga8fd6kAWFhsdwRjjOQWktjpJtWfB1U4wpTaCfAUm+1sGIj6k1Z+OEo5aU2Gmu1/vjfmnVJjsCyT2DcYD/2Q==" width="28" height="28" alt="" />           
                     </section>
                 </div>
