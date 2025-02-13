@@ -51,11 +51,11 @@
     <br>
 Now that we have that out of the way, let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="20" />
 
-* 👨‍🎓 B.Tech CSE 1st Year Student at BPUT University. » Currently accepting applications for study buddies.  Must have snacks.
+* 👨‍🎓 B.Tech CSE 1st Year Student at BPUT University.
 * 🦸‍♂️ Tackling Cyber Scams with AI! 
-* 🎮 Minecraft enthusiast. » My in-game house is nicer than my real one.  Does that count as interior design experience?
-* 🎨 Drawing and Bus Travel. » My two passions. It's a whole thing.
-* 💪 CSE chose me. I didn't choose it. » So, yeah, no need for exercise when coding is a workout for the brain, right? </b></p>
+* 🎮 Minecraft enthusiast.
+* 🎨 Drawing and Travel. » My two passions. It's a whole thing.
+* 💪 No need for exercise when coding is a workout for the brain, right? </b></p>
 <br>
 <div align="left">
   <img src="DevAi/banner-ajay.gif" height="200px" alt="vscode logo"  />
