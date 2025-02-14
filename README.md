@@ -125,8 +125,13 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
                 </h2>
                 <div class="row">
     <section class="people">
-        <img class="avatar" src="https://avatars.githubusercontent.com/u/190867562?v=4" width="28" height="28" alt="Dev follower" />
-        <img class="avatar" src="DevAi/empty.png" width="28" height="28" alt="" />     
+        <img class="avatar" src="https://avatars.githubusercontent.com/u/190867562?v=4" width="35" height="35" alt="Dev follower" />
+        <img class="avatar" src="DevAi/empty.jpg" width="35" height="35" alt="" />
+        <img class="avatar" src="DevAi/empty.jpg" width="35" height="35" alt="" />
+        <img class="avatar" src="DevAi/empty.jpg" width="35" height="35" alt="" />
+        <img class="avatar" src="DevAi/empty.jpg" width="35" height="35" alt="" />
+        <img class="avatar" src="DevAi/empty.jpg" width="35" height="35" alt="" />
+        <img class="avatar" src="DevAi/empty.jpg" width="35" height="35" alt="" />
     </section>
 </div>
             </section>
