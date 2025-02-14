@@ -124,8 +124,8 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
                 </h2>
                 <div class="row">
     <section class="people">
-        <img class="avatar" src="https://github.com/DevAi.png" width="28" height="28" alt="DevAi" />
-        <img class="avatar" src="https://github.com/Ajayrx.png" width="28" height="28" alt="Ajayrx" />            
+        <img class="avatar" src="https://github.com/Dev.png" width="28" height="28" alt="Dev follower" />
+        <img class="avatar" src="https://github.com/" width="28" height="28" alt="" />            
     </section>
 </div>
             </section>
