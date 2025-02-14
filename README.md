@@ -121,11 +121,12 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
                         <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                     </svg>
                     <img src="https://img.shields.io/badge/Followers%20💚-2F86FF" height="30">
+                    <img src="https://img.shields.io/badge/Thank%20You%20SO%20Much❤️-2F86FF" height="30">
                 </h2>
                 <div class="row">
     <section class="people">
-        <img class="avatar" src="https://github.com/Dev.png" width="28" height="28" alt="Dev follower" />
-        <img class="avatar" src="https://github.com/" width="28" height="28" alt="" />            
+        <img class="avatar" src="https://avatars.githubusercontent.com/u/190867562?v=4" width="28" height="28" alt="Dev follower" />
+        <img class="avatar" src="https://github.com/" width="28" height="28" alt="" />     
     </section>
 </div>
             </section>
