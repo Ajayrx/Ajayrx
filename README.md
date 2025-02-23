@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> Live your life and forget your age.
+> Giving is living. If you stop wanting to give, there's nothing more to live for.
 
 <!-- QUOTE_END -->
 
