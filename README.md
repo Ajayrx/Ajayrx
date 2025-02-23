@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> It's not whether you get knocked down, its whether you get back up.
+> Many roads lead to the path, but basically there are only two: reason and practice. 
 
 <!-- QUOTE_END -->
 
