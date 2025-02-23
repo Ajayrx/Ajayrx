@@ -65,7 +65,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
   *Loading...*
 
 <!-- QUOTE_END -->
-
+<br>
 <div align="left">
   <img src="DevAi/banner-ajay.gif" height="200px" alt="vscode logo"  />
 </div>
