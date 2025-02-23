@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment**  
 
-  *Loading...*
+> Whatever your mind can conceive and believe, it can achieve.
 
 <!-- QUOTE_END -->
 <br>
