@@ -51,5 +51,6 @@ jobs:
           echo "$(date)" > last_update.txt
           git add last_update.txt
     
-          git commit -m "Updated quote at $(date +"%Y-%m-%d %H:%M:%S")"
-          git push origin master
+          git commit --amend --reset-author
+          git push --force
+
