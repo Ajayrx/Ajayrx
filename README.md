@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> There are few reasons for telling the truth, but for lying the number is infinite.
+> Live your life and forget your age.
 
 <!-- QUOTE_END -->
 
