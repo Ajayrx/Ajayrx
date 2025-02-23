@@ -18,9 +18,8 @@ jobs:
       - name: Fetch a new quote
         run: |
           QUOTE=$(curl -s https://api.quotable.io/random | jq -r '.content')
-          if [[ -z "$QUOTE" ]]; then
-            echo "No quote fetched, skipping commit."
-            exit 0
+          if [[ -z "$QUOTE" || "$QUOTE" == "null" ]]; then
+            QUOTE="Keep pushing forward, success is near! 🚀"
           fi
           echo "$QUOTE" > quote.txt
           sed -i "/<!-- QUOTE_START -->/,/<!-- QUOTE_END -->/c\<!-- QUOTE_START -->\n\n📜 **Quote of the Moment:**\n\n> $QUOTE\n\n<!-- QUOTE_END -->" README.md
