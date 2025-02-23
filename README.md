@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> Whatever happens always happens on time.
+> It is often safer to be in chains than to be free. 
 
 <!-- QUOTE_END -->
 
