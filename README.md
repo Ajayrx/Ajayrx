@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> Force has no place where there is need of skill. 
+> Failure is acceptable. Not trying is a whole different ball park.
 
 <!-- QUOTE_END -->
 
