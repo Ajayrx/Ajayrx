@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> There is nothing more frightful than ignorance in action.
+> It's not whether you get knocked down, its whether you get back up.
 
 <!-- QUOTE_END -->
 
