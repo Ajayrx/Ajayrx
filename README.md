@@ -60,9 +60,9 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 <!-- QUOTE_START -->
 
-📜 **Quote of the Moment:**  
+📜 **Quote of the Moment:**
 
-  *Loading...*
+> Don't be afraid that you do not know something. Be afraid of not learning about it.
 
 <!-- QUOTE_END -->
 
