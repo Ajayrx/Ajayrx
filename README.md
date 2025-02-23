@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> Everything that irritates us about others.
+> It's not how much we give but how much love we put into giving.
 
 <!-- QUOTE_END -->
 
