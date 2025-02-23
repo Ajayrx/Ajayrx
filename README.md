@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> I try more and more to be myself, caring relatively little whether people approve or disapprove.
+> Everything that irritates us about others.
 
 <!-- QUOTE_END -->
 
