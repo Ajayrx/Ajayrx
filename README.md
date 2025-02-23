@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> Failure is acceptable. Not trying is a whole different ball park.
+> Loving thoughts and actions are clearly beneficial for our physical and mental health.
 
 <!-- QUOTE_END -->
 
