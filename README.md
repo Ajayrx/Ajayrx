@@ -60,9 +60,9 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 <!-- QUOTE_START -->
 
-📜 **Quote of the Hour:**  
+📜 **Quote of the Moment:**
 
-  *Loading...*
+> A warrior does not give up what he loves, he finds the love in what he does.
 
 <!-- QUOTE_END -->
 <br>
