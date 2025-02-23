@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> A warrior does not give up what he loves, he finds the love in what he does.
+> Death is not sad; the sad thing is that most people don't really live at all.
 
 <!-- QUOTE_END -->
 <br>
