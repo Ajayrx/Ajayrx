@@ -60,11 +60,12 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 <!-- QUOTE_START -->
 
-📜 **Quote of the Moment**  
+📜 **Quote of the Moment:**  
 
-   *loading......*
+  *Loading...*
 
 <!-- QUOTE_END -->
+
 <br>
 <div align="left">
   <img src="DevAi/banner-ajay.gif" height="200px" alt="vscode logo"  />

@@ -1,9 +1,9 @@
-name: Quotes Every 5 Minutes
+name: Quotes Every 10 Minutes
 
 on:
   schedule:
-    - cron: '*/5 * * * *'  # Runs every 5 minutes
-  workflow_dispatch:  # Allows manual trigger
+    - cron: '*/10 * * * *'  
+  workflow_dispatch:  
 
 jobs:
   update-quote:
@@ -17,22 +17,26 @@ jobs:
 
       - name: Fetch a new quote
         run: |
-         # Fetch a random quote from the API
-         QUOTE=$(curl -s https://zenquotes.io/api/random | jq -r '.[0].q')
-
-         # Check if the quote is empty or null, then use a fallback
-         if [[ -z "$QUOTE" || "$QUOTE" == "null" ]]; then
-         QUOTE="Keep pushing forward, success is near! 🚀"
-         fi
-
-         # Debugging: Print the fetched quote
-         echo "Fetched Quote: $QUOTE"
-
-         # Ensure README.md is updated correctly
-         sed -i "/<!-- QUOTE_START -->/,/<!-- QUOTE_END -->/c\<!-- QUOTE_START -->\n\n📜 **Quote of the Moment**\n\n> ${QUOTE}\n\n<!-- QUOTE_END -->" README.md
-
-         # Display updated README content for debugging
-         grep -A 2 "📜 **Quote of the Moment:**" README.md
+          # Fetch a random quote from the API
+          QUOTE=$(curl -s https://zenquotes.io/api/random | jq -r '.[0].q')
+      
+          # Check if the quote is empty or null, then use a fallback
+          if [[ -z "$QUOTE" || "$QUOTE" == "null" ]]; then
+            QUOTE="Keep pushing forward, success is near! 🚀"
+          fi
+      
+          # Debugging: Print the fetched quote
+          echo "Fetched Quote: $QUOTE"
+      
+          # Ensure README.md is updated correctly (Fixing escape issues)
+          sed -i "/<!-- QUOTE_START -->/,/<!-- QUOTE_END -->/c\\
+          <!-- QUOTE_START -->\\
+          \\n📜 **Quote of the Moment**\\
+          \\n> ${QUOTE}\\
+          \\n<!-- QUOTE_END -->" README.md
+      
+          # Display updated README content for debugging
+          grep -A 2 "📜 **Quote of the Moment**" README.md
 
       - name: Commit and push changes
         run: |
