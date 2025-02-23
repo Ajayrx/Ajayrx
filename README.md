@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> Many roads lead to the path, but basically there are only two: reason and practice. 
+> Force has no place where there is need of skill. 
 
 <!-- QUOTE_END -->
 
