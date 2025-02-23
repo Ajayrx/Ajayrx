@@ -2,8 +2,8 @@ name: Quotes Every 10 Minutes
 
 on:
   schedule:
-    - cron: '*/10 * * * *'  
-  workflow_dispatch:  
+    - cron: '*/10 * * * *'  # Runs every 10 minutes
+  workflow_dispatch:  # Allows manual trigger
 
 jobs:
   update-quote:
@@ -28,26 +28,25 @@ jobs:
           # Debugging: Print the fetched quote
           echo "Fetched Quote: $QUOTE"
       
-          # Ensure README.md is updated correctly (Fixing escape issues)
-          sed -i "/<!-- QUOTE_START -->/,/<!-- QUOTE_END -->/c\\
-          <!-- QUOTE_START -->\\
-          \\n📜 **Quote of the Moment**\\
-          \\n> ${QUOTE}\\
-          \\n<!-- QUOTE_END -->" README.md
-      
+          # Ensure README.md is updated correctly
+          sed -i '/<!-- QUOTE_START -->/,/<!-- QUOTE_END -->/c\
+          <!-- QUOTE_START -->\n\n📜 **Quote of the Moment:**\n\n> '"$QUOTE"'\n\n<!-- QUOTE_END -->' README.md
+
           # Display updated README content for debugging
-          grep -A 2 "📜 **Quote of the Moment**" README.md
+          grep -A 2 "📜 **Quote of the Moment**" README.md | tee debug.log
 
       - name: Commit and push changes
         run: |
-         git config --global user.name "Ajayrx"
-         git config --global user.email "137894866+Ajayrx@users.noreply.github.com" 
+          git config --global user.name "Ajayrx"
+          git config --global user.email "137894866+Ajayrx@users.noreply.github.com" 
 
-         git add README.md
+          git add README.md
 
-         # Check if there are any changes
-         if git diff --cached --quiet; then echo "No changes detected. Exiting..."
-         exit 0
-         fi
-         git commit -m "Updated quote: $(date)"
-         git push
+          # Check if there are any changes
+          if git diff --cached --quiet; then 
+            echo "No changes detected. Exiting..."
+            exit 0
+          fi
+
+          git commit -m "Updated quote: $(date)"
+          git push
