@@ -51,6 +51,9 @@ jobs:
           echo "$(date)" > last_update.txt
           git add last_update.txt
     
-          git commit --amend --reset-author
+          GIT_COMMITTER_NAME="Ajayrx" GIT_COMMITTER_EMAIL="137894866+Ajayrx@users.noreply.github.com" \
+          git commit -m "Update quote and timestamp" --author="Ajayrx <137894866+Ajayrx@users.noreply.github.com>"
+
           git push --force
+
 
