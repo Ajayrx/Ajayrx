@@ -17,22 +17,27 @@ jobs:
 
       - name: Fetch a new quote
         run: |
-          QUOTE=$(curl -s https://zenquotes.io/api/random | jq -r '.[0].q')
-          
-          # If the quote is empty or null, use fallback
-          if [[ -z "$QUOTE" || "$QUOTE" == "null" ]]; then
-            QUOTE="Keep pushing forward, success is near! 🚀"
-          fi
-          
-          echo "Fetched Quote: $QUOTE"  # Debugging output
-          echo "$QUOTE" > quote.txt
-          
-          sed -i "/<!-- QUOTE_START -->/,/<!-- QUOTE_END -->/c\<!-- QUOTE_START -->\n\n📜 **Quote of the Moment:**\n\n> $QUOTE\n\n<!-- QUOTE_END -->" README.md
+         # Fetch a random quote from the API
+         QUOTE=$(curl -s https://zenquotes.io/api/random | jq -r '.[0].q')
+
+         # Check if the quote is empty or null, then use a fallback
+         if [[ -z "$QUOTE" || "$QUOTE" == "null" ]]; then
+         QUOTE="Keep pushing forward, success is near! 🚀"
+         fi
+
+         # Debugging: Print the fetched quote
+         echo "Fetched Quote: $QUOTE"
+
+         # Ensure README.md is updated correctly
+         sed -i "/<!-- QUOTE_START -->/,/<!-- QUOTE_END -->/c\<!-- QUOTE_START -->\n\n📜 **Quote of the Moment:**\n\n> ${QUOTE}\n\n<!-- QUOTE_END -->" README.md
+
+         # Display updated README content for debugging
+         grep -A 2 "📜 **Quote of the Moment:**" README.md
 
       - name: Commit and push changes
         run: |
-         git config --global user.name "github-actions[bot]"
-         git config --global user.email "github-actions[bot]@users.noreply.github.com"
+         git config --global user.name "Ajayrx"
+         git config --global user.email "137894866+Ajayrx@users.noreply.github.com" 
 
          git add README.md
 

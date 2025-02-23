@@ -60,7 +60,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 <!-- QUOTE_START -->
 
-📜 **Quote of the Hour:**  
+📜 **Quote of the Moment**  
 
   *Loading...*
 
