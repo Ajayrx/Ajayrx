@@ -29,7 +29,7 @@ jobs:
          echo "Fetched Quote: $QUOTE"
 
          # Ensure README.md is updated correctly
-         sed -i "/<!-- QUOTE_START -->/,/<!-- QUOTE_END -->/c\<!-- QUOTE_START -->\n\n📜 **Quote of the Moment:**\n\n> ${QUOTE}\n\n<!-- QUOTE_END -->" README.md
+         sed -i "/<!-- QUOTE_START -->/,/<!-- QUOTE_END -->/c\<!-- QUOTE_START -->\n\n📜 **Quote of the Moment**\n\n> ${QUOTE}\n\n<!-- QUOTE_END -->" README.md
 
          # Display updated README content for debugging
          grep -A 2 "📜 **Quote of the Moment:**" README.md
