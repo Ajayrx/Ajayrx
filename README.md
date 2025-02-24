@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> The older you get, the better you get. Unless you're a banana.
+> Play your part in life, but never forget that it is only a role.
 
 <!-- QUOTE_END -->
 
