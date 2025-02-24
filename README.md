@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> Seek not the good in external things;seek it in yourselves.
+> Every second you have on this planet is very precious and it's your responsibility that you're happy.
 
 <!-- QUOTE_END -->
 
