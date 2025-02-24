@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> Treat everyone with politeness and kindness, not because they are nice, but because you are.
+> All human wisdom is contained in these two words - Wait and Hope
 
 <!-- QUOTE_END -->
 
