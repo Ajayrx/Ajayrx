@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> The Only Thing That Is Constant Is Change
+> To some degree, you control your life by controlling your time.
 
 <!-- QUOTE_END -->
 
