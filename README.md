@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> The more we value things, the less we value ourselves.  
+> Success is getting what you want... Happiness is wanting what you get.
 
 <!-- QUOTE_END -->
 
