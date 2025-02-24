@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> No man can get rich himself unless he enriches others.
+> We are all born ignorant, but one must work hard to remain stupid.
 
 <!-- QUOTE_END -->
 
