@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> Success is getting what you want... Happiness is wanting what you get.
+> A gentleman is one who puts more into the world than he takes out.
 
 <!-- QUOTE_END -->
 
