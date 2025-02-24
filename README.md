@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> If you want to be happy, set a goal that commands your thoughts, liberates your energy, and inspires your hopes.
+> You have to keep breaking your heart until it opens.
 
 <!-- QUOTE_END -->
 
