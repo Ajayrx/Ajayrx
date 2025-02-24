@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> There are no shortcuts to any place worth going. 
+> The more we value things, the less we value ourselves.  
 
 <!-- QUOTE_END -->
 
