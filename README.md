@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> Everything great that has ever happened to humanity has begun as a single thought in someone's mind.
+> Winners don't Quit. That's why they Win.
 
 <!-- QUOTE_END -->
 
