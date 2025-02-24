@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> Leaders spend 5% of their time on the problem & 95% of their time on the solution. Get over it & crush it!
+> Life is about accepting the challenges along the way, choosing to keep moving forward, and savoring the journey.
 
 <!-- QUOTE_END -->
 
