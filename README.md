@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> Nothing brings down walls as surely as acceptance.
+> Abundance of knowledge does not teach men to be wise.
 
 <!-- QUOTE_END -->
 
