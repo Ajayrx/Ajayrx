@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> Happiness is when what you think, what you say, and what you do are in harmony.
+> The question isn't who is going to let me; it's who is going to stop me.
 
 <!-- QUOTE_END -->
 
