@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> Out of your vulnerabilities will come your strength.
+> I don't walk away from things that I think are unfinished.
 
 <!-- QUOTE_END -->
 
