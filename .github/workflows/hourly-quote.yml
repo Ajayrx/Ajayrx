@@ -2,8 +2,8 @@ name: Quotes Every 10 Minutes
 
 on:
   schedule:
-    - cron: '*/10 * * * *'  # Runs every 10 minutes
-  workflow_dispatch:  # Allows manual trigger
+    - cron: '*/30 * * * *'  
+  workflow_dispatch:  
 
 jobs:
   update-quote:
@@ -48,8 +48,8 @@ jobs:
             exit 0
           fi
 
-          echo "$(date)" > last_update.txt
-          git add last_update.txt
+          # echo "$(date)" > last_update.txt 
+          # git add last_update.txt 
     
           GIT_COMMITTER_NAME="Ajayrx" GIT_COMMITTER_EMAIL="137894866+Ajayrx@users.noreply.github.com" \
           git commit -m "Update quote and timestamp" --author="Ajayrx <137894866+Ajayrx@users.noreply.github.com>"

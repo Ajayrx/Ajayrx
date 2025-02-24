@@ -54,7 +54,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 * 👨‍🎓 B.Tech CSE Student at BPUT University.
 * 🦸‍♂️ Tackling Cyber Scams with AI! 
 * 🎮 Minecraft enthusiast & Gta Mods.
-* 🎨 Drawing and Traveling 🧳.
+* 🎨 Art and adventure🧳.
 * 💪 Dm me for collaboration & open source. </b></p>
 <br>
 
@@ -136,12 +136,13 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
                 <div class="row">
     <section class="people">
         <img class="avatar" src="https://avatars.githubusercontent.com/u/190867562?v=4" width="35" height="35" alt="Dev follower" />
-        <img class="avatar" src="DevAi/empty.jpg" width="35" height="35" alt="" />
-        <img class="avatar" src="DevAi/empty.jpg" width="35" height="35" alt="" />
-        <img class="avatar" src="DevAi/empty.jpg" width="35" height="35" alt="" />
-        <img class="avatar" src="DevAi/empty.jpg" width="35" height="35" alt="" />
-        <img class="avatar" src="DevAi/empty.jpg" width="35" height="35" alt="" />
-        <img class="avatar" src="DevAi/empty.jpg" width="35" height="35" alt="" />
+        <img class="avatar" src="https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y" width="35" height="35" alt="Default Avatar" />
+        <img class="avatar" src="https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y" width="35" height="35" alt="Default Avatar" />
+        <img class="avatar" src="https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y" width="35" height="35" alt="Default Avatar" />
+        <img class="avatar" src="https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y" width="35" height="35" alt="Default Avatar" />
+        <img class="avatar" src="https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y" width="35" height="35" alt="Default Avatar" />
+        <img class="avatar" src="https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y" width="35" height="35" alt="Default Avatar" />
+        <img class="avatar" src="https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y" width="35" height="35" alt="Default Avatar" />
     </section>
 </div>
             </section>
