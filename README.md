@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> Loving thoughts and actions are clearly beneficial for our physical and mental health.
+> Be as fluid as water, do not give your enemies anything solid to attack.
 
 <!-- QUOTE_END -->
 
