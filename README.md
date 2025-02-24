@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> Rest when you're weary. Refresh and renew yourself, your body, your mind, your spirit. Then get back to work.
+> Act the way you want to be and soon you'll be the way you act.
 
 <!-- QUOTE_END -->
 
