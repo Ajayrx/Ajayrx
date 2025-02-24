@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> I don't pretend to know everything; I just only speak on matters I know I'll win.
+> People think you're crazy if you talk about things they don't understand.
 
 <!-- QUOTE_END -->
 
