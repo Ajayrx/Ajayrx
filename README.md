@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> The question isn't who is going to let me; it's who is going to stop me.
+> The opportunity of defeating the enemy is provided by the enemy himself.
 
 <!-- QUOTE_END -->
 
