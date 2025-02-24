@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> Keep true. Never be ashamed of doing right. Decide what you think is right and stick to it.
+> I don't pretend to know everything; I just only speak on matters I know I'll win.
 
 <!-- QUOTE_END -->
 
