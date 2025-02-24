@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> Play your part in life, but never forget that it is only a role.
+> Anger is an acid that can do more harm to the vessel in which it is stored than to anything on which it is poured.
 
 <!-- QUOTE_END -->
 
