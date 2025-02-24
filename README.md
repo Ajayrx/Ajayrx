@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> I don't walk away from things that I think are unfinished.
+> Better the cottage where one is merry than the palace where one weeps.
 
 <!-- QUOTE_END -->
 
