@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> The grass is greener where you water it.
+> Take into account that great love and great achievements involve great risk.
 
 <!-- QUOTE_END -->
 
