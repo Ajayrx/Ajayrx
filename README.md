@@ -51,11 +51,11 @@
     <br>
 Now that we have that out of the way, let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="20" />
 
-* 👨‍🎓 B.Tech CSE 1st Year Student at BPUT University.
+* 👨‍🎓 B.Tech CSE Student at BPUT University.
 * 🦸‍♂️ Tackling Cyber Scams with AI! 
-* 🎮 Minecraft enthusiast.
+* 🎮 Minecraft enthusiast & Gta Mods.
 * 🎨 Drawing and Traveling 🧳.
-* 💪 No need for exercise when coding is a workout for the brain, right? </b></p>
+* 💪 Dm me for collaboration & open source. </b></p>
 <br>
 
 <!-- QUOTE_START -->
