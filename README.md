@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> Be gentle with yourself. Think less and feel more. Be as happy as you can. You only have this moment.
+> The first rule of business; treat others like they want to treat you.
 
 <!-- QUOTE_END -->
 
