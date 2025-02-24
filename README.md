@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> Take into account that great love and great achievements involve great risk.
+> Associate with people who are likely to improve you.  
 
 <!-- QUOTE_END -->
 
