@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> We are all born ignorant, but one must work hard to remain stupid.
+> Success comes from knowing that you did your best to become the best that you are capable of becoming.
 
 <!-- QUOTE_END -->
 
