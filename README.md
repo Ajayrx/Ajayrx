@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> To some degree, you control your life by controlling your time.
+> Positive thinking can be contagious. Being surrounded by winners helps you develop into a winner.
 
 <!-- QUOTE_END -->
 
