@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> Success comes from knowing that you did your best to become the best that you are capable of becoming.
+> The future is not a gift. It is an achievement.
 
 <!-- QUOTE_END -->
 
