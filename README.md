@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> Success is liking yourself, liking what you do, and liking how you do it.
+> Leaders spend 5% of their time on the problem & 95% of their time on the solution. Get over it & crush it!
 
 <!-- QUOTE_END -->
 
