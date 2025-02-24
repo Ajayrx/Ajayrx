@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> Believe in yourself. You are braver than you think, more talented than you know, and capable of more than you imagine.
+> You have within you right now, everything you need to deal with whatever the world can throw at you.
 
 <!-- QUOTE_END -->
 
