@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> The first rule of business; treat others like they want to treat you.
+> Believe in yourself. You are braver than you think, more talented than you know, and capable of more than you imagine.
 
 <!-- QUOTE_END -->
 
