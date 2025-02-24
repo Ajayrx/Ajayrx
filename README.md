@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> Abundance of knowledge does not teach men to be wise.
+> If you want to be happy, set a goal that commands your thoughts, liberates your energy, and inspires your hopes.
 
 <!-- QUOTE_END -->
 
