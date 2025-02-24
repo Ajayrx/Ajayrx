@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> My instinct is always to seek out challenges as opposed to avoiding them.
+> It is not how much we have, but how much we enjoy, that makes happiness.
 
 <!-- QUOTE_END -->
 
