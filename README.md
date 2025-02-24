@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> To be in harmony with the wholeness of things is not to have anxiety over imperfections.
+> Be gentle with yourself. Think less and feel more. Be as happy as you can. You only have this moment.
 
 <!-- QUOTE_END -->
 
