@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> The opportunity of defeating the enemy is provided by the enemy himself.
+> The key to success is failure.
 
 <!-- QUOTE_END -->
 
