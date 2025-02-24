@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> One of the most difficult things is not to change society - but to change yourself.
+> Rest when you're weary. Refresh and renew yourself, your body, your mind, your spirit. Then get back to work.
 
 <!-- QUOTE_END -->
 
