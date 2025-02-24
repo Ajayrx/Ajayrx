@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> Be as fluid as water, do not give your enemies anything solid to attack.
+> Begin at once to live, and count each separate day as a separate life.  
 
 <!-- QUOTE_END -->
 
