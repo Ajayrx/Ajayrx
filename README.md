@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> Always show more kindness than seems necessary because the person receiving it needs it more than you will ever know.
+> The Only Thing That Is Constant Is Change
 
 <!-- QUOTE_END -->
 
