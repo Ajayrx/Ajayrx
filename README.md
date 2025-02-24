@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> Winners don't Quit. That's why they Win.
+> The great use of life is to spend it for something that will outlast it.
 
 <!-- QUOTE_END -->
 
