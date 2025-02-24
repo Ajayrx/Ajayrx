@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> All human wisdom is contained in these two words - Wait and Hope
+> To be in harmony with the wholeness of things is not to have anxiety over imperfections.
 
 <!-- QUOTE_END -->
 
