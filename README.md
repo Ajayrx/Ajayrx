@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> Life is about accepting the challenges along the way, choosing to keep moving forward, and savoring the journey.
+> Keep true. Never be ashamed of doing right. Decide what you think is right and stick to it.
 
 <!-- QUOTE_END -->
 
