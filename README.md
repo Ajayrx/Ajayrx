@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> Begin at once to live, and count each separate day as a separate life.  
+> If a man knows not to which port he sails, no wind is favorable.  
 
 <!-- QUOTE_END -->
 
