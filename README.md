@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> Without the rain there would be no rainbow.
+> Seek not the good in external things;seek it in yourselves.
 
 <!-- QUOTE_END -->
 
