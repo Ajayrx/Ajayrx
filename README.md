@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> Positive thinking can be contagious. Being surrounded by winners helps you develop into a winner.
+> Happiness is when what you think, what you say, and what you do are in harmony.
 
 <!-- QUOTE_END -->
 
