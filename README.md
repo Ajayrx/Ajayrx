@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> People think you're crazy if you talk about things they don't understand.
+> The older you get, the better you get. Unless you're a banana.
 
 <!-- QUOTE_END -->
 
