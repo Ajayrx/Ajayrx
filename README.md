@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> Act the way you want to be and soon you'll be the way you act.
+> Time stays long enough for anyone who will use it.
 
 <!-- QUOTE_END -->
 
