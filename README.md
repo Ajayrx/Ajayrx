@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> Anger is an acid that can do more harm to the vessel in which it is stored than to anything on which it is poured.
+> Out of your vulnerabilities will come your strength.
 
 <!-- QUOTE_END -->
 
