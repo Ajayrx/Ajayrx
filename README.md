@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> Time stays long enough for anyone who will use it.
+> Success is liking yourself, liking what you do, and liking how you do it.
 
 <!-- QUOTE_END -->
 
