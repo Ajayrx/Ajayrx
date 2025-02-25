@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> I want the fishing rod, not the fish.
+> Nothing is permanent in this wicked world - not even our troubles.
 
 <!-- QUOTE_END -->
 
