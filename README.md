@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> Remember, today is the tomorrow you worried about yesterday.
+> Big people don't make people feel small.
 
 <!-- QUOTE_END -->
 
