@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> Adventure is worthwhile in itself.
+> Lack of emotion causes lack of progress and lack of motivation.
 
 <!-- QUOTE_END -->
 
