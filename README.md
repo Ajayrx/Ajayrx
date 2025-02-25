@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> Life is much more successfully looked at from a single window.
+> Never trust he who trusts everyone.
 
 <!-- QUOTE_END -->
 
