@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> Failure means you've now learned another valuable lesson that pushes you one step closer to success.
+> Would you rather learn to deal with the truth now than be forced to do so later on?
 
 <!-- QUOTE_END -->
 
