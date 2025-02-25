@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> If you do not get the chills when you set your goal you're not setting big enough goals.
+> Creativity is intelligence having fun.
 
 <!-- QUOTE_END -->
 
