@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> Lack of emotion causes lack of progress and lack of motivation.
+> People will forget what you said, people will forget what you did, but people will never forget how you made them feel.
 
 <!-- QUOTE_END -->
 
