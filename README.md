@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> A Hero is an ordinary individual who finds the strength to persevere and endure in spite of overwhelming obstacles.
+> In life you need either inspiration or desperation.
 
 <!-- QUOTE_END -->
 
