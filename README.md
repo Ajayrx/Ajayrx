@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> The world is open for play, everything and everybody is mockable in a wonderful way.
+> Your hardest times often lead to the greatest moments of your life. Keep going. Tough situations build strong people in the end.
 
 <!-- QUOTE_END -->
 
