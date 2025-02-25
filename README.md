@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> It isn't what you do, but how you do it.
+> Failure means you've now learned another valuable lesson that pushes you one step closer to success.
 
 <!-- QUOTE_END -->
 
