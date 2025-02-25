@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> Never trust he who trusts everyone.
+> Remember, today is the tomorrow you worried about yesterday.
 
 <!-- QUOTE_END -->
 
