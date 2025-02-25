@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> The Only Thing That Is Constant Is Change
+> Don't wait for extraordinary opportunities. Seize common occasions and make them great.
 
 <!-- QUOTE_END -->
 
