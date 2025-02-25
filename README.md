@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> There is no path to Happiness. Happiness is the path.
+> No need to hurry. No need to sparkle. No need to be anybody but oneself.
 
 <!-- QUOTE_END -->
 
