@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> An approximate answer to the right question is worth a great deal more than a precise answer to the wrong question.
+> It isn't what you do, but how you do it.
 
 <!-- QUOTE_END -->
 
