@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> Don't change your mind just because people are offended; change your mind if you're wrong.
+> It is easier to fight for one's principles than to live up to them. 
 
 <!-- QUOTE_END -->
 
