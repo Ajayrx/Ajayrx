@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> All power is from within and therefore under our control.
+> Through discipline comes freedom.
 
 <!-- QUOTE_END -->
 
