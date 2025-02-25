@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> A wise man will be master of his mind, a fool will be its slave.
+> All know that the drop merges into the ocean, but few know that the ocean merges into the drop.
 
 <!-- QUOTE_END -->
 
