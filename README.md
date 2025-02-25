@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> Words, once they are printed, have a life of their own.
+> All power is from within and therefore under our control.
 
 <!-- QUOTE_END -->
 
