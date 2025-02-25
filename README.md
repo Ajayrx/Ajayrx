@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> Don't wait for extraordinary opportunities. Seize common occasions and make them great.
+> Life is to be fortified by many friendships. To love, and to be loved, is the greatest happiness of existence.
 
 <!-- QUOTE_END -->
 
