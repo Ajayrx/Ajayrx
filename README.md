@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> In life you need either inspiration or desperation.
+> You don't get in life what you want; you get in life what you are.
 
 <!-- QUOTE_END -->
 
