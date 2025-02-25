@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> Remember that sometimes not getting what you want is a wonderful stroke of luck.
+> The pain of parting is nothing to the joy of meeting again.
 
 <!-- QUOTE_END -->
 
