@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> Forgive yourself for your faults and your mistakes and move on.
+> The only thing more frustrating than slanderers is those foolish enough to listen to them.
 
 <!-- QUOTE_END -->
 
