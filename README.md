@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> If you want to know what God thinks about money just look at the people He gives it to.
+> A Hero is an ordinary individual who finds the strength to persevere and endure in spite of overwhelming obstacles.
 
 <!-- QUOTE_END -->
 
