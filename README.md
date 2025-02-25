@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> The only thing more frustrating than slanderers is those foolish enough to listen to them.
+> The world is open for play, everything and everybody is mockable in a wonderful way.
 
 <!-- QUOTE_END -->
 
