@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> Failure will never overtake me if my determination to succeed is strong enough.
+> Those who know, do. Those that understand, teach.
 
 <!-- QUOTE_END -->
 
