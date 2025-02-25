@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> It is easier to fight for one's principles than to live up to them. 
+> A wise man will be master of his mind, a fool will be its slave.
 
 <!-- QUOTE_END -->
 
