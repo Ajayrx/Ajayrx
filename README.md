@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> Would you rather learn to deal with the truth now than be forced to do so later on?
+> The Only Thing That Is Constant Is Change
 
 <!-- QUOTE_END -->
 
