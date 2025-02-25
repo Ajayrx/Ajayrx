@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> You have within you right now, everything you need to deal with whatever the world can throw at you.
+> Adventure is worthwhile in itself.
 
 <!-- QUOTE_END -->
 
