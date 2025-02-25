@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> Life is to be fortified by many friendships. To love, and to be loved, is the greatest happiness of existence.
+> Failure will never overtake me if my determination to succeed is strong enough.
 
 <!-- QUOTE_END -->
 
