@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> The pain of parting is nothing to the joy of meeting again.
+> Life is much more successfully looked at from a single window.
 
 <!-- QUOTE_END -->
 
