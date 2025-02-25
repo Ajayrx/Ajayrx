@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> Big people don't make people feel small.
+> Forgive yourself for your faults and your mistakes and move on.
 
 <!-- QUOTE_END -->
 
