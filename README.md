@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 📜 **Quote of the Moment:**
 
-> Sorrow is how we learn to love.
+> We suffer more often in imagination than in reality.
 
 <!-- QUOTE_END -->
 
