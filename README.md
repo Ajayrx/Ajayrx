@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 📜 **Quote of the Moment:**
 
-> Whenever people agree with me I always feel I must be wrong.
+> When it comes to mastering a skill, time is the magic ingredient.
 
 <!-- QUOTE_END -->
 
