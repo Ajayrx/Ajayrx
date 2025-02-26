@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 📜 **Quote of the Moment:**
 
-> We suffer more often in imagination than in reality.
+> Life is the art of drawing sufficient conclusions from insufficient premises.
 
 <!-- QUOTE_END -->
 
