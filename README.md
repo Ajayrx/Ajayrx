@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 📜 **Quote of the Moment:**
 
-> I admire those who do good and expect nothing in return.
+> Attitude is a little thing that makes a big difference.
 
 <!-- QUOTE_END -->
 
