@@ -63,10 +63,10 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 <br>
 
 <!-- QUOTE_START -->
-<img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment%20💚-6B93FC" height="30">
-<!-- 📜 **Quote of the Moment:** -->
 
-> Many a man has failed because he had his wishbone where his backbone should have been.
+📜 **Quote of the Moment:**
+
+> You live by what you thrill to, and there's the end of it.
 
 <!-- QUOTE_END -->
 
