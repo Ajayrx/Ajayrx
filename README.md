@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 📜 **Quote of the Moment:**
 
-> The most difficult times for many of us are the ones we give ourselves.
+> Science can flourish only in an atmosphere of free speech. 
 
 <!-- QUOTE_END -->
 
