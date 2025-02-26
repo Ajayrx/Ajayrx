@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 📜 **Quote of the Moment:**
 
-> When it comes to mastering a skill, time is the magic ingredient.
+> Everything that is done in the world is done by hope.
 
 <!-- QUOTE_END -->
 
