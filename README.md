@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> What you are afraid of is never as bad as what you imagine. The fear you let build up in your mind is worse than the situation that actually exists.
+> Every day is lost in which we do not learn something useful. Man has no nobler or more valuable possession than time.
 
 <!-- QUOTE_END -->
 
