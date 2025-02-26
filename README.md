@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 📜 **Quote of the Moment:**
 
-> Science can flourish only in an atmosphere of free speech. 
+> Take time like the river that never grows stale. Keep going and steady. No hurry, no rush.
 
 <!-- QUOTE_END -->
 
