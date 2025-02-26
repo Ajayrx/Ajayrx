@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 📜 **Quote of the Moment:**
 
-> The only person you should try to be better than is the person you were yesterday.
+> Faults are yours to fix, not to curse.
 
 <!-- QUOTE_END -->
 
