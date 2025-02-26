@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 📜 **Quote of the Moment:**
 
-> When you stop questioning, you stop learning.
+> I admire those who do good and expect nothing in return.
 
 <!-- QUOTE_END -->
 
