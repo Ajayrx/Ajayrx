@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> It is passion that makes man live; wisdom makes one only last.
+> The first man gets the oyster, the second man gets the shell.
 
 <!-- QUOTE_END -->
 
