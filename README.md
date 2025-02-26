@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> The less you want, the richer you are. The more you need in order to be happy, the more miserable you'll be.
+> The meaning of life is that it stops.
 
 <!-- QUOTE_END -->
 
