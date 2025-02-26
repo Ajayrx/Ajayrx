@@ -1,22 +1,26 @@
 
 <h1 style="text-align: center;">                  
     <span>  
+        <div>
         <img src="https://img.shields.io/badge/If%20You%20See%20This,%20You’ve%20Already%20Found%20Him%20💀-5865F2" height="30" />
-        <img src="https://img.shields.io/badge/Owner%20Ajay%20Bala%20✨-FF2F2F" height="30" />
-        <img src="https://img.shields.io/badge/Root%20Access%20Granted-FFFFFF" height="30" />
-        <img src="https://img.shields.io/badge/%20Error%20404%20Limits%20Not%20Found-FF2F2F" height="30" />
-        <img src="https://img.shields.io/badge/%20%20-FF2F2F" height="30" />
+<!--         <img src="https://img.shields.io/badge/Ajay%20Bala-47E43A" height="30" /> -->
+        <img src="https://img.shields.io/badge/Built%20With%20🤍-FE208A"" height="30"/>
+        </div> 
+<!--         <img src="https://img.shields.io/badge/Root%20Access%20Granted-FFFFFF" height="30" />  -->
+<!--         <img src="https://img.shields.io/badge/%20Error%20404%20Limits%20Not%20Found-FF2F2F" height="30" />  -->
+<!--         <img src="https://img.shields.io/badge/%20%20-FF2F2F" height="30" />
         <img src="https://img.shields.io/badge/%20%20-FFFFFF" height="30" />
         <img src="https://img.shields.io/badge/%20%20-FF2F2F" height="30" />
         <img src="https://img.shields.io/badge/%20%20-FFFFFF" height="30" />
         <img src="https://img.shields.io/badge/%20%20-FF2F2F" height="30" />
-        <img src="https://img.shields.io/badge/%20%20-FFFFFF" height="30" />
-        <img src="https://img.shields.io/badge/Powered%20By%20Electricity-47E43A" height="30" />
+        <img src="https://img.shields.io/badge/%20%20-FFFFFF" height="30" /> -->
+<!--         <img src="https://img.shields.io/badge/Powered%20By%20Electricity-47E43A" height="30" /> -->
+        <div>
         <a href="https://discord.gg/C7vCuVYAzx" target="_blank">
           <img src="https://img.shields.io/badge/Click%20to%20Join-My%20Github%20Community-35CFF8" height="30" />
         </a>
-        <img src="https://img.shields.io/badge/Built%20With%20🤍-FE208A"" height="30"/>
         <img src="https://visitor-badge.laobi.icu/badge?page_id=Ajayrx.Ajayrx&color=%2300FF00" height="30">
+        </div>
 </h1>
 
 <a href='https://www.linkedin.com/in/ajay-bala-849841230' target="_blank">
@@ -46,7 +50,7 @@
     <br>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=FF2F2F&width=435&lines=Nice+to+e-meet+you!;Streaming+Soon%3F+Let's+Connect!;Check+Out+My+Content+%F0%9F%A7%A1" alt="Typing SVG" /></a>
 </div>
-<p><b>Passionate developer with expertise in Java, Python, C, and Web Development. Over 1 year of experience as a Minecraft Server Developer, creating innovative mods and solutions.
+<p><b>Hey there! I'm Ajay Bala, a passionate developer skilled in Java, Python, C, and Web Development. Over 1 year of experience as a Minecraft Server Developer, creating innovative mods and solutions.
     <br>
     <br>
 Now that we have that out of the way, let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="20" />
@@ -54,15 +58,15 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 * 👨‍🎓 B.Tech CSE Student at BPUT University.
 * 🦸‍♂️ Tackling Cyber Scams with AI! 
 * 🎮 Minecraft enthusiast & Gta Mods.
-* 🎨 Art and adventure🧳.
-* 💪 Dm me for collaboration & open source. </b></p>
+* 🎨 Passionate about art & adventure.
+* 🤝 Open to collaboration and open-source contributions. </b></p>
 <br>
 
 <!-- QUOTE_START -->
+<img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment%20💚-6B93FC" height="30">
+<!-- 📜 **Quote of the Moment:** -->
 
-📜 **Quote of the Moment:**
-
-> Believe in yourself! Have faith in your abilities! Without a humble but reasonable confidence in your own powers you cannot be successful or happy.
+> Many a man has failed because he had his wishbone where his backbone should have been.
 
 <!-- QUOTE_END -->
 
@@ -71,7 +75,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
   <img src="DevAi/banner-ajay.gif" height="200px" alt="vscode logo"  />
 </div>
 <br>
-<img src="https://img.shields.io/badge/🛠️%20Tools%20and%20Weapons%20Used%20⚙️-4F61FF" height="30">
+<img src="https://img.shields.io/badge/🛠️%20Tools%20and%20Technologies%20Used%20⚙️-4F61FF" height="30">
 <br>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50px" alt="vscode logo"  />
