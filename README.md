@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 📜 **Quote of the Moment:**
 
-> Don't be afraid of enemies who attack you. Be afraid of the friends who flatter you.
+> Do not look upon this world with fear and loathing. Bravely face whatever the gods offer.
 
 <!-- QUOTE_END -->
 
