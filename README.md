@@ -48,12 +48,12 @@
 
 <div>
     <br>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=FF2F2F&width=435&lines=Nice+to+e-meet+you!;Streaming+Soon%3F+Let's+Connect!;Check+Out+My+Content+%F0%9F%A7%A1" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=6AFF6C&width=435&lines=Nice+to+e-meet+you!;Welcome+to+my+GitHub+space!+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Check+Out+My+Content+%F0%9F%A7%A1" alt="Typing SVG" /></a>
 </div>
 <p><b>Hey there! I'm Ajay Bala, a passionate developer skilled in Java, Python, C, and Web Development. Over 1 year of experience as a Minecraft Server Developer, creating innovative mods and solutions.
     <br>
     <br>
-Now that we have that out of the way, let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="20" />
+Enough about the code, here’s the person behind it <img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="20" />
 
 * 👨‍🎓 B.Tech CSE Student at BPUT University.
 * 🦸‍♂️ Tackling Cyber Scams with AI! 
@@ -75,7 +75,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
   <img src="DevAi/banner-ajay.gif" height="200px" alt="vscode logo"  />
 </div>
 <br>
-<img src="https://img.shields.io/badge/🛠️%20Tools%20and%20Technologies%20Used%20⚙️-4F61FF" height="30">
+<img src="https://img.shields.io/badge/🛠️%20Tools%20and%20Technologies%20Used-4F61FF" height="30">
 <br>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50px" alt="vscode logo"  />
@@ -145,8 +145,8 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
         <img class="avatar" src="https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y" width="35" height="35" alt="Default Avatar" />
         <img class="avatar" src="https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y" width="35" height="35" alt="Default Avatar" />
         <img class="avatar" src="https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y" width="35" height="35" alt="Default Avatar" />
-        <img class="avatar" src="https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y" width="35" height="35" alt="Default Avatar" />
-        <img class="avatar" src="https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y" width="35" height="35" alt="Default Avatar" />
+<!--         <img class="avatar" src="https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y" width="35" height="35" alt="Default Avatar" />
+        <img class="avatar" src="https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y" width="35" height="35" alt="Default Avatar" /> -->
     </section>
 </div>
             </section>
