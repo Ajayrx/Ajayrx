@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> We are like islands in the sea, separate on the surface but connected in the deep.
+> If you are ever the smartest person in the room, you are in the wrong room.
 
 <!-- QUOTE_END -->
 
