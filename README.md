@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> Every day is lost in which we do not learn something useful. Man has no nobler or more valuable possession than time.
+> What would life be if we had no courage to attempt anything? 
 
 <!-- QUOTE_END -->
 
