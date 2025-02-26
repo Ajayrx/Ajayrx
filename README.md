@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> The content of your character is your choice. Day by day, what you choose, what you think and what you do is who you become.
+> Many a man has failed because he had his wishbone where his backbone should have been.
 
 <!-- QUOTE_END -->
 
