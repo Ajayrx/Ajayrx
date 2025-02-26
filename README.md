@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> What would life be if we had no courage to attempt anything? 
+> It's not what happens to you, but how you react to it that matters.
 
 <!-- QUOTE_END -->
 
