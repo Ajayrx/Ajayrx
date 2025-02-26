@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 📜 **Quote of the Moment:**
 
-> A wise person should have money in their head, but not in their heart.
+> When you stop questioning, you stop learning.
 
 <!-- QUOTE_END -->
 
