@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 📜 **Quote of the Moment:**
 
-> You live by what you thrill to, and there's the end of it.
+> The most difficult times for many of us are the ones we give ourselves.
 
 <!-- QUOTE_END -->
 
