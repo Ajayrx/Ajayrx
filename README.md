@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> Happiness depends upon ourselves.
+> The content of your character is your choice. Day by day, what you choose, what you think and what you do is who you become.
 
 <!-- QUOTE_END -->
 
