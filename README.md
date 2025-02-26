@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> I am not what happened to me, I am what I choose to become.
+> Happiness depends upon ourselves.
 
 <!-- QUOTE_END -->
 
