@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 📜 **Quote of the Moment:**
 
-> Faults are yours to fix, not to curse.
+> Success is not to be pursued, it is to be attracted by the person you become.
 
 <!-- QUOTE_END -->
 
