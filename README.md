@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> The first man gets the oyster, the second man gets the shell.
+> Live as if you were to die tomorrow. Learn as if you were to live forever.
 
 <!-- QUOTE_END -->
 
