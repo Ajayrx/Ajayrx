@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> If you are ever the smartest person in the room, you are in the wrong room.
+> Continuous effort - not strength or intelligence - is the key to unlocking our potential.
 
 <!-- QUOTE_END -->
 
