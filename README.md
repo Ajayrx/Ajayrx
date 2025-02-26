@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> It's not what happens to you, but how you react to it that matters.
+> Happiness is a quality of the soul...not a function of one's material circumstances.
 
 <!-- QUOTE_END -->
 
