@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 📜 **Quote of the Moment:**
 
-> Success is not to be pursued, it is to be attracted by the person you become.
+> Don't be afraid of enemies who attack you. Be afraid of the friends who flatter you.
 
 <!-- QUOTE_END -->
 
