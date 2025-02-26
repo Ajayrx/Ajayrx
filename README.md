@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 📜 **Quote of the Moment:**
 
-> Take time like the river that never grows stale. Keep going and steady. No hurry, no rush.
+> Whenever people agree with me I always feel I must be wrong.
 
 <!-- QUOTE_END -->
 
