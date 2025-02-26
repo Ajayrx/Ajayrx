@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> Blessed is he who expects nothing, for he shall never be disappointed.
+> What you are afraid of is never as bad as what you imagine. The fear you let build up in your mind is worse than the situation that actually exists.
 
 <!-- QUOTE_END -->
 
