@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 📜 **Quote of the Moment:**
 
-> Do not look upon this world with fear and loathing. Bravely face whatever the gods offer.
+> Sorrow is how we learn to love.
 
 <!-- QUOTE_END -->
 
