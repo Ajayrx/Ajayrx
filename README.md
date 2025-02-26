@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> Happiness is a quality of the soul...not a function of one's material circumstances.
+> Not everything that weighs you down is yours to carry.
 
 <!-- QUOTE_END -->
 
