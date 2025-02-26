@@ -62,7 +62,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 📜 **Quote of the Moment:**
 
-> Not everything that weighs you down is yours to carry.
+> We are like islands in the sea, separate on the surface but connected in the deep.
 
 <!-- QUOTE_END -->
 
