@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 📜 **Quote of the Moment:**
 
-> When you rise in the morning, form a resolution to make the day a happy one for a fellow creature.
+> Creativity is the greatest rebellion in existence.
 
 <!-- QUOTE_END -->
 
