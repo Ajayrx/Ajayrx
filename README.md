@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 📜 **Quote of the Moment:**
 
-> Where you are right now doesn't have to determine where you'll end up.
+> When you are content to be simply yourself and don't compare or compete, everybody will respect you. 
 
 <!-- QUOTE_END -->
 
