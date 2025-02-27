@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 📜 **Quote of the Moment:**
 
-> It's the unknown we fear when we look upon death and darkness, nothing more.
+> Happiness is a choice, not a result. Nothing will make you happy until you choose to be happy.
 
 <!-- QUOTE_END -->
 
