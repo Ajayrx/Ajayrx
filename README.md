@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 📜 **Quote of the Moment:**
 
-> A flower falls, even though we love it; and a weed grows, even though we do not love it.
+> The way to change others' minds is with affection, and not anger.
 
 <!-- QUOTE_END -->
 
