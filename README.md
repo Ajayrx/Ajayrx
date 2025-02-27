@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 📜 **Quote of the Moment:**
 
-> Older men declare war. But it is youth that must fight and die.
+> When you rise in the morning, form a resolution to make the day a happy one for a fellow creature.
 
 <!-- QUOTE_END -->
 
