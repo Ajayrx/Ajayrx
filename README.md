@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 📜 **Quote of the Moment:**
 
-> Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence. 
+> Where you are right now doesn't have to determine where you'll end up.
 
 <!-- QUOTE_END -->
 
