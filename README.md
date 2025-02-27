@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Reflect upon your present blessings of which every man has many - not on your past misfortunes, of which all men have some.
+> You just can't beat the person who never gives up. 
 
 <!-- QUOTE_END -->
 
