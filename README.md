@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 📜 **Quote of the Moment:**
 
-> Give so much away people insist on paying you.
+> The less people know, the more stubbornly they know it.
 
 <!-- QUOTE_END -->
 
