@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 📜 **Quote of the Moment:**
 
-> When your intuition is strong, follow it.
+> Give so much away people insist on paying you.
 
 <!-- QUOTE_END -->
 
