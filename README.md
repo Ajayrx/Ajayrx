@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 📜 **Quote of the Moment:**
 
-> The less people know, the more stubbornly they know it.
+> Believe and you're halfway there.
 
 <!-- QUOTE_END -->
 
