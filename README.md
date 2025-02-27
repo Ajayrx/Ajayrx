@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 📜 **Quote of the Moment:**
 
-> Each time we don't say what we wanna say, we're dying.
+> So we beat on, boats against the current, borne back ceaselessly into the past.
 
 <!-- QUOTE_END -->
 
