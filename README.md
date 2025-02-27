@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 📜 **Quote of the Moment:**
 
-> The way to change others' minds is with affection, and not anger.
+> Always be a first rate version of yourself and not a second rate version of someone else.
 
 <!-- QUOTE_END -->
 
