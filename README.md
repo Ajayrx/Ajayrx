@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 📜 **Quote of the Moment:**
 
-> When you are content to be simply yourself and don't compare or compete, everybody will respect you. 
+> In order for you to be the BEST you can be for others, first you must be BEST for yourself.
 
 <!-- QUOTE_END -->
 
