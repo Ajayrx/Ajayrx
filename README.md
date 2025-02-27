@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 📜 **Quote of the Moment:**
 
-> Creativity is the greatest rebellion in existence.
+> Be strong. Be confident. Be the star of your own life.
 
 <!-- QUOTE_END -->
 
