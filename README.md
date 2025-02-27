@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 📜 **Quote of the Moment:**
 
-> Attitude is a little thing that makes a big difference.
+> Older men declare war. But it is youth that must fight and die.
 
 <!-- QUOTE_END -->
 
