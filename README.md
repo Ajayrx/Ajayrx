@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Whatever is begun in anger, ends in shame.
+> The ladder of success is best climbed by stepping on the rungs of opportunity.
 
 <!-- QUOTE_END -->
 
