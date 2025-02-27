@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 📜 **Quote of the Moment:**
 
-> So we beat on, boats against the current, borne back ceaselessly into the past.
+> Even if you persuade me, you won't persuade me.
 
 <!-- QUOTE_END -->
 
