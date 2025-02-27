@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 📜 **Quote of the Moment:**
 
-> Even if you persuade me, you won't persuade me.
+> Perpetual optimism is a force multiplier.
 
 <!-- QUOTE_END -->
 
