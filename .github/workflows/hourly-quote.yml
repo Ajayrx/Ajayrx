@@ -1,4 +1,4 @@
-name: Quotes Every 10 Minutes
+name: Quotes Every 30 Minutes
 
 on:
   schedule:
@@ -30,10 +30,10 @@ jobs:
       
           # Ensure README.md is updated correctly
           sed -i '/<!-- QUOTE_START -->/,/<!-- QUOTE_END -->/c\
-          <!-- QUOTE_START -->\n\n📜 **Quote of the Moment:**\n\n> '"$QUOTE"'\n\n<!-- QUOTE_END -->' README.md
+          <!-- QUOTE_START -->\n\n<img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE\n\n> '"$QUOTE"'\n\n<!-- QUOTE_END -->' README.md
 
           # Display updated README content for debugging
-          grep -A 2 "📜 **Quote of the Moment**" README.md | tee debug.log
+          grep -A 2 "<img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>" README.md | tee debug.log
 
       - name: Commit and push changes
         run: |
@@ -52,7 +52,7 @@ jobs:
           # git add last_update.txt 
     
           GIT_COMMITTER_NAME="Ajayrx" GIT_COMMITTER_EMAIL="137894866+Ajayrx@users.noreply.github.com" \
-          git commit -m "Update quote and timestamp" --author="Ajayrx <137894866+Ajayrx@users.noreply.github.com>"
+          git commit -m "Updated quote of the moment" --author="Ajayrx <137894866+Ajayrx@users.noreply.github.com>"
 
           git push --force
 
