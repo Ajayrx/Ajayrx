@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 📜 **Quote of the Moment:**
 
-> Perpetual optimism is a force multiplier.
+> It's the unknown we fear when we look upon death and darkness, nothing more.
 
 <!-- QUOTE_END -->
 
