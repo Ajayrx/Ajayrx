@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 📜 **Quote of the Moment:**
 
-> Always be a first rate version of yourself and not a second rate version of someone else.
+> Even in the grave, all is not lost.
 
 <!-- QUOTE_END -->
 
