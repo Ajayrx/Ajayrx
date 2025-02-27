@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 📜 **Quote of the Moment:**
 
-> Believe and you're halfway there.
+> A flower falls, even though we love it; and a weed grows, even though we do not love it.
 
 <!-- QUOTE_END -->
 
