@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 📜 **Quote of the Moment:**
 
-> Be strong. Be confident. Be the star of your own life.
+> Each time we don't say what we wanna say, we're dying.
 
 <!-- QUOTE_END -->
 
