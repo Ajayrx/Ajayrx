@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Sometimes you put walls up not to keep people out, but to see who cares enough to break them down.
+> There is no path to Happiness. Happiness is the path.
 
 <!-- QUOTE_END -->
 
