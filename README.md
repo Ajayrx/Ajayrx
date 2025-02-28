@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Start the day with love, spend the day with love, fill the day with love and end the day with love.
+> We must embrace pain and burn it as fuel for our journey.
 
 <!-- QUOTE_END -->
 
