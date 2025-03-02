@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Success comes from knowing that you did your best to become the best that you are capable of becoming.
+> Everything around us is made up of energy. To attract positive things in your life, start by giving off positive energy.
 
 <!-- QUOTE_END -->
 
