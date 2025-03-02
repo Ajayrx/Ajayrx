@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Don't be afraid to see what you see.
+> Music is like creating an emotional painting. The sounds are the colors.
 
 <!-- QUOTE_END -->
 
