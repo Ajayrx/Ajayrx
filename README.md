@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> The art of being happy lies in the power of extracting happiness from common things.
+> Your problem isn't the problem. Your reaction is the problem.
 
 <!-- QUOTE_END -->
 
