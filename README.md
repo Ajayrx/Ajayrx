@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> The key to immortality is first living a life worth remembering. 
+> You don't earn loyalty in a day. You earn loyalty day-by-day.
 
 <!-- QUOTE_END -->
 
