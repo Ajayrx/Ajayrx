@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Happiness is a quality of the soul...not a function of one's material circumstances.
+> When you love someone, you love the person as they are, and not as you'd like them to be.
 
 <!-- QUOTE_END -->
 
