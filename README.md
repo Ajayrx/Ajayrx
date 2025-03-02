@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Formal education will make you a living, self-education will make you a fortune.
+> Intense love does not measure, it just gives.
 
 <!-- QUOTE_END -->
 
