@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Believe in one thing too much and you have no room for new ideas.  
+> Death smiles at us all. All we can do is smile back.
 
 <!-- QUOTE_END -->
 
