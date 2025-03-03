@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> A mistake is only an error, it becomes a mistake when you fail to correct it.
+> The first rule of handling conflict is don't hang around people who are constantly engaging in conflict.
 
 <!-- QUOTE_END -->
 
