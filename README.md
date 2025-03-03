@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Try all things, hold fast that which is good.
+> The older you get the stronger the wind gets - and it's always in your face.
 
 <!-- QUOTE_END -->
 
