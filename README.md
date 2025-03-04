@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Without struggle, no progress and no result. Every breaking of habit produces a change in the machine.
+> Keep away from people who try to belittle your ambitions.
 
 <!-- QUOTE_END -->
 
