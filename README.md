@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> If you go out looking for friends, you're going to find they are very scarce. If you go out to be a friend, you'll find them everywhere.
+> No snowflake ever falls in the wrong place.
 
 <!-- QUOTE_END -->
 
