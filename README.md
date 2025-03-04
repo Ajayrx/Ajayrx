@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> She who loves roses must be patient and not cry out when she is pierced by thorns.
+> Our greatest glory is not in never falling, but in rising every time we fall. 
 
 <!-- QUOTE_END -->
 
