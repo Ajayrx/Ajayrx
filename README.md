@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> You're never given a dream without also being given the power to make it true.
+> Avoiding danger is no safer in the long run than exposure.
 
 <!-- QUOTE_END -->
 
