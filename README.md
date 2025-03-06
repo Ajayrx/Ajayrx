@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> You will have bad times, but they will always wake you up to the stuff you weren't paying attention to.
+> If you want to achieve greatness stop asking for permission.
 
 <!-- QUOTE_END -->
 
