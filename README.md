@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> When we think about our strengths, we are strong. When we think about our weaknesses, we are weak.
+> The key to success is to focus our conscious mind on things we desire not things we fear. 
 
 <!-- QUOTE_END -->
 
