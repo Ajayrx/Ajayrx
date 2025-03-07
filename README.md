@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Among the things you can give and still keep are your word, a smile, and a grateful heart.
+> Find something you love and do it better than everyone else.
 
 <!-- QUOTE_END -->
 
