@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Anger, ego, jealousy are the biggest diseases,Keep yourself aloof from these three diseases.
+> You don't get in life what you want; you get in life what you are.
 
 <!-- QUOTE_END -->
 
