@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> When you are content to be simply yourself and don't compare or compete, everybody will respect you. 
+> Thinking is a habit, and like any other habit, it can be changed; it just takes effort and repetition.
 
 <!-- QUOTE_END -->
 
