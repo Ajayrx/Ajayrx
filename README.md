@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Stop being a prisoner of your past. Become the architect of your future.
+> Today will never happen again. Don't waste it with a false start or no start at all.
 
 <!-- QUOTE_END -->
 
