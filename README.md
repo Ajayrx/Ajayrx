@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> There's a very deep connection among human beings. All we have to do is open our minds to it.
+> The only person you should try to be better than is the person you were yesterday.
 
 <!-- QUOTE_END -->
 
