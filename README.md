@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> If you only knew the magnificence of the 3, 6, and 9, then you would have a key to the universe.
+> Peace is letting it be. Letting life flow, letting emotions flow through you.
 
 <!-- QUOTE_END -->
 
