@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> No great mind has ever existed without a touch of madness.
+> It is easy to love your friend, but sometimes the hardest lesson to learn is to love your enemy.
 
 <!-- QUOTE_END -->
 
