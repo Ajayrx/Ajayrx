@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> You have within you right now, everything you need to deal with whatever the world can throw at you.
+> I hear and I forget. I see and I remember. I do and I understand. 
 
 <!-- QUOTE_END -->
 
