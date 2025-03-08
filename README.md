@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Be content with what you have, rejoice in the way things are. When you realize there is nothing lacking, the whole world belongs to you.
+> The goal of an artist is to create the definitive work that cannot be surpassed.
 
 <!-- QUOTE_END -->
 
