@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> May you find grace as you surrender to life. May you find happiness, as you stop seeking it.
+> The chief cause of failure and unhappiness is trading what you want most for what you want right now.
 
 <!-- QUOTE_END -->
 
