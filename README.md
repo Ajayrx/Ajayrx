@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> A little impatience will spoil great plans.
+> The size of your success is measured by the strength of your desire; the size of your dream; and how you handle disappointment along the way.
 
 <!-- QUOTE_END -->
 
