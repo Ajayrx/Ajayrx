@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Understanding that rests in what it does not understand is the finest.
+> He that can have patience can have what he will.
 
 <!-- QUOTE_END -->
 
