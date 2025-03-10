@@ -59,7 +59,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 * 🦸‍♂️ Crafting websites & building the web.
 * 🎮 Love for Minecraft.
 * 🎨 Art & adventure.
-* 🤝 Open to collaborations & exploring open-source contributions. </b></p>
+* 🤝 Exploring open-source contributions. </b></p>
 <br>
 
 <!-- QUOTE_START -->
