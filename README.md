@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> We are willing to believe anything other than the truth.
+> Every day do something that will inch you closer to a better tomorrow.
 
 <!-- QUOTE_END -->
 
