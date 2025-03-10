@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> One of the most difficult things is not to change society - but to change yourself.
+> Fear not the path of Truth for the lack of People walking on it.
 
 <!-- QUOTE_END -->
 
