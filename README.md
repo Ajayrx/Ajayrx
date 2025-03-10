@@ -50,16 +50,16 @@
     <br>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=6AFF6C&width=435&lines=Nice+to+e-meet+you!;Welcome+to+my+GitHub+space!+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Check+Out+My+Content+%F0%9F%A7%A1" alt="Typing SVG" /></a>
 </div>
-<p><b>Hey there! I'm Ajay Bala, a passionate developer skilled in Java, Python, C, and Web Development. Over 1 year of experience as a Minecraft Server Developer, creating innovative mods and solutions.
+<p><b>Hey there! I'm Ajay Bala, a creative developer skilled in Java, Python, C, and Web Development. Over 1 year of experience as a Minecraft Server Developer, creating innovative mods and solutions.
     <br>
     <br>
 Enough about the code, here’s the person behind it <img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="20" />
 
 * 👨‍🎓 B.Tech CSE Student at BPUT University.
-* 🦸‍♂️ Tackling Cyber Scams with AI! 
-* 🎮 Minecraft enthusiast & Gta Mods.
-* 🎨 Passionate about art & adventure.
-* 🤝 Open to collaboration and open-source contributions. </b></p>
+* 🦸‍♂️ Crafting websites & building the web.
+* 🎮 Love for Minecraft.
+* 🎨 Art & adventure.
+* 🤝 Open to collaborations & exploring open-source contributions. </b></p>
 <br>
 
 <!-- QUOTE_START -->
@@ -98,7 +98,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
   <img width="21" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="50px" alt="anaconda logo"  />
   <img width="21" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="50px" alt="copied by ajay from devicon lol" />          
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="50px" alt="copied by ajay from devicon lol" />           -->
 </div>
 
 
