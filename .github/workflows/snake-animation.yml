@@ -2,8 +2,12 @@ name: Generate-README.md-snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # execute every 12 hours
-  workflow_dispatch: # allows to manually run the job at any time
+    - cron: "0 */4 * * *" # execute every 4 hours
+  workflow_run:
+    workflows: ["Your-Quote-Update-Workflow-Name"] # Runs after quote update workflow
+    types:
+      - completed
+  workflow_dispatch: # allows manual trigger
 
 jobs:
   generate:
