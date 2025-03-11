@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Before you can see the Light, you have to deal with the darkness.
+> Trust is the foundation of great leadership.
 
 <!-- QUOTE_END -->
 
