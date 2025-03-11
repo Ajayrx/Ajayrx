@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Let my soul smile through my heart and my heart smile through my eyes, that I may scatter rich smiles in sad hearts. 
+> When something comes from within, when it is a part of you, you have no choice but to live it, to express it.
 
 <!-- QUOTE_END -->
 
