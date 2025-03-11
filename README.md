@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> If you can change your mind, you can change your life.
+> There is no one giant step that does it. It's a lot of little steps.
 
 <!-- QUOTE_END -->
 
