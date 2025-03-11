@@ -116,8 +116,12 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 </div>
  
 <div align="left"> 
-    <img src="https://raw.githubusercontent.com/Ajayrx/Ajayrx/output/snake.svg" alt="Snake animation" height="200"/>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ajayrx/Ajayrx/output/snake-dark.svg">
+        <img src="https://raw.githubusercontent.com/Ajayrx/Ajayrx/output/snake.svg" alt="Snake animation" height="200"/>
+    </picture>
 </div>
+
 
 
 <div align="left">
