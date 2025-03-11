@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> When you change what you believe, you change what you do.
+> Give me six hours to chop down a tree and I will spend the first four sharpening the axe.
 
 <!-- QUOTE_END -->
 
