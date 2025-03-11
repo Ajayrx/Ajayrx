@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Riches don't make a man rich, they only make him busier.
+> Concentrated power has always been the enemy of liberty.
 
 <!-- QUOTE_END -->
 
