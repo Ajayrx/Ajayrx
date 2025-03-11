@@ -2,12 +2,12 @@ name: unplayable Snake Game
 
 on:
   schedule:
-    - cron: "0 */4 * * *"
+    - cron: "0 */4 * * *"  
 
-  workflow_dispatch:
+  workflow_dispatch:  
   push:
     branches:
-      - master
+      - master  
 
 jobs:
   generate:
@@ -20,15 +20,10 @@ jobs:
 
       - name: Generate GitHub Contributions Snake Animations
         uses: Platane/snk@v3
-
         with:
-          github_user_name: ${{ github.repository_owner }}
-
+          github_user_name: "AJayrx"
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-
+            dist/snake.svg
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
@@ -38,5 +33,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
           publish_branch: output
-
           commit_message: "Update snake animation"
