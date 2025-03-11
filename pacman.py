@@ -1,68 +1,45 @@
 import os
-import svgwrite
+
+SVG_CONTENT = """<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="800" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+    <rect width="100%" height="100%" fill="black"/>
+
+    <!-- Pac-Man -->
+    <g id="pacman" transform="translate(50,100)">
+        <circle r="20" fill="yellow"/>
+        <polygon points="0,0 20,-10 20,10" fill="black"/>
+        <animateTransform attributeName="transform" type="translate"
+                          from="50,100" to="750,100" dur="5s" repeatCount="indefinite"/>
+    </g>
+
+    <!-- Ghost -->
+    <g id="ghost" transform="translate(700,100)">
+        <circle r="18" fill="purple"/>
+        <circle cx="-5" cy="-5" r="5" fill="white"/>
+        <circle cx="5" cy="-5" r="5" fill="white"/>
+        <animateTransform attributeName="transform" type="translate"
+                          from="700,100" to="0,100" dur="5s" repeatCount="indefinite"/>
+    </g>
+
+    <!-- Dots (GitHub Contributions) -->
+    {}
+</svg>"""
 
 def generate_pacman_svg():
-    # Ensure the 'dist' directory exists
     os.makedirs("dist", exist_ok=True)
-    
-    # Create SVG canvas
-    dwg = svgwrite.Drawing("dist/pacman.svg", profile="tiny", size=(800, 200))
-    
-    # Background
-    dwg.add(dwg.rect(insert=(0, 0), size=("100%", "100%"), fill="black"))
-    
-    # Pac-Man (yellow circle with mouth)
-    pacman = dwg.add(dwg.g(id="pacman"))
-    pacman.add(dwg.circle(center=(50, 100), r=20, fill="yellow"))
-    pacman.add(dwg.polygon(points=[(50, 100), (70, 90), (70, 110)], fill="black"))  # Mouth
-    
-    # Animate Pac-Man moving forward
-    pacman.add(dwg.animateTransform(
-        attributeName="transform",
-        attributeType="XML",
-        type="translate",
-        from_="0,0",
-        to="200,0",
-        begin="0s",
-        dur="2s",
-        repeatCount="indefinite"
-    ))
-    
-    # Ghost (Purple with eyes)
-    ghost = dwg.add(dwg.g(id="ghost"))
-    ghost.add(dwg.circle(center=(150, 100), r=18, fill="purple"))
-    ghost.add(dwg.circle(center=(145, 95), r=5, fill="white"))
-    ghost.add(dwg.circle(center=(155, 95), r=5, fill="white"))
-    
-    # Animate Ghost chasing Pac-Man (delayed start)
-    ghost.add(dwg.animateTransform(
-        attributeName="transform",
-        attributeType="XML",
-        type="translate",
-        from_="0,0",
-        to="180,0",
-        begin="0.5s",  # Delayed start
-        dur="2s",
-        repeatCount="indefinite"
-    ))
-    
-    # Commits (dots that disappear as Pac-Man eats them)
-    for i in range(5):
-        dot = dwg.circle(center=(80 + i * 40, 100), r=5, fill="white")
-        dot.add(dwg.animate(
-            attributeName="opacity",
-            attributeType="XML",
-            from_="1",
-            to_="0",
-            begin=f"{i * 0.4}s",
-            dur="0.2s",
-            fill="freeze"
-        ))
-        dwg.add(dot)
-    
-    # Save SVG file
-    dwg.save()
-    print("✅ Pac-Man SVG successfully generated in dist/pacman.svg")
 
-# Run function
+    dots = ""
+    for i in range(10):  # 10 "commits"
+        x = 100 + i * 60
+        dots += f'<circle cx="{x}" cy="100" r="5" fill="white">\n'
+        dots += f'  <animate attributeName="opacity" from="1" to="0" begin="{i * 0.4}s" dur="0.2s" fill="freeze"/>\n'
+        dots += '</circle>\n'
+
+    # Save SVG file
+    with open("dist/pacman.svg", "w") as f:
+        f.write(SVG_CONTENT.format(dots))
+
+    print("✅ Pac-Man contribution SVG successfully generated!")
+
+# Run the function
 generate_pacman_svg()

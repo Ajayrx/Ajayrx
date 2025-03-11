@@ -1,4 +1,4 @@
-name: Generate Pac-Man Animation
+name: Generate Pac-Man Contribution Animation
 
 on:
   schedule:
@@ -17,39 +17,13 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Cache dependencies
-        uses: actions/cache@v3
-        with:
-          path: ~/.cache/pip
-          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
-          restore-keys: |
-            ${{ runner.os }}-pip-
-
-      - name: Install dependencies
-        run: pip install svgwrite
-
       - name: Generate Pac-Man SVG
         run: python pacman.py
 
-      - name: Ensure dist directory exists
-        run: mkdir -p dist
-
-      - name: List dist directory contents
-        run: ls -la dist
-
-      - name: Verify SVG file
-        run: |
-          if [ ! -f dist/pacman.svg ]; then
-            echo "❌ SVG file not found!"
-            exit 1
-          else
-            echo "✅ SVG file exists."
-          fi
-
-      - name: Deploy to Output Branch
+      - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
           publish_branch: output
-          commit_message: "🚀 Update Pac-Man animation"
+          commit_message: "Update Pac-Man animation"
