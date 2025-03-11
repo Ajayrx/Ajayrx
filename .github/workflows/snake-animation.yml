@@ -1,24 +1,42 @@
-name: Generate-README.md-snake
+name: unplayable Snake Game
 
 on:
   schedule:
-    - cron: "0 */4 * * *" # execute every 4 hours
-  workflow_run:
-    workflows: ["Your-Quote-Update-Workflow-Name"] # Runs after quote update workflow
-    types:
-      - completed
-  workflow_dispatch: # allows manual trigger
+    - cron: "0 */4 * * *"
+
+  workflow_dispatch:
+  push:
+    branches:
+      - main
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
+
     steps:
-      - name: Generate snake game
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Generate GitHub Contributions Snake Animations
         uses: Platane/snk@v3
+
         with:
-          github_user_name: ${{ github.repository_owner }} # required
+          github_user_name: ${{ github.repository_owner }}
+
           outputs: |
-            dist/github-snake.svg?color_snake=red
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=red
-            dist/ocean.gif?color_snake=red&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Deploy to Output Branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
+
+          commit_message: "Update snake animation"
