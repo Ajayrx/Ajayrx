@@ -4,7 +4,7 @@
         <div>
         <img src="https://img.shields.io/badge/If%20You%20See%20This,%20You’ve%20Already%20Found%20Him%20💀-5865F2" height="30" />
 <!--         <img src="https://img.shields.io/badge/Ajay%20Bala-47E43A" height="30" /> -->
-        <img src="https://img.shields.io/badge/Built%20With%20🤍-FE208A"" height="30"/>
+        <img src="https://img.shields.io/badge/Built%20With%20🤍-CA5BFF"" height="30"/>
         </div> 
 <!--         <img src="https://img.shields.io/badge/Root%20Access%20Granted-FFFFFF" height="30" />  -->
 <!--         <img src="https://img.shields.io/badge/%20Error%20404%20Limits%20Not%20Found-FF2F2F" height="30" />  -->
@@ -41,7 +41,7 @@
 <span>
     <img src="https://img.shields.io/badge/About%20Me!%20🫶-53A2FE" height="30"/>
     <a href="https://ajaybala.framer.website" target="_blank">
-        <img src="https://img.shields.io/badge/My%20Portfolio!%20🚀-FF7CBB" height="30"/>
+        <img src="https://img.shields.io/badge/My%20Portfolio!%20🚀-AA97FF" height="30"/>
         <br>
     </a>
 </span>
@@ -106,13 +106,14 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 <div align="left">
     <br>
     <img src="https://img.shields.io/badge/🤍%20Githhub%20Contributions-3B44DC" height="30"/>
-    <img src="https://img.shields.io/badge/2023%20-FFBC00"" height="30"/>
+<!--     <img src="https://img.shields.io/badge/2023%20-FFBC00"" height="30"/>
     <img src="https://img.shields.io/badge/2024-38AE10"" height="30"/>
-    <img src="https://img.shields.io/badge/2025-9800FF"" height="30"/>
+    <img src="https://img.shields.io/badge/2025-9800FF"" height="30"/> -->
     
 <div>
     <br>
-    <img src="https://img.shields.io/badge/Feb&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mar&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Aprl&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;May&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jun&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jul&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Aug&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sept&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Oct&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nov&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dec&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Feb-606666" height="20"/>
+    <img src="https://img.shields.io/badge/Mar&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Apr&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;May&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jun&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jul&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Aug&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sep&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Oct&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nov&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dec&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Feb&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mar-606666" height="20"/>
+
 </div>
  
 <div align="left"> 
