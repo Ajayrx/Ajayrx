@@ -1,4 +1,5 @@
 name: Generate Pac-Man Animation
+
 on:
   schedule:
     - cron: "0 0 * * *"  # Runs daily
@@ -22,6 +23,9 @@ jobs:
       - name: Generate Pac-Man SVG
         run: python pacman.py
 
+      - name: List dist directory contents
+        run: ls -la dist
+
       - name: Verify SVG file
         run: |
           if [ ! -f dist/pacman.svg ]; then
@@ -29,10 +33,10 @@ jobs:
             exit 1
           fi
 
-      - name: Commit and Push
-        run: |
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
-          git add dist/pacman.svg
-          git commit -m "Update Pac-Man animation"
-          git push
+      - name: Deploy to Output Branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
+          commit_message: "Update Pac-Man animation"
