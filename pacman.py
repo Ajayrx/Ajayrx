@@ -21,10 +21,11 @@ def generate_pacman_svg():
         attributeName="transform",
         type="translate",
         from_="0,0",
-        to_="100,0",
+        to="100,0",
         begin="0s",
         dur="2s",
-        repeatCount="indefinite"
+        repeatCount="indefinite",
+        transform="translate"
     ))
     
     # Ghost (Purple with eyes)
@@ -38,10 +39,11 @@ def generate_pacman_svg():
         attributeName="transform",
         type="translate",
         from_="0,0",
-        to_="-100,0",
+        to="-100,0",
         begin="0s",
         dur="2s",
-        repeatCount="indefinite"
+        repeatCount="indefinite",
+        transform="translate"
     ))
     
     # Commits (dots that disappear as Pac-Man eats them)
