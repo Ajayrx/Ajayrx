@@ -157,3 +157,6 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
             </section>
 
 
+<div align="left">
+    <img src="https://raw.githubusercontent.com/AJayrx/AJayrx/output/pacman.svg" alt="Pac-Man Animation" height="200"/>
+</div>

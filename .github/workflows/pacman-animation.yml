@@ -1,0 +1,37 @@
+name: Generate Pac-Man Animation
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"  # Runs every 6 hours
+  workflow_dispatch:
+  push:
+    branches:
+      - main  # Use 'master' if your default branch is named 'master'
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Set Up Python
+        uses: actions/setup-python@v3
+        with:
+          python-version: "3.x"
+
+      - name: Install Dependencies
+        run: pip install svgwrite  # Required for SVG generation
+
+      - name: Generate Pac-Man Animation
+        run: python pacman.py  # Run the script
+
+      - name: Commit and Push Pac-Man SVG
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add dist/pacman.svg
+          git commit -m "Update Pac-Man animation with ghosts" || echo "No changes to commit"
+          git push origin output
