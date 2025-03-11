@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="800" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+    <rect width="100%" height="100%" fill="black"/>
+
+    <!-- Pac-Man -->
+    <g id="pacman" transform="translate(50,100)">
+        <circle r="20" fill="yellow"/>
+        <polygon points="0,0 20,-10 20,10" fill="black"/>
+        <animateTransform attributeName="transform" type="translate"
+                          from="50,100" to="750,100" dur="5s" repeatCount="indefinite"/>
+    </g>
+
+    <!-- Ghost -->
+    <g id="ghost" transform="translate(700,100)">
+        <circle r="18" fill="purple"/>
+        <circle cx="-5" cy="-5" r="5" fill="white"/>
+        <circle cx="5" cy="-5" r="5" fill="white"/>
+        <animateTransform attributeName="transform" type="translate"
+                          from="700,100" to="0,100" dur="5s" repeatCount="indefinite"/>
+    </g>
+
+    <!-- Dots (GitHub Contributions) -->
+    <circle cx="100" cy="100" r="5" fill="white">
+  <animate attributeName="opacity" from="1" to="0" begin="0.0s" dur="0.2s" fill="freeze"/>
+</circle>
+<circle cx="160" cy="100" r="5" fill="white">
+  <animate attributeName="opacity" from="1" to="0" begin="0.4s" dur="0.2s" fill="freeze"/>
+</circle>
+<circle cx="220" cy="100" r="5" fill="white">
+  <animate attributeName="opacity" from="1" to="0" begin="0.8s" dur="0.2s" fill="freeze"/>
+</circle>
+<circle cx="280" cy="100" r="5" fill="white">
+  <animate attributeName="opacity" from="1" to="0" begin="1.2000000000000002s" dur="0.2s" fill="freeze"/>
+</circle>
+<circle cx="340" cy="100" r="5" fill="white">
+  <animate attributeName="opacity" from="1" to="0" begin="1.6s" dur="0.2s" fill="freeze"/>
+</circle>
+<circle cx="400" cy="100" r="5" fill="white">
+  <animate attributeName="opacity" from="1" to="0" begin="2.0s" dur="0.2s" fill="freeze"/>
+</circle>
+<circle cx="460" cy="100" r="5" fill="white">
+  <animate attributeName="opacity" from="1" to="0" begin="2.4000000000000004s" dur="0.2s" fill="freeze"/>
+</circle>
+<circle cx="520" cy="100" r="5" fill="white">
+  <animate attributeName="opacity" from="1" to="0" begin="2.8000000000000003s" dur="0.2s" fill="freeze"/>
+</circle>
+<circle cx="580" cy="100" r="5" fill="white">
+  <animate attributeName="opacity" from="1" to="0" begin="3.2s" dur="0.2s" fill="freeze"/>
+</circle>
+<circle cx="640" cy="100" r="5" fill="white">
+  <animate attributeName="opacity" from="1" to="0" begin="3.6s" dur="0.2s" fill="freeze"/>
+</circle>
+
+</svg>
