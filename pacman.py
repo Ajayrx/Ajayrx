@@ -51,6 +51,7 @@ def generate_pacman_svg():
         dot = dwg.circle(center=(80 + i * 40, 100), r=5, fill="white")
         dot.add(dwg.animate(
             attributeName="opacity",
+            attributeType="XML",
             from_="1",
             to_="0",
             begin=f"{i * 0.4}s",
