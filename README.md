@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Alone we can do so little; together we can do so much.
+> Most of us live our lives by accident - we live as it happens. Fulfilment comes when we live our lives on purpose.
 
 <!-- QUOTE_END -->
 
