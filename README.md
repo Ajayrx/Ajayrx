@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> If your happiness depends on what somebody else does, I guess you do have a problem.
+> Do Something. If it works, do more of it. If it doesn't, do something else.
 
 <!-- QUOTE_END -->
 
