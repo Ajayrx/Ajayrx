@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> The person who says something is impossible should not interrupt the person who is doing it.
+> Think how really precious is the time you have to spend, whether it's at work or with your family. Every minute should be enjoyed and savored.
 
 <!-- QUOTE_END -->
 
