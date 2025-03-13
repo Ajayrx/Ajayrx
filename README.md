@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Remember that sometimes not getting what you want is a wonderful stroke of luck.
+> If you want to make God laugh, tell him about your plans. 
 
 <!-- QUOTE_END -->
 
