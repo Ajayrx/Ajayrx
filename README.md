@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Best be yourself, imperial, plain, and true.
+> You don't need anybody to tell you who you are or what you are. You are what you are!
 
 <!-- QUOTE_END -->
 
