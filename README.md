@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Every person, all the events of your life are there because you have drawn them there. What you choose to do with them is up to you.
+> Educating the mind without educating the heart is no education at all.
 
 <!-- QUOTE_END -->
 
