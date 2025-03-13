@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> We must create our own world or we will die from inaction.
+> What keeps life fascinating is the constant creativity of the soul.
 
 <!-- QUOTE_END -->
 
