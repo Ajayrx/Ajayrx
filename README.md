@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> You are always your own best guru, your own best teacher, the answers are always inside you.
+> Winners are not people who never fail, but people who never quit.
 
 <!-- QUOTE_END -->
 
