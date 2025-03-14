@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> You're always free to change your mind and choose a different future, or a different past.
+> To share your weakness is to make yourself vulnerable; to make yourself vulnerable is to show your strength.
 
 <!-- QUOTE_END -->
 
