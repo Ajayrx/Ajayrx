@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Confidence is like a dragon where, for every head cut off, two more heads grow back.
+> Our view of the world is truly shaped by what we decide to hear.
 
 <!-- QUOTE_END -->
 
