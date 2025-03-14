@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> No amount of regretting can change the past, and no amount of worrying can change the future.
+> I can never decide whether my dreams are the result of my thoughts or my thoughts the result of my dreams.
 
 <!-- QUOTE_END -->
 
