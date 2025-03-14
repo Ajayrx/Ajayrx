@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Life is love and love is life.
+> Life is and will ever remain an equation incapable of solution, but it contains certain known factors. 
 
 <!-- QUOTE_END -->
 
