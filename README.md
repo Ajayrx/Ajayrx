@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Grudges are for those who insist that they are owed something; forgiveness, however, is for those who are substantial enough to move on.
+> You're always free to change your mind and choose a different future, or a different past.
 
 <!-- QUOTE_END -->
 
