@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> How you think is as important as as what you think.
+> Don't set your own goals by what other people make important.
 
 <!-- QUOTE_END -->
 
