@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> The first rule of business; treat others like they want to treat you.
+> TEAMWORK: the fuel that allows common people attain uncommon results.
 
 <!-- QUOTE_END -->
 
