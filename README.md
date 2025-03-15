@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Everything is in your own heart.
+> The most difficult times for many of us are the ones we give ourselves.
 
 <!-- QUOTE_END -->
 
