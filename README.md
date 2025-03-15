@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Not doing it is certainly the best way to not getting it.  
+> Work for something because it is good, not just because it stands a chance to succeed.
 
 <!-- QUOTE_END -->
 
