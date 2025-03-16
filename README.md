@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> The most important single ingredient in the formula of success is knowing how to get along with people.
+> People with clear, written goals, accomplish far more in a shorter period of time than people without them could ever imagine.
 
 <!-- QUOTE_END -->
 
