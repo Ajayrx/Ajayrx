@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> I try more and more to be myself, caring relatively little whether people approve or disapprove.
+> Employ your time in improving yourself by other men's writings, so that you shall gain easily what others have labored hard for.
 
 <!-- QUOTE_END -->
 
