@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> A wise man makes his own decisions, but an ignorant man mindlessly follows the crowd.
+> No man is happy unless he believes he is.
 
 <!-- QUOTE_END -->
 
