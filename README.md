@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> No man is happy who does not think himself so.
+> It is only depth of character that determines the profundity with which we face life.
 
 <!-- QUOTE_END -->
 
