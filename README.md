@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> The reward of suffering is experience.
+> If you're walking down the right path and you're willing to keep walking, eventually you'll make progress.
 
 <!-- QUOTE_END -->
 
