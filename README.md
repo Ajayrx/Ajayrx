@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> All wealth is the product of labor.
+> Getting over a painful experience is much like crossing monkey bars. You have to let go at some point in order to move forward.
 
 <!-- QUOTE_END -->
 
