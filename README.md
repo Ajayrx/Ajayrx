@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> You are not what you think you are, You are not what others think you are, You are what you think others think you are.
+> To be fully alive, fully human, and completely awake is to be continually thrown out of the nest.
 
 <!-- QUOTE_END -->
 
