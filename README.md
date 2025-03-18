@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Chop your own wood and it will warm you twice. 
+> You cannot always control what goes on outside. But you can always control what goes on inside. 
 
 <!-- QUOTE_END -->
 
