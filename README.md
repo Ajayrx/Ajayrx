@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Shoot for the moon, because even if you miss, you'll land among the stars.
+> Working hard for something we don't care about is called stress: Working hard for something we love is called passion.
 
 <!-- QUOTE_END -->
 
