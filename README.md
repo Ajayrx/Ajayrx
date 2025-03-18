@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> For the things we have to learn before we can do them, we learn by doing them.
+> Love your enemies, for they tell you your faults.
 
 <!-- QUOTE_END -->
 
