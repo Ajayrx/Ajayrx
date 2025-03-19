@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> If you want to be successful, find someone who has achieved the results you want and copy what they do and you'll achieve the same results.
+> No great mind has ever existed without a touch of madness.
 
 <!-- QUOTE_END -->
 
