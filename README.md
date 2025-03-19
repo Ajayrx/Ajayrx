@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Men learn to love the woman they are attracted to. Women learn to become attracted to the man they fall in love with.
+> Small men think they are small; great men never know they are great. 
 
 <!-- QUOTE_END -->
 
