@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> The way to get started is to quit talking and begin doing.
+> Though no one can go back and make a brand new start, anyone can start from now and make a brand new ending.
 
 <!-- QUOTE_END -->
 
