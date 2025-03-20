@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> We must not cease from exploration. And the end of all our exploring will be to arrive where we began and to know the place for the first time.
+> It is in your moments of decision that your destiny is shaped.
 
 <!-- QUOTE_END -->
 
