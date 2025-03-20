@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> You only live once, but if you do it right, once is enough.
+> When you are tough on yourself, life is going to be infinitely easier on you.  
 
 <!-- QUOTE_END -->
 
