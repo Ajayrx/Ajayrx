@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> The greatest deception men suffer is from their own opinions.
+> Be as simple as you can be; you will be astonished to see how uncomplicated and happy your life can become.
 
 <!-- QUOTE_END -->
 
