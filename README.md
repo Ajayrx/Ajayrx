@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Others can stop you temporarily - you are the only one who can do it permanently.
+> Don't let the behavior of others destroy your inner peace.
 
 <!-- QUOTE_END -->
 
