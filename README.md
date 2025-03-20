@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Nature loves to hide.
+> The trouble with most of us is that we'd rather be ruined by praise than saved by criticism.
 
 <!-- QUOTE_END -->
 
