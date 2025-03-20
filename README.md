@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Until you change how you get things done, you'll never know what works best.
+> The wisdom of life consists in the elimination of the nonessentials.
 
 <!-- QUOTE_END -->
 
