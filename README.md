@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> The most difficult thing is the decision to act, the rest is merely tenacity. The fears are paper tigers.
+> You cannot swim for new horizons until you have courage to lose sight of the shore.
 
 <!-- QUOTE_END -->
 
