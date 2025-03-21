@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> It's only after you've stepped outside your comfort zone that you begin to change, grow, and transform.
+> Sometimes adversity is what you need to face in order to become successful.
 
 <!-- QUOTE_END -->
 
