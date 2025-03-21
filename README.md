@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Hope itself is like a star- not to be seen in the sunshine of prosperity, and only to be discovered in the night of adversity.
+> It's only after you've stepped outside your comfort zone that you begin to change, grow, and transform.
 
 <!-- QUOTE_END -->
 
