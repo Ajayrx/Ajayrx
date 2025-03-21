@@ -66,7 +66,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> The secret of getting started is breaking your complex, overwhelming tasks into small manageable tasks, and then starting on the first one.
+> A warrior does not give up what he loves, he finds the love in what he does.
 
 <!-- QUOTE_END -->
 
