@@ -2,10 +2,10 @@
 <h1 style="text-align: center;">                  
     <span>  
         <div>
-        <img src="https://img.shields.io/badge/If%20You%20See%20This,%20You’ve%20Already%20Found%20Him%20💀-5865F2" height="30" />
+        <img src="https://img.shields.io/badge/Not%20a%20Developer.%20Not%20a%20Hacker.%20Just%20a%20Glitch%20in%20Reality.%20💀-FFD976" height="30" />
 <!--         <img src="https://img.shields.io/badge/Ajay%20Bala-47E43A" height="30" /> -->
-        <img src="https://img.shields.io/badge/Built%20With%20🤍-CA5BFF"" height="30"/>
-        </div> 
+<!--         <img src="https://img.shields.io/badge/Built%20With%20🤍-CA5BFF"" height="30"/> -->
+<!--         </div>  -->
 <!--         <img src="https://img.shields.io/badge/Root%20Access%20Granted-FFFFFF" height="30" />  -->
 <!--         <img src="https://img.shields.io/badge/%20Error%20404%20Limits%20Not%20Found-FF2F2F" height="30" />  -->
 <!--         <img src="https://img.shields.io/badge/%20%20-FF2F2F" height="30" />
@@ -15,10 +15,11 @@
         <img src="https://img.shields.io/badge/%20%20-FF2F2F" height="30" />
         <img src="https://img.shields.io/badge/%20%20-FFFFFF" height="30" /> -->
 <!--         <img src="https://img.shields.io/badge/Powered%20By%20Electricity-47E43A" height="30" /> -->
-        <div>
-        <a href="https://discord.gg/C7vCuVYAzx" target="_blank">
+<!--         <div> -->
+            <img src="https://img.shields.io/badge/Built%20With%20🤍-FF66B9"" height="30"/>
+<!--         <a href="https://discord.gg/C7vCuVYAzx" target="_blank">
           <img src="https://img.shields.io/badge/Click%20to%20Join-My%20Github%20Community-35CFF8" height="30" />
-        </a>
+        </a> -->
         <img src="https://visitor-badge.laobi.icu/badge?page_id=Ajayrx.Ajayrx&color=%2300FF00" height="30">
         </div>
 </h1>
@@ -66,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> However difficult life may seem, there is always something you can do and succeed at.
+> Pleasure is always derived from something outside you, whereas joy arises from within. 
 
 <!-- QUOTE_END -->
 
