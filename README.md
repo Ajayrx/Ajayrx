@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Death and life have their determined appointments; riches and honors depend upon heaven. 
+> We are born from a quiet sleep, and we die to a calm awakening
 
 <!-- QUOTE_END -->
 
