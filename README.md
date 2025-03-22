@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> It is secondary whether we choose belief or defiance. What is precious is that we are always able to choose.
+> The idea of ourselves is our escape from the fact of what we really are.
 
 <!-- QUOTE_END -->
 
