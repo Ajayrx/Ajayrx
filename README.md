@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> The more you like yourself, the less you are like anyone else, which makes you unique.
+> Don't stumble over something that's behind you.
 
 <!-- QUOTE_END -->
 
