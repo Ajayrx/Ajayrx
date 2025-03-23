@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> It's not the love you make. It's the love you give. 
+> Nearly every crisis seems to be the worst one, but after it's over, it isn't so bad.
 
 <!-- QUOTE_END -->
 
