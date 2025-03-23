@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Avoiding danger is no safer in the long run than exposure.
+> Judge your success by what you had to give up in order to get it.
 
 <!-- QUOTE_END -->
 
