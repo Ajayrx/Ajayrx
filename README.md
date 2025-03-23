@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> By going within. Nowhere you can go is more peaceful - more free of interruptions - than your own soul.
+> Admire as much as you can. Most people do not admire enough.
 
 <!-- QUOTE_END -->
 
