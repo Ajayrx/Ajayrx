@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> We ourselves feel that what we are doing is just a drop in the ocean. But the ocean would be less because of that missing drop.
+> Experience is simply the name we give our mistakes. 
 
 <!-- QUOTE_END -->
 
