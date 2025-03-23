@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Today is the oldest you've ever been, and the youngest you'll ever be again.
+> Greatest success comes just one step beyond the point at which defeat overtakes you.
 
 <!-- QUOTE_END -->
 
