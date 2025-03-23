@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> It is not enough to win a war; it is more important to organize the peace.
+> All has not been said and never will be.
 
 <!-- QUOTE_END -->
 
