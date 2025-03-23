@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> I've always tried to go a step past wherever people expected me to end up.
+> You have to accept whatever comes, and the only important thing is that you meet it with the best you have to give.
 
 <!-- QUOTE_END -->
 
