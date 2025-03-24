@@ -9,10 +9,10 @@ OUTPUT_DIR = "dist"
 CONTRIBUTIONS_SVG = os.path.join(OUTPUT_DIR, "contributions.svg")
 PACMAN_SVG = os.path.join(OUTPUT_DIR, "pacman.svg")
 
+
 def download_contributions():
-    """Fetch the latest GitHub contributions SVG from Vercel API."""
+    """Fetch the latest GitHub contributions SVG."""
     os.makedirs(OUTPUT_DIR, exist_ok=True)
-    
     response = requests.get(SVG_URL)
     
     if response.status_code == 200 and "<svg" in response.text:
@@ -21,81 +21,85 @@ def download_contributions():
         print("✅ Contributions SVG updated!")
     else:
         print("❌ Failed to fetch valid contributions SVG")
-        print(response.text[:500])  # Print response for debugging
+        print(response.text[:500])
 
-def generate_pacman_svg():
-    """Create an animated Pac-Man eating contributions without overlapping."""
+
+def extract_commits():
+    """Extract commit positions and their intensity from contributions.svg."""
     if not os.path.exists(CONTRIBUTIONS_SVG):
-        print("❌ contributions.svg not found! Run the script again after fetching.")
-        return
+        print("❌ contributions.svg not found!")
+        return []
 
     with open(CONTRIBUTIONS_SVG, "r", encoding="utf-8") as f:
         contributions_svg = f.read().strip()
 
     if not contributions_svg or "<svg" not in contributions_svg:
-        print("❌ contributions.svg is empty or not valid.")
-        return
+        print("❌ contributions.svg is empty or invalid.")
+        return []
 
     try:
         root = ET.fromstring(contributions_svg)
-        print("✅ contributions.svg successfully parsed!")
+        print("✅ contributions.svg parsed successfully!")
     except ET.ParseError as e:
         print(f"❌ XML Parse Error: {e}")
-        return
+        return []
 
-    # Extract commit positions
     namespaces = {"svg": "http://www.w3.org/2000/svg"}
-    commit_circles = []
-    x_positions = []
+    commit_positions = []
 
     for rect in root.findall(".//svg:rect", namespaces):
         x = rect.get("x")
         y = rect.get("y")
         color = rect.get("fill")
-        if x and y and color != "#ebedf0":  # Ignore empty contribution squares
-            x_positions.append(float(x))
-            commit_circles.append(f'<circle cx="{x}" cy="{y}" r="5" fill="{color}"/>')
 
-    if not x_positions:
+        # Ensure x, y, and color are valid
+        if x is None or y is None or color is None:
+            continue
+
+        # Ignore empty squares (gray color)
+        if color.lower() != "#ebedf0":
+            try:
+                commit_positions.append((float(x), float(y), color))
+            except ValueError:
+                continue  # Ignore if conversion fails
+
+    if not commit_positions:
         print("❌ No contributions found!")
-        return
-    
-    min_x, max_x = min(x_positions), max(x_positions)
-    
-    # Pac-Man movement animation
-    pacman_animation = f'''
-    <animateTransform attributeName="transform" type="translate"
-        from="{min_x},50" to="{max_x+10},50"
-        dur="5s" repeatCount="indefinite"/>
-    '''
+        return []
 
-    # Create Pac-Man animation with "eating" effect
+    return sorted(commit_positions, key=lambda pos: pos[1])  # Sort top to bottom
+
+
+def generate_pacman_svg():
+    """Generate an SVG with Pac-Man moving through commit graph."""
+    commits = extract_commits()
+    if not commits:
+        return
+
+    pacman_animation = """
+    <animateTransform attributeName="transform" type="translate"
+        values=""" + ";".join([f"{x},{y}" for x, y, _ in commits]) + """
+        dur="5s" repeatCount="indefinite"/>
+    """
+    
+    commit_circles = [f'<circle cx="{x}" cy="{y}" r="5" fill="{color}"/>' for x, y, color in commits]
+    
     pacman_svg = f'''<?xml version="1.0" encoding="UTF-8" standalone="no"?>
     <svg width="800" height="200" xmlns="http://www.w3.org/2000/svg">
         <rect width="100%" height="100%" fill="black"/>
-        
-        <!-- Contributions Grid -->
-        <g id="commits">
-            {" ".join(commit_circles)}
-        </g>
-        
-        <!-- Pac-Man -->
-        <g id="pacman" transform="translate({min_x},50)">
+        <g id="commits">{" ".join(commit_circles)}</g>
+        <g id="pacman" transform="translate({commits[0][0]},{commits[0][1]})">
             <circle r="10" fill="yellow"/>
             <polygon points="0,0 10,-5 10,5" fill="black"/>
             {pacman_animation}
         </g>
-
-        <!-- Eating Effect -->
-        <g id="eating">
-            <animate attributeName="opacity" values="1;0" keyTimes="0;1" dur="5s" repeatCount="indefinite"/>
-        </g>
     </svg>'''
-
+    
     with open(PACMAN_SVG, "w", encoding="utf-8") as f:
         f.write(pacman_svg)
     
-    print("✅ Pac-Man animation generated with commit eating effect!")
+    print("✅ Pac-Man animation generated successfully!")
+
 
 if __name__ == "__main__":
     download_contributions()

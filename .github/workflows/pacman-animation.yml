@@ -3,39 +3,49 @@ name: Generate Pac-Man Animation
 on:
   push:
     branches:
-      - main  # Runs when you commit to the main branch
+      - main
   schedule:
-    - cron: "0 */12 * * *"  # Runs every 12 hours
-  workflow_dispatch:  # Allows manual execution
+    - cron: "0 */12 * * *"  # Run every 12 hours
 
 jobs:
-  generate-pacman:
+  build:
     runs-on: ubuntu-latest
+    
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+    - name: Checkout repository
+      uses: actions/checkout@v3  # Use latest version
 
-      - name: Set up Python
-        uses: actions/setup-python@v3
-        with:
-          python-version: "3.11"
-      
-      - name: Install dependencies
-        run: pip install svgwrite requests
+    - name: Setup Python
+      uses: actions/setup-python@v3
+      with:
+        python-version: '3.11'
 
-      - name: Generate Pac-Man SVG
-        run: python pacman.py
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
 
-      - name: Verify SVG file
-        run: |
-          if [ ! -f contributions.svg ]; then
-            echo "❌ SVG file not found!"
-            exit 1
-          fi
+    - name: Generate Contributions SVG
+      run: |
+        python generate_contributions_svg.py
+    
+    - name: Verify SVG file exists
+      run: |
+        if [ ! -f dist/contributions.svg ]; then
+          echo "❌ SVG file not found!"
+          exit 1
+        else
+          echo "✅ contributions.svg exists!"
+        fi
 
-      - name: Commit and Push SVG
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add contributions.svg
-          git diff --cached --quiet || (git commit -m "Update Pac-Man animation" && git push)
+    - name: Generate Pac-Man animation
+      run: |
+        python generate_pacman_animation.py
+
+    - name: Commit and Push Updates
+      run: |
+        git config --global user.name 'github-actions'
+        git config --global user.email 'github-actions@github.com'
+        git add dist/pacman.svg
+        git commit -m "Updated Pac-Man animation" || echo "No changes to commit"
+        git push
