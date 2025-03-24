@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> People are weird. When we find someone with weirdness that is compatible with ours, we team up and call it love.
+> Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.
 
 <!-- QUOTE_END -->
 
