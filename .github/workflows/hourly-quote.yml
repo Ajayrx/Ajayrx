@@ -2,7 +2,7 @@ name: Quotes Every 30 Minutes
 
 on:
   schedule:
-    - cron: '0 */4 * * *'  
+    - cron: '*/30 * * * *'  
   workflow_dispatch:  
 
 jobs:
