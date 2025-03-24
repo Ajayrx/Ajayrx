@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> The trouble with the rat race is that even if you win, you're still a rat.
+> When we strive to become better than we are, everything around us becomes better, too.
 
 <!-- QUOTE_END -->
 
