@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Dreams have only one owner at a time. That's why dreamers are lonely.
+> When you rise in the morning, form a resolution to make the day a happy one for a fellow creature.
 
 <!-- QUOTE_END -->
 
