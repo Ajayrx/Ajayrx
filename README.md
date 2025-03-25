@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Time goes from present to past.
+> The truth is, everyone is going to hurt you. You just got to find the ones worth suffering for.
 
 <!-- QUOTE_END -->
 
