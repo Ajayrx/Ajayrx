@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> The pursuit of mastery bears gifts. 
+> The most important single ingredient in the formula of success is knowing how to get along with people.
 
 <!-- QUOTE_END -->
 
