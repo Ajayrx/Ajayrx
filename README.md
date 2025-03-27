@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> A real friend is one who walks in when the rest of the world walks out.
+> The wise warrior avoids the battle.
 
 <!-- QUOTE_END -->
 
