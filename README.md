@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Everybody's life is either rewarding or an example.
+> Your task is not to seek for love, but merely to seek and find all the barriers within yourself that you have built against it.
 
 <!-- QUOTE_END -->
 
