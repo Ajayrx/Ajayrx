@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> A man should never be ashamed to own that he has been in the wrong, which is but saying, that he is wiser today than yesterday.
+> I'm an optimist by choice not by stupidity.
 
 <!-- QUOTE_END -->
 
