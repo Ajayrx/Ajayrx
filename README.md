@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> You can avoid reality, but you cannot avoid the consequences of avoiding reality.
+> The great use of life is to spend it for something that will outlast it.
 
 <!-- QUOTE_END -->
 
