@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Nothing like a health problem to turn up the contrast dial for the rest of life.
+> Attitude, not aptitude, determines altitude.  
 
 <!-- QUOTE_END -->
 
