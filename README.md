@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Life must be rich and full of loving-it's no good otherwise, no good at all, for anyone.  
+> Without education, we are in a horrible and deadly danger of taking educated people seriously.
 
 <!-- QUOTE_END -->
 
