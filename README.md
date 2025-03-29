@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Death is as sure for that which is born, as birth is for that which is dead. Therefore grieve not for what is inevitable.
+> Life must be rich and full of loving-it's no good otherwise, no good at all, for anyone.  
 
 <!-- QUOTE_END -->
 
