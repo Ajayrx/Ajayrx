@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Some people find fault like there is a reward for it.  
+> Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. 
 
 <!-- QUOTE_END -->
 
