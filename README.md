@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Behind every beautiful thing, there's some kind of pain.
+> Do it with passion, or not at all.
 
 <!-- QUOTE_END -->
 
