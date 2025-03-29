@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> It's better to stand by someone's side than by yourself.
+> Never let your memories be greater than your dreams.
 
 <!-- QUOTE_END -->
 
