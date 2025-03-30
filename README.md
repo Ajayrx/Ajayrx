@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Remain calm, serene, always in command of yourself. You will then find out how easy it is to get along. 
+> Excuses are the lies you convince yourself are true to avoid proving you are worthy of the gift you were given.
 
 <!-- QUOTE_END -->
 
