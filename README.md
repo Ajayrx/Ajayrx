@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Don't ever be afraid to put yourself in a lesser position so that you can learn something from someone who knows more.
+> Take interest and even delight in doing the small things well.
 
 <!-- QUOTE_END -->
 
