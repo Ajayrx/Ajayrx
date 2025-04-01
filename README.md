@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> A dead thing can go with the stream, but only a living thing can go against it.
+> Life is like playing the violin in public and learning the instrument as one goes on.
 
 <!-- QUOTE_END -->
 
