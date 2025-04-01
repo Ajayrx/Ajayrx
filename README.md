@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> The primary point of this existence is to live, and all living things move and grow.
+> In three words I can sum up everything I've learned about life: it goes on.
 
 <!-- QUOTE_END -->
 
