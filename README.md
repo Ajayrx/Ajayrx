@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Trust thyself: every heart vibrates to that iron string.
+> The beautiful journey of today can only begin when we learn to let go of yesterday.
 
 <!-- QUOTE_END -->
 
