@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> A single act of kindness throws out roots in all directions, and the roots spring up and make new trees.
+> The first step is to establish that something is possible; then probability will occur.
 
 <!-- QUOTE_END -->
 
