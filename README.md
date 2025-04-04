@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> The big thing is to make a winning effort. I'm not obsessed with wins.
+> Trust is the glue that holds people together and is the lubricant that keeps an organization moving forward.
 
 <!-- QUOTE_END -->
 
