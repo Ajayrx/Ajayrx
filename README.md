@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Success is not the result of making money; making money is the result of success - and success is in direct proportion to our service.
+> Do not allow your inner doubts to keep you from achieving what you can do.
 
 <!-- QUOTE_END -->
 
