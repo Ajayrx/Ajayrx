@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> The secret of happiness, you see, is not found in seeking more, but in developing the capacity to enjoy less.
+> I never dwell on what happened. You can't change it. Move forward.
 
 <!-- QUOTE_END -->
 
