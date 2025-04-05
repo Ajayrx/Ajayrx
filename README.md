@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> I never dwell on what happened. You can't change it. Move forward.
+> There is no limit to the amount of good you can do if you don't care who gets the credit.
 
 <!-- QUOTE_END -->
 
