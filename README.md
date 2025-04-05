@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Play your part in life, but never forget that it is only a role.
+> Peace is the result of retraining your mind to process life as it is, rather than as you think it should be.  
 
 <!-- QUOTE_END -->
 
