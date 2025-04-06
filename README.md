@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> That some achieve great success is proof to all that others can achieve it as well.
+> The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart.
 
 <!-- QUOTE_END -->
 
