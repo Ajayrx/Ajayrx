@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Be willing to be a beginner every single morning.
+> If you want peace, accept. If you want suffering, expect.
 
 <!-- QUOTE_END -->
 
