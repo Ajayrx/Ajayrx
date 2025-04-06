@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> To succeed takes more than the desire to win. It also takes the acceptance that we could fail.
+> Looking after my health today gives me a better hope for tomorrow. 
 
 <!-- QUOTE_END -->
 
