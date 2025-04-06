@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> It is up to each of us to sing as we feel moved by the overall song of life.
+> Life has the name of life, but in reality it is death.
 
 <!-- QUOTE_END -->
 
