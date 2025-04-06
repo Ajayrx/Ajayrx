@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> As you grow older you will discover that you have two hands. One for helping yourself, the other for helping others.
+> Many a man has failed because he had his wishbone where his backbone should have been.
 
 <!-- QUOTE_END -->
 
