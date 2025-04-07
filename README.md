@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Generosity is giving more than you can, and pride is taking less than you need.
+> Do not allow your inner doubts to keep you from achieving what you can do.
 
 <!-- QUOTE_END -->
 
