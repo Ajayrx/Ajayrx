@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Let the beauty of what you love be what you do.
+> Be truthful about your emotions, and use your mind and emotions in your favor, not against yourself.
 
 <!-- QUOTE_END -->
 
