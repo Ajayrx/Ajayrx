@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Ancient Rule of Twenty-one: if you do anything for twenty-one days in a row, it will be installed as a habit.
+> We are what we repeatedly do. Excellence, then, is not an act, but a habit.
 
 <!-- QUOTE_END -->
 
