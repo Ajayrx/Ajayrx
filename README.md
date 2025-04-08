@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Even the finest sword plunged into salt water will eventually rust.
+> All know that the drop merges into the ocean, but few know that the ocean merges into the drop.
 
 <!-- QUOTE_END -->
 
