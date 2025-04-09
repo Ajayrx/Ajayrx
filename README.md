@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Wisdom consists not so much in knowing what to do in the ultimate as knowing what to do next.
+> You must welcome change as the rule but not as your ruler. 
 
 <!-- QUOTE_END -->
 
