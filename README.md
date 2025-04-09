@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Nourish the mind like you would your body. The mind cannot survive on junk food.
+> He who cannot be a good follower cannot be a good leader.
 
 <!-- QUOTE_END -->
 
