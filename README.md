@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Always dream and shoot higher than you know you can do. Do not bother just to be better than your contemporaries or predecessors. Try to be better than yourself.
+> Leave the beaten track behind occasionally and dive into the woods. Every time you do you will be certain to find something you have never seen before.
 
 <!-- QUOTE_END -->
 
