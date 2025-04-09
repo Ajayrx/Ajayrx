@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> It matters not what someone is born, but what they grow to be.
+> Show kindness but never expect it. Show authenticity but never expect it. Only the wise are indifferent to things they can't control.
 
 <!-- QUOTE_END -->
 
