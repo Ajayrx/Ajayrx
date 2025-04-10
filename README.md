@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> If you are patient in one moment of anger, you will escape a hundred days of sorrow. 
+> Silence is the great teacher and to learn its lessons you must pay attention to it.
 
 <!-- QUOTE_END -->
 
