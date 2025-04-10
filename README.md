@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> He who has overcome his fears will truly be free.
+> Success does not consist in never making mistakes but in never making the same one a second time.
 
 <!-- QUOTE_END -->
 
