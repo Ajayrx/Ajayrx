@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Your happiness is what truly matters most. Do what you have to do in order to be happy.
+> They who have conquered doubt and fear have conquered failure.
 
 <!-- QUOTE_END -->
 
