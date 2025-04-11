@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Good things aren't supposed to just fall into your lap.
+> Believe in yourself. You are braver than you think, more talented than you know, and capable of more than you imagine.
 
 <!-- QUOTE_END -->
 
