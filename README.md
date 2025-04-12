@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Difficulties strengthen the mind, as labor does the body.  
+> Be of good cheer about death, and know this of a truth, that no evil can happen to a good man, either in life or after death.
 
 <!-- QUOTE_END -->
 
