@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> You play the hand you're dealt. I think the game's worthwhile.  
+> What do we live for if not to make life less difficult for each other?
 
 <!-- QUOTE_END -->
 
