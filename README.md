@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> We live only now. Everything else is either passed or is unknown.
+> If you've never eaten while crying you don t know what life tastes like.
 
 <!-- QUOTE_END -->
 
