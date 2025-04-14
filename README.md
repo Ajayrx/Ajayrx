@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Who looks outside, dreams; who looks inside, awakes.
+> Just try to be the best you can be; never cease trying to be the best you can be. That's in your power.
 
 <!-- QUOTE_END -->
 
