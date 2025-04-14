@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> A fool sees himself as another, but a wise man sees others as himself.
+> Sometimes out of your biggest misery, comes your greatest gain.
 
 <!-- QUOTE_END -->
 
