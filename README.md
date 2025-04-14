@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Deeds will not be less valiant because they are upraised.
+> Any idea, plan, or purpose may be placed in the mind through repetition of thought.
 
 <!-- QUOTE_END -->
 
