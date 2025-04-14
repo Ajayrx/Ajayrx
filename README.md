@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> It is best to begin at the beginning.
+> This is such a short and precious life that it's really important that you don't spend it being unhappy.
 
 <!-- QUOTE_END -->
 
