@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Happiness is not a goal...it's a by-product of a life well lived.
+> Family not only needs to consist of merely those whom we share blood, but also of those whom we'd give blood.
 
 <!-- QUOTE_END -->
 
