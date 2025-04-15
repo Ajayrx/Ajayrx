@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> You have to make time, even for something as universal as staring at the stars.
+> Forever is composed of now's.
 
 <!-- QUOTE_END -->
 
