@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> To raise your consciousness, surround yourself with people of higher consciousness.
+> Success is not what you do when you are on top.  Success is how high you bounce when you hit the bottom.
 
 <!-- QUOTE_END -->
 
