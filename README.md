@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Many roads lead to the path, but basically there are only two: reason and practice. 
+> Anyone who dreams of an uncommon life eventually discovers there is no choice but to seek an uncommon approach to living it.
 
 <!-- QUOTE_END -->
 
