@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> If you want to feel happy, do something for yourself. If you want to feel fulfilled, do something for someone else.
+> It is not titles that honour men, but men that honour titles.
 
 <!-- QUOTE_END -->
 
