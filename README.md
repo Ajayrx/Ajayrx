@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> The content of your character is your choice. Day by day, what you choose, what you think and what you do is who you become.
+> You have the freedom to be yourself, your true self, here and now, and nothing can stand in your way.
 
 <!-- QUOTE_END -->
 
