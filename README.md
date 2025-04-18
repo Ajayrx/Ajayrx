@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Live calmly. The time will come when the flowers bloom by themselves.
+> Getting lost along your path is a part of finding the path you are meant to be on.
 
 <!-- QUOTE_END -->
 
