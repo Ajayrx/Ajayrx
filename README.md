@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> I skate to where the puck is going to be, not where it has been.
+> To think is easy. To act is hard. But the hardest thing in the world is to act in accordance with your thinking.
 
 <!-- QUOTE_END -->
 
