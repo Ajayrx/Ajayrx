@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> There are more quarrels smothered by just shutting your mouth, and holding it shut, than by all the wisdom in the world.
+> If you want things to be different, perhaps the answer is to become different yourself.
 
 <!-- QUOTE_END -->
 
