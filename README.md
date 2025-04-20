@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> If you don't like something change it; if you can't change it, change the way you think about it.
+> If you practiced for the day, then you have won. If you were lazy for the day, then you have lost.
 
 <!-- QUOTE_END -->
 
