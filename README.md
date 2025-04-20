@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> To be of use to the world is the only way to be happy.
+> Don't be afraid of enemies who attack you. Be afraid of the friends who flatter you.
 
 <!-- QUOTE_END -->
 
