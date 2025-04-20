@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> A tiger doesn't lose sleep over the opinion of sheep.
+> We should not look back unless it is to derive useful lessons from past errors.
 
 <!-- QUOTE_END -->
 
