@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> When it hurts - observe. Life is trying to teach you something.
+> How you think is as important as as what you think.
 
 <!-- QUOTE_END -->
 
