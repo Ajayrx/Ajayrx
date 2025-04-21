@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Thoughts become things. If you see it in your mind, you will hold it in your hand.
+> Everything that is made beautiful and fair and lovely is made for the eye of one who sees.
 
 <!-- QUOTE_END -->
 
