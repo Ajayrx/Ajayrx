@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Forgive yourself for your faults and your mistakes and move on.
+> Your friends will know you better in the first minute you meet than your acquaintances will know you in a thousand years.
 
 <!-- QUOTE_END -->
 
