@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Cherish forever what makes you unique, cuz you're really a yawn if it goes.
+> You can live a whole life time never being awake.
 
 <!-- QUOTE_END -->
 
