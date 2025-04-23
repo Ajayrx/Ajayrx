@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> When you consider things like the stars, our affairs don't seem to matter very much, do they?
+> There is a cosmic law which says that every satisfaction must be paid for with a dissatisfaction.
 
 <!-- QUOTE_END -->
 
