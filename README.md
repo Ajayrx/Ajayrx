@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> You're on earth. There's no cure for that.
+> The consequences of today are determined by the actions of the past. To change your future, alter your decisions today.
 
 <!-- QUOTE_END -->
 
