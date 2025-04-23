@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> For fast-acting relief try slowing down.
+> We must not be afraid of dreaming the seemingly impossible if we want the seemingly impossible to become a reality.
 
 <!-- QUOTE_END -->
 
