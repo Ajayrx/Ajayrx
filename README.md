@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Things do not have meaning. We assign meaning to everything.
+> There can be no greater gift than that of giving one's time and energy to help others without expecting anything in return.
 
 <!-- QUOTE_END -->
 
