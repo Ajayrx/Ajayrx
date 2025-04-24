@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Never let the fear of striking out keep you from playing the game.
+> If he cannot stop the mind that seeks after fame and profit, he will spend his life without finding peace.
 
 <!-- QUOTE_END -->
 
