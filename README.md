@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> There exists only the present instant; a Now which always and without end is itself new.
+> A person without a sense of humor is like a wagon without springs, jolted by every pebble in the road.
 
 <!-- QUOTE_END -->
 
