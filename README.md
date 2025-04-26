@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Kindness is a language which the deaf can hear and the blind can see.
+> To be totally at leisure for one day is to be immortal for one day. 
 
 <!-- QUOTE_END -->
 
