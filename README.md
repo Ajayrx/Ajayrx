@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Do not go where the path may lead, go instead where there is no path and leave a trail.
+> The mind that turns ever outward Will have no end to craving. Only the mind turned inward Will find a still-point of peace.
 
 <!-- QUOTE_END -->
 
