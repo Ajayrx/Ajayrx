@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Two roads diverged in a wood, and I took the one less traveled by, and that has made all the difference.
+> If you're waiting until you feel talented enough to make it, you'll never make it.
 
 <!-- QUOTE_END -->
 
