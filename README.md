@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> No matter how tall the mountain is, it cannot block the sun.
+> True wisdom comes to each of us when we realize how little we understand about life, ourselves, and the world around us.
 
 <!-- QUOTE_END -->
 
