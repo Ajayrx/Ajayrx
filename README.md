@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> People spend too much time doing and not enough time thinking about what they should be doing.
+> Life is what happens to you while you're busy making other plans.
 
 <!-- QUOTE_END -->
 
