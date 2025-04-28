@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> The finish line is just the beginning of a whole new race.
+> If I love myself I love you. If I love you I love myself.
 
 <!-- QUOTE_END -->
 
