@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Little minds have little worries, big minds have no time for worries.
+> The world is a puzzle; no need to make sense out of it.
 
 <!-- QUOTE_END -->
 
