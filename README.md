@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Opportunity is missed by most people because it is dressed in overalls and looks like work.
+> The greatest gift that you can give to others is the gift of unconditional love and acceptance. 
 
 <!-- QUOTE_END -->
 
