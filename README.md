@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Work harder on yourself than you do on your job.
+> Others have seen what is and asked why. I have seen what could be and asked why not
 
 <!-- QUOTE_END -->
 
