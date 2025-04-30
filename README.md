@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Fear of death is fear of surrender to Infinity. Learn to surrender, to exist at Infinity while alive, and fear of death dissolves.
+> The older you get, the more you understand how your conscience works.
 
 <!-- QUOTE_END -->
 
