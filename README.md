@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> First comes the shy wish. Then you must have the heart to have the dream. Then, you work, and work.  
+> If you love life, don't waste time, for time is what life is made up of. 
 
 <!-- QUOTE_END -->
 
