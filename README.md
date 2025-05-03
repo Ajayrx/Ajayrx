@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Everyone can rise above their circumstances and achieve success if they are dedicated to and passionate about what they do.
+> You're only given a little spark of madness. You mustn't lose it.
 
 <!-- QUOTE_END -->
 
