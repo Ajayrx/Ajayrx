@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> I'd rather welcome change than cling to the past.
+> An approximate answer to the right question is worth a great deal more than a precise answer to the wrong question.
 
 <!-- QUOTE_END -->
 
