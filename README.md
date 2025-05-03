@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Everyone has the right to make his own decisions, but none has the right to force his decision on others.
+> Don't let the silly little dramas of each day get you down. For you are here to do great things.
 
 <!-- QUOTE_END -->
 
