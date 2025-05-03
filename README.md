@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> He is richest who is content with the least, for content is the wealth of nature.
+> Be regular and orderly in your life, so that you may be violent and original in your work.
 
 <!-- QUOTE_END -->
 
