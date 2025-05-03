@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Your visions will become clear only when you can look into your own heart. Who looks outside, dreams; who looks inside, awakes.
+> Don't allow your mind to tell your heart what to do. The mind gives up easily.
 
 <!-- QUOTE_END -->
 
