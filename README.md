@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> If you don't like something, change it. If you can't change it, change your attitude.
+> It is dangerous to be right in matters on which the established authorities are wrong.
 
 <!-- QUOTE_END -->
 
