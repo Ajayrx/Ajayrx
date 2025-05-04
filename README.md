@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> The greatest value of a picture is when it forces us to notice what we never expected to see.
+> Every second you have on this planet is very precious and it's your responsibility that you're happy.
 
 <!-- QUOTE_END -->
 
