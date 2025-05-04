@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Obstacles are those frightful things you see when you take your eyes off your goals.
+> Pursue what catches your heart, not what catches your eyes.
 
 <!-- QUOTE_END -->
 
