@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> It is not what we get. But who we become, what we contribute... that gives meaning to our lives.
+> Life is like a wheel. Sooner or later, it always comes around to where you started again.
 
 <!-- QUOTE_END -->
 
