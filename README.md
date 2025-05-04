@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Singleness of purpose is one of the chief essentials for success in life, no matter what may be one's aim.
+> When you view failure as feedback, you get more done. When you view failure as a finality, you get nothing done.
 
 <!-- QUOTE_END -->
 
