@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Goodness is the only investment that never fails.
+> Learn from the mistakes of others. You can't live long enough to make them all yourself.
 
 <!-- QUOTE_END -->
 
