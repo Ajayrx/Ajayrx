@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> You are what you believe yourself to be.
+> Natural talent only determines the limits of your athletic potential. It's dedication and a willingness to discipline your life that makes you great.
 
 <!-- QUOTE_END -->
 
