@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Life is much more successfully looked at from a single window.
+> Every defeat, every heartbreak every loss, contains its own seed, its own lesson on how to improve your performance the next time.
 
 <!-- QUOTE_END -->
 
