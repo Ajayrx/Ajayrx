@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> To wish you were someone else is to waste the person you are.
+> The only thing new in the world is the history you do not know.
 
 <!-- QUOTE_END -->
 
