@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Change yourself - you are in control.
+> A dream doesn't become reality through magic it takes sweat, determination and hard work.
 
 <!-- QUOTE_END -->
 
