@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Always do what is right. It will gratify half of mankind and astound the other.
+> I am not proud, but I am happy; and happiness blinds, I think, more than pride.
 
 <!-- QUOTE_END -->
 
