@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> To lose your temper is only useful once a year.
+> A wise man can learn more from a foolish question than a fool can learn from a wise answer.  
 
 <!-- QUOTE_END -->
 
