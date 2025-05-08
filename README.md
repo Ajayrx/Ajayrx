@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> My powers are ordinary. Only my application brings me success.
+> My instinct is always to seek out challenges as opposed to avoiding them.
 
 <!-- QUOTE_END -->
 
