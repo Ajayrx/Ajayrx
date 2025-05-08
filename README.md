@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Never give up on a dream just because of the time it will take to accomplish it. The time will pass anyway.
+> One reason so few of us achieve what we truly want is that we never direct our focus; we never concentrate our power.
 
 <!-- QUOTE_END -->
 
