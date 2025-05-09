@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> The seasons do not push one another; neither do clouds race the wind across the sky. All things happen in their own good time.
+> The universe doesn't give you what you ask for with your thoughts - it gives you what you demand with your actions.
 
 <!-- QUOTE_END -->
 
