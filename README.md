@@ -64,14 +64,10 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 <br>
 
 <!-- QUOTE_START -->
-<div>
-    <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
-      <img src="https://img.shields.io/badge/❤️%20Updates%20every%2030%20Minutes-53A2FE" height="30"/>
-    <br>
-    <br>
-</div>
 
-> The difference between winning and losing is most often not quitting.
+<img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
+
+> The seasons do not push one another; neither do clouds race the wind across the sky. All things happen in their own good time.
 
 <!-- QUOTE_END -->
 
