@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Nothing is too high for a man to reach, but he must climb with care and confidence
+> The happiness of your life depends upon the quality of your thoughts; therefore guard accordingly.
 
 <!-- QUOTE_END -->
 
