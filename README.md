@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Whatever you think the world is withholding from you, you are withholding from the world.
+> Success is not how high you have climbed, but how you make a positive difference to the world.
 
 <!-- QUOTE_END -->
 
