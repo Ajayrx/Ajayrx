@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> The real art in learning takes place as we move beyond proficiency, when our work becomes an expression of our essence.
+> Unless someone truly has the power to say no, they never truly have the power to say yes.
 
 <!-- QUOTE_END -->
 
