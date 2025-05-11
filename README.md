@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> The mind can calculate, but the spirit yearns, and the heart wants what the heart wants.
+> In the beginner's mind there are many possibilities, but in the expert's mind there are few.
 
 <!-- QUOTE_END -->
 
