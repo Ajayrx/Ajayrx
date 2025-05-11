@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Our life isn't how much we can take out, but how much we can put in.  
+> You don't have to be great to start, but you have to start to be great.  
 
 <!-- QUOTE_END -->
 
