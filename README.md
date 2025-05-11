@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> The hardest arithmetic to master is that which enables us to count our blessings.
+> Don't listen to the person who has the answers; listen to the person who has the questions.
 
 <!-- QUOTE_END -->
 
