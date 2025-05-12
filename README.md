@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> The positive thinker sees the invisible, feels the intangible, and achieves the impossible.
+> If your happiness depends on what somebody else does, I guess you do have a problem.
 
 <!-- QUOTE_END -->
 
