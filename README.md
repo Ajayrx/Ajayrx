@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Our stories may be singular, but our destination is shared.
+> If you're afraid - don't do it, - if you're doing it - don't be afraid! 
 
 <!-- QUOTE_END -->
 
