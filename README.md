@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> In any moment of decision, the best thing you can do is the right thing. The worst thing you can do is nothing.
+> The measure of wisdom is how calm you are when facing any given situation.
 
 <!-- QUOTE_END -->
 
