@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Curiosity is the most powerful thing you own. Imagination is a force that can actually manifest a reality.
+> Find your Light; They can't love you if they can't see you.
 
 <!-- QUOTE_END -->
 
