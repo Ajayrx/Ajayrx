@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> You can, you should, and if you're brave enough to start, you will.
+> When you get up in the morning, you have two choices - either to be happy or to be unhappy. Just choose to be happy.
 
 <!-- QUOTE_END -->
 
