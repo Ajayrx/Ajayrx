@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Normality is a paved road: It's comfortable to walk, but no flowers grow on it.
+> Desire for the fruits of work must never be your motive in working.
 
 <!-- QUOTE_END -->
 
