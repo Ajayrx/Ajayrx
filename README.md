@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Enthusiasm is a vital element toward the individual success of every man or woman.
+> The ego wants comfort and certainty. The soul wants to live fully.
 
 <!-- QUOTE_END -->
 
