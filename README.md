@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Never be afraid to raise your voice for honesty and truth and compassion against injustice and lying and greed.
+> Wrong does not cease to be wrong because the majority share in it.
 
 <!-- QUOTE_END -->
 
