@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Unexpressed emotions will never die. They are buried alive and will come forth later in uglier ways.
+> Emancipate yourself from mental slavery, none but ourselves can free our mind.
 
 <!-- QUOTE_END -->
 
