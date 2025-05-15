@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Friendship is one of the most tangible things in a world which offers fewer and fewer supports.
+> Music is like creating an emotional painting. The sounds are the colors.
 
 <!-- QUOTE_END -->
 
