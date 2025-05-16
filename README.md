@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Life isn't about finding yourself. Life is about creating yourself.
+> Cultivate the merry heart, develop the happiness habit, and life will become a continual feast.
 
 <!-- QUOTE_END -->
 
