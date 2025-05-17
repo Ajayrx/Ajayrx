@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Half the world is composed of people who have something to say and can't, and the other half who have nothing to say and keep on saying it.
+> Lying can never save us from another lie.
 
 <!-- QUOTE_END -->
 
