@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> We are what we repeatedly do. Excellence, then, is not an act, but a habit.
+> Receive without pride, let go without attachment.
 
 <!-- QUOTE_END -->
 
