@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> A lot of people have gone further than they thought they could because someone else thought they could.
+> Life can only be understood backwards; but it must be lived forwards.
 
 <!-- QUOTE_END -->
 
