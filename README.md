@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Give a girl the right shoes, and she can conquer the world.
+> The deeper the truth in a creative work, the longer it will live.  
 
 <!-- QUOTE_END -->
 
