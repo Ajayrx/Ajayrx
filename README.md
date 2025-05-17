@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> The price of inaction is far greater than the cost of making a mistake.
+> I have lost friends, some by death...others by sheer inability to cross the street.
 
 <!-- QUOTE_END -->
 
