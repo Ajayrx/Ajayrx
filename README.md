@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Your world is a living expression of how you are using and have used your mind.
+> The river that flows in you also flows in me.
 
 <!-- QUOTE_END -->
 
