@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Tragedy is a tool for the living to gain wisdom, not a guide by which to live.
+> Be a good animal, true to your instincts.
 
 <!-- QUOTE_END -->
 
