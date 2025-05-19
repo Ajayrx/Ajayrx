@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> It matters not who you love, where you love, why you love, when you love or how you love, it matters only that you love.
+> Instead of thinking outside the box, get rid of the box.
 
 <!-- QUOTE_END -->
 
