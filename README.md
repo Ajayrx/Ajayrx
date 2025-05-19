@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Instead of thinking outside the box, get rid of the box.
+> Have the fearless attitude of a hero and the loving heart of a child.
 
 <!-- QUOTE_END -->
 
