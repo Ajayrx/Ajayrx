@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Why change? Everyone has his own style. When you have found it, you should stick to it.
+> Everything is possible. The impossible just takes longer.
 
 <!-- QUOTE_END -->
 
