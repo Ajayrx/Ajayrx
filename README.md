@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Scared people want comfort and certainty so they avoid failure. People living fully seek challenges because this is where they feel alive.
+> What we know is a drop, what we don't know is an ocean. 
 
 <!-- QUOTE_END -->
 
