@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> If you are going to achieve excellence in big things, you develop the habit in little matters.
+> Never trust he who trusts everyone.
 
 <!-- QUOTE_END -->
 
