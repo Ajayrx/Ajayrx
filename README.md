@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> A man is but a product of his thoughts. What he thinks he becomes.
+> Fear does not have any special power unless you empower it by submitting to it.
 
 <!-- QUOTE_END -->
 
