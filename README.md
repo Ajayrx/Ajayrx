@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> The opposite of courage in our society is not cowardice... it is conformity.
+> The heart wants what it wants. There's no logic. 
 
 <!-- QUOTE_END -->
 
