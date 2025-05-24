@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Stay away from people who makes you feel like you are wasting their time.
+> If you want to achieve anything in this world, you have to get used to the idea that not everyone will like you.
 
 <!-- QUOTE_END -->
 
