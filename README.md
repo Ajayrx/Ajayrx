@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> I am always doing that which I can not do, in order that I may learn how to do it.
+> It's much better to do good in a way that no one knows anything about it.
 
 <!-- QUOTE_END -->
 
