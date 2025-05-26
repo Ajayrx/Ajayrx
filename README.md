@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Never do things others can do and will do if there are things others cannot do or will not do.
+> When you're curious, you find lots of interesting things to do.
 
 <!-- QUOTE_END -->
 
