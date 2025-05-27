@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> The important thing is not what one is born with but what use one makes of that equipment.
+> Believe you can and you're halfway there.
 
 <!-- QUOTE_END -->
 
