@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Make no small plans for they have no power to stir the soul.
+> The less you respond to negative people, the more positive your life will become.
 
 <!-- QUOTE_END -->
 
