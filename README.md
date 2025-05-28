@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> What's obvious to you isn't obvious to most people. Operate from this perspective and you'll help more people.
+> It is useless to meet revenge with revenge; it will heal nothing.
 
 <!-- QUOTE_END -->
 
