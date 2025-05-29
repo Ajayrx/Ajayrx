@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> There is nothing in the world so irresistibly contagious as laughter and good humor.
+> Real learning comes about when the competitive spirit has ceased.
 
 <!-- QUOTE_END -->
 
