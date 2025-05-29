@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Never allow a person to tell you no who doesn't have the power to say yes.
+> The thing about smart people is that they seem like crazy people to dumb people.
 
 <!-- QUOTE_END -->
 
