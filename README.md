@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> The divine is not something high above us. It is in heaven, it is in earth, it is inside us.
+> The more often a stupidity is repeated, the more it gets the appearance of wisdom.
 
 <!-- QUOTE_END -->
 
