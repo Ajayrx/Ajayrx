@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Sometimes you have to travel a long way to find what is near.
+> Don't stumble over something that's behind you.
 
 <!-- QUOTE_END -->
 
