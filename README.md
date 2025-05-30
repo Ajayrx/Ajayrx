@@ -41,7 +41,7 @@
 <br>
 <span>
     <img src="https://img.shields.io/badge/About%20Me!%20🫶-53A2FE" height="30"/>
-    <a href="https://ajaybala.framer.website" target="_blank">
+    <a href="https://ajaybala.netlify.app" target="_blank">
         <img src="https://img.shields.io/badge/My%20Portfolio!%20🚀-AA97FF" height="30"/>
         <br>
     </a>
