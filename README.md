@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> One must be deeply aware of the impermanence of the world.
+> Correct what you can. Learn from what you can't.
 
 <!-- QUOTE_END -->
 
