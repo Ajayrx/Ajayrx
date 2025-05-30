@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> People seldom do what they believe in. They do what is convenient, then repent.
+> I am thankful to all those who said no. It's because of them, I did it myself.  
 
 <!-- QUOTE_END -->
 
