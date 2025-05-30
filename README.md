@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Every strike brings me closer to the next home run. 
+> Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it's the only thing that ever has.
 
 <!-- QUOTE_END -->
 
