@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> The human mind defines things in relation to one another - without light the notion of darkness would be unintelligible.
+> Before preparing to improve the world, first look around your own home three times. 
 
 <!-- QUOTE_END -->
 
