@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> If what you're doing is not your passion, you have nothing to lose.
+> A fall into a ditch makes you wiser.
 
 <!-- QUOTE_END -->
 
