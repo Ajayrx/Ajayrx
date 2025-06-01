@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> There is a cosmic law which says that every satisfaction must be paid for with a dissatisfaction.
+> If you want to be sad, no one in the world can make you happy. But if you make up your mind to be happy, no one and nothing on earth can take that happiness from you.
 
 <!-- QUOTE_END -->
 
