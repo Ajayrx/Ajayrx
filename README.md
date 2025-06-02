@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Any fool can turn a blind eye but who knows what the ostrich sees in the sand.
+> Trust, like the soul, never returns once it is gone.
 
 <!-- QUOTE_END -->
 
