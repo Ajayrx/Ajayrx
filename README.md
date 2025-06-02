@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> There is no absolute success in the world, only constant progress.
+> If you're afraid to die, you're afraid to live. You can't have one without the other.
 
 <!-- QUOTE_END -->
 
