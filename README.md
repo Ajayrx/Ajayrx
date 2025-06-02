@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> People who belittle people, will be LITTLE people, and will accomplish very Little
+> How people treat you is their karma; how you react is yours. 
 
 <!-- QUOTE_END -->
 
