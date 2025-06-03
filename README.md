@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> If the grass is greener on the other side, maybe that's because you're not taking good care of your grass.
+> For your life to be great, your faith must be bigger than your fear.
 
 <!-- QUOTE_END -->
 
