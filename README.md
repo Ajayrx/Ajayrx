@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Whenever you find yourself on the side of the majority, it is time to reform.
+> What's the point in being smart enough to read, if everything you read makes you dumb?
 
 <!-- QUOTE_END -->
 
