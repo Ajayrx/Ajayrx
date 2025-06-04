@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Life is too important to be taken seriously.
+> If you want work well done, select a busy man; the other kind has no time.
 
 <!-- QUOTE_END -->
 
