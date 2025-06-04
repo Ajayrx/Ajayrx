@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> In the long run, the sharpest weapon of all is a kind and gentle spirit.
+> You are now, and you do become, what you think about.
 
 <!-- QUOTE_END -->
 
