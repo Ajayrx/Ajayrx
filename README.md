@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> There are more people who wish to be loved than there are who are willing to love. 
+> Fears are nothing more than a state of mind.
 
 <!-- QUOTE_END -->
 
