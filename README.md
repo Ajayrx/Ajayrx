@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> In all chaos there is a cosmos, in all disorder a secret order.
+> What is a friend? A single soul dwelling in two bodies.
 
 <!-- QUOTE_END -->
 
