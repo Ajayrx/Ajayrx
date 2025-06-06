@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Rich people have small TVs and big libraries, and poor people have small libraries and big TVs.
+> If you cling to a certain thought with dynamic will power, it finally assumes a tangible outward form.
 
 <!-- QUOTE_END -->
 
