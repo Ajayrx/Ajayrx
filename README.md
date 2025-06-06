@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Any thought that is passed on to the subconscious often enough and convincingly enough is finally accepted.
+> Rich people have small TVs and big libraries, and poor people have small libraries and big TVs.
 
 <!-- QUOTE_END -->
 
