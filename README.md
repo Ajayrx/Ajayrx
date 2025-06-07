@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> All you need is the plan, the road map, and the courage to press on to your destination.
+> Be happy now, without reason - or you never will be at all.
 
 <!-- QUOTE_END -->
 
