@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Men are disturbed not by things, but by the view which they take of them.
+> You can never cross the ocean unless you have the courage to lose sight of the shore.
 
 <!-- QUOTE_END -->
 
