@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Just do the best you can. No one can do more than that.
+> Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence. 
 
 <!-- QUOTE_END -->
 
