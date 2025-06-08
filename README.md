@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Those who seek the easy way do not seek the true way.
+> Just do the best you can. No one can do more than that.
 
 <!-- QUOTE_END -->
 
