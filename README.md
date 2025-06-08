@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Getting over a painful experience is much like crossing monkey bars. You have to let go at some point in order to move forward.
+> Never be bored, and you will never be boring.
 
 <!-- QUOTE_END -->
 
