@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Remember we're all in this alone.
+> Even when you think you have your life all mapped out, things happen that shape your destiny in ways you might never have imagined.
 
 <!-- QUOTE_END -->
 
