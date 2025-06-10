@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> The clock indicates the moment...but what does eternity indicate?
+> The best mind-altering drug is the truth.
 
 <!-- QUOTE_END -->
 
