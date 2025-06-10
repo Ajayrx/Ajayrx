@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> If you always do what you've always done, you'll always get what you've always got. 
+> A creative man is motivated by the desire to achieve, not by the desire to beat others.
 
 <!-- QUOTE_END -->
 
