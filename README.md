@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Debt is the slavery of the free.
+> I never said it would be easy, I only said it would be worth it.
 
 <!-- QUOTE_END -->
 
