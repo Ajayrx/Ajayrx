@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Tenderness and kindness are not signs of weakness and despair, but manifestations of strength and resolution.
+> The less you want, the richer you are. The more you need in order to be happy, the more miserable you'll be.
 
 <!-- QUOTE_END -->
 
