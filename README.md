@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Thinking is a habit, and like any other habit, it can be changed; it just takes effort and repetition.
+> Give a man a fish and you feed him for a day. Teach a man to fish and you feed him for a lifetime.
 
 <!-- QUOTE_END -->
 
