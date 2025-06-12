@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> A mentor is someone who sees more talent and ability within you, than you see in yourself, and helps bring it out of you.
+> Generosity is giving more than you can, and pride is taking less than you need.
 
 <!-- QUOTE_END -->
 
