@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> A single act of kindness throws out roots in all directions, and the roots spring up and make new trees.
+> A mentor is someone who sees more talent and ability within you, than you see in yourself, and helps bring it out of you.
 
 <!-- QUOTE_END -->
 
