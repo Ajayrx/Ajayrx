@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> To be truly ignorant, be content with your own knowledge.
+> Give credit where credit is due: simply said, if you want loyalty and best effort, you must be thoughtful.  
 
 <!-- QUOTE_END -->
 
