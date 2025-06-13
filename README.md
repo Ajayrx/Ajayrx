@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> If it is not right, do not do it, if it is not true, do not say it.
+> Just trust that everything is unfolding the way it is supposed to. Don't resist... Great things are waiting for you around the corner.
 
 <!-- QUOTE_END -->
 
