@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> A man is not called wise because he talks and talks again; but if he is peaceful, loving and fearless then he is in truth called wise. 
+> Happiness is the meaning and the purpose of life, the whole aim and end of human existence.
 
 <!-- QUOTE_END -->
 
