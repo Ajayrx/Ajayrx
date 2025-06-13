@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Friendship takes time and energy if it's going to work.
+> Don't bother people for help without first trying to solve the problem yourself.
 
 <!-- QUOTE_END -->
 
