@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> It is in the darkness that one finds the light.
+> Nothing gives one person so much advantage over another as to remain always cool and unruffled under all circumstances.
 
 <!-- QUOTE_END -->
 
