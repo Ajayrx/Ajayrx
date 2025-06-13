@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Nothing gives one person so much advantage over another as to remain always cool and unruffled under all circumstances.
+> Nothing good ever comes of violence.
 
 <!-- QUOTE_END -->
 
