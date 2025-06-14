@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Society is composed of two great classes those who have more dinners than appetite, and those who have more appetite than dinners.
+> What you resist, persists.
 
 <!-- QUOTE_END -->
 
