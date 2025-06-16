@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Decide upon your major definite purpose in life and then organize all your activities around it.
+> Teachers open the door. You enter by yourself. 
 
 <!-- QUOTE_END -->
 
