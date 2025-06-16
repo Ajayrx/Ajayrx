@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> A person who does not read is no better than one cannot read.
+> Your visions will become clear only when you can look into your own heart. Who looks outside, dreams; who looks inside, awakes.
 
 <!-- QUOTE_END -->
 
