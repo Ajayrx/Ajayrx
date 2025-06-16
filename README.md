@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> It is children only who enjoy the present; their elders either live on the memory of the past or the hope of the future.
+> A person who does not read is no better than one cannot read.
 
 <!-- QUOTE_END -->
 
