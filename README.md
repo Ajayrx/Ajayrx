@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> You don't need to be better than anyone else, you just need to be better than you used to be.
+> It is children only who enjoy the present; their elders either live on the memory of the past or the hope of the future.
 
 <!-- QUOTE_END -->
 
