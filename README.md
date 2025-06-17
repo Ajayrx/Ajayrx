@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Being In The Present Means Tuning Out Distractions And Paying Attention To What Is Important, Now.
+> Change is hardest at the beginning, messiest in the middle and best at the end.
 
 <!-- QUOTE_END -->
 
