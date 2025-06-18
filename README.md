@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> It's very important to like the people you work with, otherwise life and your job is gonna be quite miserable.
+> In the long run, the sharpest weapon of all is a kind and gentle spirit.
 
 <!-- QUOTE_END -->
 
