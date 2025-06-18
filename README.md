@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Most people do not really want freedom, because freedom involves responsibility, and most people are frightened of responsibility.
+> Persistence. Perfection. Patience. Power. Prioritize your passion. It keeps you sane.
 
 <!-- QUOTE_END -->
 
