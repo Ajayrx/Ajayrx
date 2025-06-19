@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> In the midst of chaos, there is also opportunity.
+> Deliberately seek the company of people who influence you to think and act on building the life you desire.
 
 <!-- QUOTE_END -->
 
