@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Don't criticize what you can't understand. 
+> If you don't break your ropes while you're alive, do you think ghosts will do it after?
 
 <!-- QUOTE_END -->
 
