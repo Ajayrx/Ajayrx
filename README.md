@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Never regret your past. Rather, embrace it as the teacher that it is.
+> The mind is the limit.
 
 <!-- QUOTE_END -->
 
