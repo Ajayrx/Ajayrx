@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> I put my heart and soul into my work, and I have lost my mind in the process.
+> Don't let making a living prevent you from making a life.
 
 <!-- QUOTE_END -->
 
