@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> The more rejection you get, the better you are, the more you've learned, the closer you are to your outcome.
+> Changing minds is harder than finding people who already agree.
 
 <!-- QUOTE_END -->
 
