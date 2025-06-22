@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Some people are old at 18 and some are young at 90. Time is a concept that humans created.
+> First say to yourself what you would be; and then do what you have to do.
 
 <!-- QUOTE_END -->
 
