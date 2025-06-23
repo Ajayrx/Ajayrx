@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Don't be afraid to stand for what you believe in, even if that means standing alone.
+> The wiser you get, the less you care to look like a fool.
 
 <!-- QUOTE_END -->
 
