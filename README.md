@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Life has the name of life, but in reality it is death.
+> Life is filled with secrets. You can't learn them all at once.
 
 <!-- QUOTE_END -->
 
