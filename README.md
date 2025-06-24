@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> The happiest people in the world are those who feel absolutely terrific about themselves.
+> We are all born ignorant, but one must work hard to remain stupid.
 
 <!-- QUOTE_END -->
 
