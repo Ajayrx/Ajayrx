@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Sometimes you have to shut your eyes, so you can see the real beauty.
+> The one who praises you is a thief. The one who criticizes you is your true friend.
 
 <!-- QUOTE_END -->
 
