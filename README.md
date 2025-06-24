@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> There is no significance in life without struggle.
+> A man who dares to waste one hour of time has not discovered the value of life.
 
 <!-- QUOTE_END -->
 
