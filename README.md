@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> If you do not change direction, you may end up where you are heading.
+> How to get more opportunity: Create more opportunity for others.
 
 <!-- QUOTE_END -->
 
