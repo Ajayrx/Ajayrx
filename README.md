@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Many roads lead to the path, but basically there are only two: reason and practice. 
+> Instead of thinking about what you are going to do when you retire, think about how you can do that now and make a living from it.
 
 <!-- QUOTE_END -->
 
