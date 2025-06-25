@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> An intelligence test sometimes shows a man how smart he would have been not to have taken it.
+> It's wise to tell the truth. It's even wiser to tell it kindly.
 
 <!-- QUOTE_END -->
 
