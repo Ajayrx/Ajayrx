@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Fear can hold you prisoner. Hope can set you free.
+> Never take your position for granted and never let any favors you receive go to your head.
 
 <!-- QUOTE_END -->
 
