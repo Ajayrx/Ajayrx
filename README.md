@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Keep smiling, because life is a beautiful thing and there's so much to smile about.
+> My actions are my only true belongings. I cannot escape the consequences of my actions. My actions are the ground upon which I stand.
 
 <!-- QUOTE_END -->
 
