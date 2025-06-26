@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> You can suffer the pain of change or suffer remaining the way you are.
+> No one returns from a long journey the same person they were before.
 
 <!-- QUOTE_END -->
 
