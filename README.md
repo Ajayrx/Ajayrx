@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Life is ten percent what you experience and ninety percent how you respond to it.
+> It's just a bad day, not a bad life.
 
 <!-- QUOTE_END -->
 
