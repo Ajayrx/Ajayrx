@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> A real decision is measured by the fact that you've taken a new action. If there's no action, you haven't truly decided.
+> Constantly think about how you could be doing things better.
 
 <!-- QUOTE_END -->
 
