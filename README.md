@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Happiness depends on your mindset and attitude.
+> Laws are like cobwebs, which may catch small flies, but let wasps and hornets break through.
 
 <!-- QUOTE_END -->
 
