@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> The greatest miracle is to be alive.
+> Even though you are on the right track - you will get run over if you just sit there.
 
 <!-- QUOTE_END -->
 
