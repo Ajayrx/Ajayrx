@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Don't worry about being successful, but work toward being significant and the success will naturally follow.
+> Every act of creation is first an act of destruction.
 
 <!-- QUOTE_END -->
 
