@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> If you pray for rain, be prepared to deal with some mud.
+> Luck is what happens when preparation meets opportunity.  
 
 <!-- QUOTE_END -->
 
