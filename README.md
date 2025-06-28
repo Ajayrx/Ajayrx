@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Take time like the river that never grows stale. Keep going and steady. No hurry, no rush.
+> Only one thing is ever guaranteed, that is that you will definitely not achieve the goal if you don't take the shot.
 
 <!-- QUOTE_END -->
 
