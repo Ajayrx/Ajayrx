@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> No need to hurry. No need to sparkle. No need to be anybody but oneself.
+> I do not seek. I find.
 
 <!-- QUOTE_END -->
 
