@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> The greatest gift that you can give to others is the gift of unconditional love and acceptance. 
+> Everything great that has ever happened to humanity has begun as a single thought in someone's mind.
 
 <!-- QUOTE_END -->
 
