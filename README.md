@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> The most wasted day of all is that on which we have not laughed.
+> Be thankful for what you have; you'll end up having more. If you concentrate on what you don't have, you will never, ever have enough. 
 
 <!-- QUOTE_END -->
 
