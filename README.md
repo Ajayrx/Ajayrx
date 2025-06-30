@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Thinking is difficult, that's why most people judge.
+> There is no self-discovery without pain and loss.
 
 <!-- QUOTE_END -->
 
