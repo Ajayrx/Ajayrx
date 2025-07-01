@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> As long as a human being worries about when he will die, and what he has that is his, all of his works are zero.
+> Those who are possessed by nothing possess everything.
 
 <!-- QUOTE_END -->
 
