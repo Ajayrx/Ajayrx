@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> I thought how unpleasant it is to be locked out; and I thought how it is worse, perhaps, to be locked in.
+> As long as a human being worries about when he will die, and what he has that is his, all of his works are zero.
 
 <!-- QUOTE_END -->
 
