@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Failure is an option here. If things are not failing, you are not innovating enough.
+> A little progress each day adds up to big results.
 
 <!-- QUOTE_END -->
 
