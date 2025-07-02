@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Become the kind of leader that people would follow voluntarily, even if you had no title or position.
+> The best way to not feel hopeless is to get up and do something.
 
 <!-- QUOTE_END -->
 
