@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Follow the man who seeks the truth; run from the man who has found it.
+> Tragedy is a tool for the living to gain wisdom, not a guide by which to live.
 
 <!-- QUOTE_END -->
 
