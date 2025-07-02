@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Focus on how far you have come in life rather than looking at the accomplishments of others.
+> Wisdom is the oneness of mind that guides and permeates all things.
 
 <!-- QUOTE_END -->
 
