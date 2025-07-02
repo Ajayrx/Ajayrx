@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Human behavior flows from three main sources: desire, emotion, and knowledge.
+> Focus on how far you have come in life rather than looking at the accomplishments of others.
 
 <!-- QUOTE_END -->
 
