@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> The dead receive more flowers than the living because regret is stronger than gratitude.
+> You may be disappointed if you fail, but you are doomed if you don't try. 
 
 <!-- QUOTE_END -->
 
