@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Mastery is not a function of genius or talent, it is a function of time and intense focus applied to a particular field of knowledge.
+> If you're brave enough to say goodbye, life will reward you with a new hello.
 
 <!-- QUOTE_END -->
 
