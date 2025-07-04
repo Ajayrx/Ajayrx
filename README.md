@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> No matter how much preparation we do, in the real tests of our lives, we'll be in unfamiliar terrain.
+> A life without a cause is a life without effect.
 
 <!-- QUOTE_END -->
 
