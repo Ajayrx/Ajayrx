@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> If we are honest with ourselves, most of us will have to admit that we live out our lives in an ocean of fear.
+> Do your duty and a little more and the future will take care of itself.
 
 <!-- QUOTE_END -->
 
