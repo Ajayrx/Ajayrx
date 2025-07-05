@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> There are only two ways to live your life. One is as if nothing is a miracle. The other is as if everything is a miracle.
+> Always be a first rate version of yourself and not a second rate version of someone else.
 
 <!-- QUOTE_END -->
 
