@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Good judgment comes from experience, and experience comes from bad judgment.
+> Where ever you are, you are one with the clouds and one with the sun and the stars you see. You are one with everything.
 
 <!-- QUOTE_END -->
 
