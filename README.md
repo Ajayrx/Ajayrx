@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Vision is the art of seeing things invisible.
+> Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.
 
 <!-- QUOTE_END -->
 
