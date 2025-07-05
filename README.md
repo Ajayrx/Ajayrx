@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> You must learn to let go. Release the stress. You were never in control anyway.
+> You can't wait for inspiration. You have to go after it with a club. 
 
 <!-- QUOTE_END -->
 
