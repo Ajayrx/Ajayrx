@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Obstacles can't stop you. Problems can't stop you. Most of all, other people can't stop you. Only you can stop you.
+> Success is built sequentially. It's one thing at a time.
 
 <!-- QUOTE_END -->
 
