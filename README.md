@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> The highest form of ignorance is when you reject something you don't know anything about. 
+> Extraordinary results happen only when you give the best you have to become the best you can be at your most important work.
 
 <!-- QUOTE_END -->
 
