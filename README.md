@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Without the rain there would be no rainbow.
+> Being spiritual has nothing to do with what you believe and everything to do with your state of consciousness.
 
 <!-- QUOTE_END -->
 
