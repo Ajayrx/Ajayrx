@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Do your duty and a little more and the future will take care of itself.
+> You're braver than you believe, and stronger than you seem, and smarter than you think.
 
 <!-- QUOTE_END -->
 
