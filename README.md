@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> When you win, say nothing, when you lose say less.
+> Everyday is a second chance.
 
 <!-- QUOTE_END -->
 
