@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> You're braver than you believe, and stronger than you seem, and smarter than you think.
+> Determine never to be idle. No person will have occasion to complain of the want of time who never loses any.
 
 <!-- QUOTE_END -->
 
