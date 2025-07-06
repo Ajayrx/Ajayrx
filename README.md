@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> If it entertains you now but will bore you someday, it's a distraction. Keep looking.
+> The future will be shaped by those willing to commit their minds and their bodies to the task.
 
 <!-- QUOTE_END -->
 
