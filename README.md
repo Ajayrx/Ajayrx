@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Patience is a bitter plant, but its fruit is sweet.
+> Nothing you do is going to matter that much in the long run. Don't take yourself so seriously.
 
 <!-- QUOTE_END -->
 
