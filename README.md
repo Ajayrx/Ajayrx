@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Change is never easy, but always possible.
+> Beginning today, treat everyone you meet as if they were going to be dead by midnight. Your life will never be the same again.
 
 <!-- QUOTE_END -->
 
