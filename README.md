@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> If you want to be happy, do not dwell in the past, do not worry about the future, focus on living fully in the present.
+> Wrong turns are as important as right turns. More important, sometimes.
 
 <!-- QUOTE_END -->
 
