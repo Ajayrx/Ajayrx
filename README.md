@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Things may come to those who wait, but only the things left by those who hustle.
+> Setting goals is the first step in turning the invisible into the visible.
 
 <!-- QUOTE_END -->
 
