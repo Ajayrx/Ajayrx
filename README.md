@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Pain doesn't last. And when it's gone, we have something to show for it. Growth.
+> Respect other people's feelings. It might mean nothing to you, but it could mean everything to them.
 
 <!-- QUOTE_END -->
 
