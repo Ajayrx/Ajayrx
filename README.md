@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> It is better to fail in originality than to succeed in imitation.
+> Re-examine all that you have been told... dismiss that which insults your soul.
 
 <!-- QUOTE_END -->
 
