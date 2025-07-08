@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Respect other people's feelings. It might mean nothing to you, but it could mean everything to them.
+> Believe nothing you hear, and only one half that you see.
 
 <!-- QUOTE_END -->
 
