@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> A good system shortens the road to the goal. 
+> Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.
 
 <!-- QUOTE_END -->
 
