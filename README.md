@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Don't put off living to next week, next month, next year or next decade. The only time you're ever living is in this moment.
+> You are not what you think you are, You are not what others think you are, You are what you think others think you are.
 
 <!-- QUOTE_END -->
 
