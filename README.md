@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> The fastest way to change is to laugh at your own folly.
+> Maybe you are searching among the branches, for what only appears in the roots.
 
 <!-- QUOTE_END -->
 
