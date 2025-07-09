@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Consider the rights of others before your own feelings, and the feelings of others before your own rights.
+> Be the reason someone smiles. Be the reason someone feels loved and believes in the goodness in people.
 
 <!-- QUOTE_END -->
 
