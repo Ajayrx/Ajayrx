@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> We crave for new sensations but soon become indifferent to them. The wonders of yesterday are today common occurrences 
+> Dreams are for dreamers. Goals are for achievers.
 
 <!-- QUOTE_END -->
 
