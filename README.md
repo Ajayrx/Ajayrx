@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Emancipate yourself from mental slavery, none but ourselves can free our mind.
+> It is during our darkest moments that we must focus to see the light.
 
 <!-- QUOTE_END -->
 
