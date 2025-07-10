@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> If you do not get the chills when you set your goal you're not setting big enough goals.
+> Every one of us is the sum total of his own thoughts.
 
 <!-- QUOTE_END -->
 
