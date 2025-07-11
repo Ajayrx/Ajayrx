@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Death is not sad; the sad thing is that most people don't really live at all.
+> It's your road, and yours alone, others may walk it with you, but no one can walk it for you.
 
 <!-- QUOTE_END -->
 
