@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> A successful man is one who can lay a firm foundation with the bricks others have thrown at him.  
+> He who violates another's honor loses his own.
 
 <!-- QUOTE_END -->
 
