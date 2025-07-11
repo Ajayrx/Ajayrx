@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Try not to become a man of success, but rather try to become a man of value.
+> Success is not final, failure is not fatal: it is the courage to continue that counts.
 
 <!-- QUOTE_END -->
 
