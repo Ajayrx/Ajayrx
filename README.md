@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Success is not final, failure is not fatal: it is the courage to continue that counts.
+> Sometimes letting things go is an act of far greater power than defending or hanging on.
 
 <!-- QUOTE_END -->
 
