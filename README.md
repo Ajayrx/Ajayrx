@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> When you get up in the morning, you have two choices - either to be happy or to be unhappy. Just choose to be happy.
+> Do not go where the path may lead, go instead where there is no path and leave a trail.
 
 <!-- QUOTE_END -->
 
