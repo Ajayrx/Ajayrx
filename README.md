@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> To acquire true self power you have to feel beneath no one, be immune to criticism and be fearless.
+> Common sense is not so common. 
 
 <!-- QUOTE_END -->
 
