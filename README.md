@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> I don't ever give up. I'd have to be dead or completely incapacitated.
+> Do not think you will necessarily be aware of your own enlightenment.
 
 <!-- QUOTE_END -->
 
