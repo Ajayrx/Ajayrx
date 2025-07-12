@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Change will not come if we wait for some other person, or if we wait for some other time.
+> Treat everyone with politeness and kindness, not because they are nice, but because you are.
 
 <!-- QUOTE_END -->
 
