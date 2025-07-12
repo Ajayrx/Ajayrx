@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> The art of being happy lies in the power of extracting happiness from common things.
+> The biggest and only critic lives in your perception of people's perception of you rather than people's perception of you.
 
 <!-- QUOTE_END -->
 
