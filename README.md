@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> For changes to be of any true value, they've got to be lasting and consistent.
+> Every great change is preceded by chaos.
 
 <!-- QUOTE_END -->
 
