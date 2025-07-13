@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Success is about doing the right thing, not about doing everything right.
+> The present moment is filled with joy and happiness. If you are attentive, you will see it.
 
 <!-- QUOTE_END -->
 
