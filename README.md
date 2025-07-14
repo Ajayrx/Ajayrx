@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Don't let someone elses. opinion become your reality.
+> The question isn't who is going to let me; it's who is going to stop me.
 
 <!-- QUOTE_END -->
 
