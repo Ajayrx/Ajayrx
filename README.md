@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> There are two ways of seeing: with the body and with the soul. The body's sight can sometimes forget, but the soul remembers forever.
+> Kindness is a language which the deaf can hear and the blind can see.
 
 <!-- QUOTE_END -->
 
