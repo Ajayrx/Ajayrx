@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Few things are more deceptive than memories.
+> Do not be so open-minded that your brains fall out.
 
 <!-- QUOTE_END -->
 
