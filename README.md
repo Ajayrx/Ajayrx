@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> The tragedy of life doesn't lie in not reaching your goal. The tragedy lies in having no goals to reach.
+> Success is stumbling from failure to failure with no loss of enthusiasm.
 
 <!-- QUOTE_END -->
 
