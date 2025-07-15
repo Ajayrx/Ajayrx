@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Don't be afraid of enemies who attack you. Be afraid of the friends who flatter you.
+> There is only one way to happiness and that is to cease worrying about things which are beyond the power or our will.
 
 <!-- QUOTE_END -->
 
