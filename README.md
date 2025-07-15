@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Progress lies not in enhancing what is, but in advancing toward what will be.
+> What you get by achieving your goals is not as important as what you become by achieving your goals.
 
 <!-- QUOTE_END -->
 
