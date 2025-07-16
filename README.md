@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> All you need is passion. If you have a passion for something, you'll create the talent.
+> Truth is such a rare thing, it is delighted to tell it.
 
 <!-- QUOTE_END -->
 
