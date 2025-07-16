@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> The right thing to do and the hard thing to do are usually the same.
+> The number one cause of failure is the fear of failure.
 
 <!-- QUOTE_END -->
 
