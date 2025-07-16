@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> The greatest of all mistakes is to do nothing because you think you can only do a little.  
+> Be yourself; everyone else is already taken 
 
 <!-- QUOTE_END -->
 
