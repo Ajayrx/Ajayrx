@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Judgments prevent us from seeing the good that lies beyond appearances.  
+> Love yourself with the same intensity you would use to pull yourself up if you were hanging off a cliff.
 
 <!-- QUOTE_END -->
 
