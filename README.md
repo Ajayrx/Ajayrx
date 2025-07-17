@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Stop wasting time looking at someone else's reality while doing nothing about yours.
+> Be still when you have nothing to say; when genuine passion moves you, say what you've got to say, and say it hot.
 
 <!-- QUOTE_END -->
 
