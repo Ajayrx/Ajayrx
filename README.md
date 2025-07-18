@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Believe nothing you hear, and only one half that you see.
+> If the misery of the poor be caused not by the laws of nature, but by our institutions, great is our sin.
 
 <!-- QUOTE_END -->
 
