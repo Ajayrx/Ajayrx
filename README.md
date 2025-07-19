@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Difficult roads often lead to beautiful destinations.
+> Youth is happy because it has the ability to see beauty. Anyone who keeps the ability to see beauty never grows old. 
 
 <!-- QUOTE_END -->
 
