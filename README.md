@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Any idea, plan, or purpose may be placed in the mind through repetition of thought.
+> When everything seems to be going against you, remember that the airplane takes off against the wind, not with it.
 
 <!-- QUOTE_END -->
 
