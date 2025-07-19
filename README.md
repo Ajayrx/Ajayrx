@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> It's not the size of the dog in the fight, it's the size of the fight in the dog.
+> Go and do the things you can't. That is how you get to do them.
 
 <!-- QUOTE_END -->
 
