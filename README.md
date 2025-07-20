@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Words without actions are the assassins of idealism.
+> The more you feed your mind with positive thoughts, the more you can attract great things into your life.
 
 <!-- QUOTE_END -->
 
