@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Man is made by his belief. As he believes, so he is.
+> To injure an opponent is to injure yourself. To control aggression without inflicting injury is the Art of Peace.
 
 <!-- QUOTE_END -->
 
