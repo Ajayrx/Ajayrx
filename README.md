@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> If it's not broken, tinker with it till you find out how it works.
+> Only he who has no use for the empire is fit to be entrusted with it.
 
 <!-- QUOTE_END -->
 
