@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Expect the best, plan for the worst, and prepare to be surprised. 
+> It's better to have a short life that is full of what you like doing, than a long life spent in a miserable way.
 
 <!-- QUOTE_END -->
 
