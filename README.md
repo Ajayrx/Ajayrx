@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Faults are yours to fix, not to curse.
+> If you think you can do a thing or think you can't do a thing, you're right.
 
 <!-- QUOTE_END -->
 
