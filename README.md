@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> It is literally true that you can succeed best and quickest by helping others succeed.
+> The greater the impact you want to make, the greater your influence needs to be.
 
 <!-- QUOTE_END -->
 
