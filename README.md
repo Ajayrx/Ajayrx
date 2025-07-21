@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> The first thing you learn in life is you're a fool. The last thing you learn in life is you're the same fool.  
+> From morning till night, we should never rely on a single thing.
 
 <!-- QUOTE_END -->
 
