@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Trying to predict the future is like trying to drive down a country road at night with no lights while looking out the back window.
+> Work for something because it is good, not just because it stands a chance to succeed.
 
 <!-- QUOTE_END -->
 
