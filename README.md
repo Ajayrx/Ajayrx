@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> I take the position that I'm always to some degree wrong, and the aspiration is to be less wrong.
+> You cannot push anyone up a ladder unless he is willing to climb a little himself.
 
 <!-- QUOTE_END -->
 
