@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Small men think they are small; great men never know they are great. 
+> Investing in yourself is the best investment you will ever make.
 
 <!-- QUOTE_END -->
 
