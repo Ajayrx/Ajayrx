@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Even when you think you have your life all mapped out, things happen that shape your destiny in ways you might never have imagined.
+> The world makes way for the man who knows where he is going.
 
 <!-- QUOTE_END -->
 
