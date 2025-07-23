@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> It's not what you pay a man, but what he costs you that counts.
+> Progress lies not in enhancing what is, but in advancing toward what will be.
 
 <!-- QUOTE_END -->
 
