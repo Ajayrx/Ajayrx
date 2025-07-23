@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> By the practice of meditation, you will find that you are carrying within your heart a portable paradise.
+> It's not what you pay a man, but what he costs you that counts.
 
 <!-- QUOTE_END -->
 
