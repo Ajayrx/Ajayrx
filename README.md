@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Good things aren't supposed to just fall into your lap.
+> You can tell more about a person by what he says about others than you can by what others say about him.
 
 <!-- QUOTE_END -->
 
