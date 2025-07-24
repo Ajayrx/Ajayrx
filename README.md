@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> You are a function of what the whole universe is doing in the same way that a wave is a function of what the whole ocean is doing.
+> Never regret your past. Rather, embrace it as the teacher that it is.
 
 <!-- QUOTE_END -->
 
