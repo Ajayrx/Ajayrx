@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more.
+> We can see through others only when we can see through ourselves.
 
 <!-- QUOTE_END -->
 
