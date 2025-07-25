@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> The chief enemy of creativity is good sense.
+> Wherever there is danger, there lurks opportunity; wherever there is opportunity, there lurks danger. The two are inseparable.
 
 <!-- QUOTE_END -->
 
