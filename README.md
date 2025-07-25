@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> People will forget what you said, people will forget what you did, but people will never forget how you made them feel.
+> The best way to understanding is a few good examples.
 
 <!-- QUOTE_END -->
 
