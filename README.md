@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Still your waters.
+> Successful people tend to become more successful because they are always thinking about their successes.
 
 <!-- QUOTE_END -->
 
