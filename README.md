@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> We shape clay into a pot, but it is the emptiness inside that holds whatever we want.
+> For the things we have to learn before we can do them, we learn by doing them.
 
 <!-- QUOTE_END -->
 
