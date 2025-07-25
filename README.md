@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> When you reach the top of the mountain, keep climbing. 
+> Do you want to know who you are? Don't ask. Act! Action will delineate and define you.
 
 <!-- QUOTE_END -->
 
