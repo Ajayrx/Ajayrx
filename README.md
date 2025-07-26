@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Character is doing what you don't want to do but know you should do.
+> Embrace the life you have and stop wishing that you could be someone else.
 
 <!-- QUOTE_END -->
 
