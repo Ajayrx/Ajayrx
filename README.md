@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Mind is the creator of everything. You should therefore guide it to create only good.
+> Study logic and math, because once you've mastered them, you won't fear any book.
 
 <!-- QUOTE_END -->
 
