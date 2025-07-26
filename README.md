@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> What you become is far more important than what you get.
+> Mind is the creator of everything. You should therefore guide it to create only good.
 
 <!-- QUOTE_END -->
 
