@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Whenever people agree with me I always feel I must be wrong.
+> You are never too old to set another goal or to dream a new dream.
 
 <!-- QUOTE_END -->
 
