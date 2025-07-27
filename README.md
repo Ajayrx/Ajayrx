@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> You Create Your Own Present By What You Give Your Attention To Today.
+> A scientific man ought to have no wishes, no affections, - a mere heart of stone.
 
 <!-- QUOTE_END -->
 
