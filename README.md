@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> It's not about what it is, it's about what it can become.
+> Resentment or grudges do no harm to the person against whom you hold these feelings but every day and every night of your life, they are eating at you.
 
 <!-- QUOTE_END -->
 
