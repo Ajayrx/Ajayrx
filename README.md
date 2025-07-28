@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> A tiny change today brings a dramatically different tomorrow.
+> Till it has loved, no man or woman can become itself.
 
 <!-- QUOTE_END -->
 
