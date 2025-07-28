@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Everyone you admire was once a beginner.
+> Every man's work, whether it be literature or music or pictures or architecture or anything else, is always a portrait of himself.
 
 <!-- QUOTE_END -->
 
