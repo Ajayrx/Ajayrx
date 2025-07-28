@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Every man's work, whether it be literature or music or pictures or architecture or anything else, is always a portrait of himself.
+> New opinions are always suspected, and usually opposed, without any other reason but because they are not common.
 
 <!-- QUOTE_END -->
 
