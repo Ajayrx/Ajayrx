@@ -125,7 +125,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ajayrx/Ajayrx/output/pacman-contribution-graph.svg">
       <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ajayrx/Ajayrx/output/pacman-contribution-graph.svg">
     </picture>
-    Thanks Dev [abozanona/pacman-contribution-graph]
+    <p><b>Thanks Dev [abozanona/pacman-contribution-graph]
 </div>
 
 
