@@ -1,4 +1,4 @@
-name: Quotes Every 30 Minutes
+name: Quotes Every 2 hour
 
 on:
   schedule:
@@ -33,7 +33,7 @@ jobs:
           <!-- QUOTE_START -->\n\n<img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>\n\n> '"$QUOTE"'\n\n<!-- QUOTE_END -->' README.md
 
           # Display updated README content for debugging
-          grep -A 2 "<img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>" README.md | tee debug.log
+          grep -A 2 '<img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE"' README.md | tee debug.log || true
 
       - name: Commit and push changes
         run: |
