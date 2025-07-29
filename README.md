@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Either write something worth reading or do something worth writing.
+> Quality is more important than quantity. One home run is much better than two doubles.
 
 <!-- QUOTE_END -->
 
