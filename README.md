@@ -67,7 +67,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
 
-> Make no small plans for they have no power to stir the soul.
+> Life may be full of pain but that's not an excuse to give up.
 
 <!-- QUOTE_END -->
 
