@@ -62,7 +62,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <!-- QUOTE_START -->
 
-<img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
+<img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;" >
 
 > Life is a constant series of opportunities.
 
