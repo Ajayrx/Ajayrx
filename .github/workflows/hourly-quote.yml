@@ -30,10 +30,10 @@ jobs:
       
           # Ensure README.md is updated correctly
           sed -i '/<!-- QUOTE_START -->/,/<!-- QUOTE_END -->/c\
-          <!-- QUOTE_START -->\n\n<img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>\n\n> '"$QUOTE"'\n\n<!-- QUOTE_END -->' README.md
+          <!-- QUOTE_START -->\n\n<img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>\n\n> '"$QUOTE"'\n\n<!-- QUOTE_END -->' README.md
 
           # Display updated README content for debugging
-          grep -A 2 "<img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>" README.md | tee debug.log
+          grep -A 2 "<img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>" README.md | tee debug.log
 
       - name: Commit and push changes
         run: |
