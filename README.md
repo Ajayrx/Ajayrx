@@ -63,7 +63,9 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;">
 <!-- QUOTE_START -->
 
-> Inspire yourself to be great. Being good isn't good enough.
+<img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" height="30"/>
+
+> Care about what other people think and you will always be their prisoner.
 
 <!-- QUOTE_END -->
 
