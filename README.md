@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> There is a big difference between being centered and being self-centered.
+> Setting goals is the first step in turning the invisible into the visible.
 
 <!-- QUOTE_END -->
 
