@@ -74,7 +74,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
   <img src="DevAi/banner-ajay.gif" height="200px" alt="nothing logo"  />
 </div>
 <br>
-<img src="https://img.shields.io/badge/🛠️%20Tools%20and%20Technologies%20Used-4F61FF" style="height:35px;" />
+<!-- <img src="https://img.shields.io/badge/🛠️%20Tools%20and%20Technologies%20Used-4F61FF" style="height:35px;" />
 <br>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50px" alt="vscode logo"  />
@@ -96,7 +96,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="50px" alt="canva logo"  />
   <img width="21" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="50px" alt="anaconda logo"  />
-  <img width="21" /> 
+  <img width="21" />  -->
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="50px" alt="copied by ajay from devicon lol" />           -->
 </div>
 
