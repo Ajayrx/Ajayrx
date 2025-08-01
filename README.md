@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Every moment you get is a gift. Spend it on things that matter. Don't spend it by dwelling on unhappy things.
+> It matters not who you love, where you love, why you love, when you love or how you love, it matters only that you love.
 
 <!-- QUOTE_END -->
 
