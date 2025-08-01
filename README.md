@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Even though you are on the right track - you will get run over if you just sit there.
+> If you try to micromanage yourself all you're going to do is make yourself miserable.
 
 <!-- QUOTE_END -->
 
