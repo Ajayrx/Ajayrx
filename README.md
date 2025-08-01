@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Some people feel the rain. Others just get wet. 
+> Even though you are on the right track - you will get run over if you just sit there.
 
 <!-- QUOTE_END -->
 
