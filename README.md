@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> The wisest men follow their own direction.
+> Wrong does not cease to be wrong because the majority share in it.
 
 <!-- QUOTE_END -->
 
