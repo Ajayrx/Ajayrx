@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> People who are unable to motivate themselves must be content with mediocrity, no matter how impressive their other talents.
+> No great discovery was ever made without a bold guess. 
 
 <!-- QUOTE_END -->
 
