@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> In order to be irreplaceable one must always be different.
+> Success does not consist in never making mistakes but in never making the same one a second time.
 
 <!-- QUOTE_END -->
 
