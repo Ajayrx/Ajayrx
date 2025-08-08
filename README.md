@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Life is from the inside out. When you shift on the inside, life shifts on the outside.
+> Absence makes the heart grow fonder.
 
 <!-- QUOTE_END -->
 
