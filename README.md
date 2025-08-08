@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> I am thankful to all who said no to me. It is because of them that I'm doing it myself.
+> Victims recite problems, leaders provide solutions.
 
 <!-- QUOTE_END -->
 
