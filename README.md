@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> The grass is greener where you water it.
+> Don't wait for extraordinary opportunities. Seize common occasions and make them great.
 
 <!-- QUOTE_END -->
 
