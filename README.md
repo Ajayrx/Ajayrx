@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Keep your dreams, you never know when you might need them.
+> Man is affected not by events but by the view he takes of them.  
 
 <!-- QUOTE_END -->
 
