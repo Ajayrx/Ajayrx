@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> From error to error one discovers the entire truth.
+> Tragedy is a tool for the living to gain wisdom, not a guide by which to live.
 
 <!-- QUOTE_END -->
 
