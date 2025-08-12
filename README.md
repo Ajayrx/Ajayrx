@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> The smallest of actions is always better than the noblest of intentions.
+> The friend is the man who knows all about you, and still likes you.
 
 <!-- QUOTE_END -->
 
