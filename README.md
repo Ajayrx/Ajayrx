@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> It isn't that they can't see the solution. It is that they can't see the problem.
+> You'll get more from being a peacemaker than a warrior.
 
 <!-- QUOTE_END -->
 
