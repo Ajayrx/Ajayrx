@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Nothing is easier than fault finding.
+> If you build the guts to do something, anything, then you better save enough to face the consequences.
 
 <!-- QUOTE_END -->
 
