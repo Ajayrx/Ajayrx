@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Without struggle, no progress and no result. Every breaking of habit produces a change in the machine.
+> The less you open your heart to others, the more your heart suffers.
 
 <!-- QUOTE_END -->
 
