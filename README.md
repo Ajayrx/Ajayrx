@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Experience is a comb which nature gives us when we are bald. 
+> Only by attracting the best people will you accomplish great deeds.
 
 <!-- QUOTE_END -->
 
