@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> No idea, no matter how good, will work if it doesn't get used.
+> Forget safety. Live where you fear to live.
 
 <!-- QUOTE_END -->
 
