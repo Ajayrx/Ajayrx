@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> The moment you stop to think about whether you love someone, you've already stopped loving that person forever.
+> No idea, no matter how good, will work if it doesn't get used.
 
 <!-- QUOTE_END -->
 
