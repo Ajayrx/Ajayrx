@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> The most important thing in communication is to hear what isn't being said.
+> If a thing is worth doing, it is worth doing badly.
 
 <!-- QUOTE_END -->
 
