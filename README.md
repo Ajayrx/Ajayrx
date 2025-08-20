@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Only by acceptance of the past, can you alter it.
+> It doesn't matter if the glass is half empty or half full. Be grateful you have a glass - you're the only person that can decide what's in it.
 
 <!-- QUOTE_END -->
 
