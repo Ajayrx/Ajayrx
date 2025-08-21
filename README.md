@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> FOCUS - Follow One Course Until Successful
+> A life spent making mistakes is not only more honorable but more useful than a life spent doing nothing.
 
 <!-- QUOTE_END -->
 
