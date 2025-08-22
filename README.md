@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Go as far as you can see and you will see further.  
+> Nothing has more strength than dire necessity.
 
 <!-- QUOTE_END -->
 
