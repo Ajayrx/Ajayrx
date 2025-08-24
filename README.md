@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Sometimes, the only way to evolve is to open ourselves fully.
+> Life is just the same as learning to swim. Do not be afraid of making mistakes, for there is no other way of learning how to live!
 
 <!-- QUOTE_END -->
 
