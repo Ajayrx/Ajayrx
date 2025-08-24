@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> No kind action ever stops with itself. One kind action leads to another. Good example is followed.
+> Instead of thinking outside the box, get rid of the box.
 
 <!-- QUOTE_END -->
 
