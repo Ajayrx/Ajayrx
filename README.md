@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> If you want something then you lose everything. If you don't want anything then you already have everything.
+> If we have no peace, it is because we have forgotten that we belong to each other.
 
 <!-- QUOTE_END -->
 
