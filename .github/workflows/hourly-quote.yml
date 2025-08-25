@@ -2,7 +2,7 @@ name: Quotes Every 2 hour
 
 on:
   schedule:
-    - cron: '0 */2 * * *'  
+    - cron: '0 */2 * * *'  # Every 2 hours
   workflow_dispatch:  
 
 jobs:
@@ -15,45 +15,42 @@ jobs:
       - name: Install dependencies
         run: sudo apt-get install -y jq  
 
-      - name: Fetch a new quote
+      - name: Make random commits
         run: |
-          # Fetch a random quote from the API
-          QUOTE=$(curl -s https://zenquotes.io/api/random | jq -r '.[0].q')
-      
-          # Check if the quote is empty or null, then use a fallback
-          if [[ -z "$QUOTE" || "$QUOTE" == "null" ]]; then
-            QUOTE="Keep pushing forward, success is near! 🚀"
-          fi
-      
-          # Debugging: Print the fetched quote
-          echo "Fetched Quote: $QUOTE"
-      
-          # Ensure README.md is updated correctly
-          sed -i '/<!-- QUOTE_START -->/,/<!-- QUOTE_END -->/c\
-          <!-- QUOTE_START -->\n\n<img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>\n\n> '"$QUOTE"'\n\n<!-- QUOTE_END -->' README.md
+          # Generate random number of commits (0 to 40)
+          NUM_COMMITS=$(( RANDOM % 41 ))
+          echo "Number of commits to make: $NUM_COMMITS"
 
-          # Display updated README content for debugging
-          grep -A 2 '<img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE"' README.md | tee debug.log || true
+          for ((i=1; i<=NUM_COMMITS; i++)); do
+            # Fetch a random quote
+            QUOTE=$(curl -s https://zenquotes.io/api/random | jq -r '.[0].q')
 
-      - name: Commit and push changes
-        run: |
-          git config --global user.name "Ajayrx"
-          git config --global user.email "137894866+Ajayrx@users.noreply.github.com" 
+            # Fallback if empty or null
+            if [[ -z "$QUOTE" || "$QUOTE" == "null" ]]; then
+              QUOTE="Keep pushing forward, success is near! 🚀"
+            fi
 
-          git add README.md
+            # Update README.md quote section
+            sed -i '/<!-- QUOTE_START -->/,/<!-- QUOTE_END -->/c\
+            <!-- QUOTE_START -->\n\n<img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>\n\n> '"$QUOTE"'\n\n<!-- QUOTE_END -->' README.md
 
-          # Check if there are any changes
-          if git diff --cached --quiet; then 
-            echo "No changes detected. Exiting..."
-            exit 0
-          fi
+            git add README.md
 
-          # echo "$(date)" > last_update.txt 
-          # git add last_update.txt 
-    
-          GIT_COMMITTER_NAME="Ajayrx" GIT_COMMITTER_EMAIL="137894866+Ajayrx@users.noreply.github.com" \
-          git commit -m "Updated quote of the moment" --author="Ajayrx <137894866+Ajayrx@users.noreply.github.com>"
+            # Commit changes if any
+            if git diff --cached --quiet; then
+              echo "No changes detected for commit $i, skipping..."
+            else
+              GIT_COMMITTER_NAME="Ajayrx" GIT_COMMITTER_EMAIL="137894866+Ajayrx@users.noreply.github.com" \
+              git commit -m "Updated quote of the moment ($i/$NUM_COMMITS)" --author="Ajayrx <137894866+Ajayrx@users.noreply.github.com>"
+              echo "Committed update $i of $NUM_COMMITS"
+            fi
 
+            # Optional delay between commits
+            sleep 10
+          done
+
+          # Push all commits after loop
           git push --force
 
-
+      - name: Final status
+        run: echo "Completed $NUM_COMMITS commit(s) of quote updates."
