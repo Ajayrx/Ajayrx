@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> It's easy to wish for health when you're sick.  When you're doing well, you need just as much vigilance.
+> I've always lived in the moment.
 
 <!-- QUOTE_END -->
 
