@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Obstacles can't stop you. Problems can't stop you. Most of all, other people can't stop you. Only you can stop you.
+> People who say it cannot be done should not interrupt those who are doing it.
 
 <!-- QUOTE_END -->
 
