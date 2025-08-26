@@ -151,10 +151,11 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
                 </h2>
                 <div class="row">
     <section class="people">
-        <img class="avatar" src="https://avatars.githubusercontent.com/u/190867562?v=4" width="35" height="35" alt="Dev follower" />
+        <img class="avatar" src="https://avatars.githubusercontent.com/u/190867562?v=4" width="35" height="35" alt="Default Avatar" />
         <img class="avatar" src="https://avatars.githubusercontent.com/u/106858039?v=4" width="35" height="35" alt="Default Avatar" />
         <img class="avatar" src="https://avatars.githubusercontent.com/u/202905441?v=4" width="35" height="35" alt="Default Avatar" />
-        <img class="avatar" src="https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y" width="35" height="35" alt="Default Avatar" />
+        <img class="avatar" src="https://avatars.githubusercontent.com/u/223706601?v=4" width="35" height="35" alt="Default Avatar" />
+        <img class="avatar" src="https://avatars.githubusercontent.com/u/204497330?v=4" width="35" height="35" alt="Default Avatar" />
         <img class="avatar" src="https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y" width="35" height="35" alt="Default Avatar" />
         <img class="avatar" src="https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y" width="35" height="35" alt="Default Avatar" />
 <!--         <img class="avatar" src="https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y" width="35" height="35" alt="Default Avatar" />
