@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> I want the fishing rod, not the fish.
+> If you want to achieve anything in this world, you have to get used to the idea that not everyone will like you.
 
 <!-- QUOTE_END -->
 
