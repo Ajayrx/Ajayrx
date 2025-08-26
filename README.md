@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Don't want anything. Then you get everything.
+> Freedom is the only worthy goal in life. It is won by disregarding things that lie beyond our control.
 
 <!-- QUOTE_END -->
 
