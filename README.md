@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Peace is not something you wish for; It's something you make, something you do, something you are, and something you give away.
+> Hope itself is like a star- not to be seen in the sunshine of prosperity, and only to be discovered in the night of adversity.
 
 <!-- QUOTE_END -->
 
