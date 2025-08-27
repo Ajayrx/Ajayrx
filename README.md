@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> I'm not afraid of death, but I'm in no hurry to die.
+> Peace is not something you wish for; It's something you make, something you do, something you are, and something you give away.
 
 <!-- QUOTE_END -->
 
