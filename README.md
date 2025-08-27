@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Ancient Rule of Twenty-one: if you do anything for twenty-one days in a row, it will be installed as a habit.
+> At first dreams seem impossible, then improbable, then inevitable.
 
 <!-- QUOTE_END -->
 
