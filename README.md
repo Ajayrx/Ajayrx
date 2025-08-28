@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Learn the rules like a pro, so you can break them like an artist.
+> I would rather be hated for who I am than loved for who I'm not.  
 
 <!-- QUOTE_END -->
 
