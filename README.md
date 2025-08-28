@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> When we allow negative messages to fester in our head, they take on a life of their own.
+> A scientific man ought to have no wishes, no affections, - a mere heart of stone.
 
 <!-- QUOTE_END -->
 
