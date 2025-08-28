@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> You are not stuck where you are unless you decide to be.  
+> The more you know, the more you know you don't know.
 
 <!-- QUOTE_END -->
 
