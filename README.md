@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> In a world that is constantly changing, it is to our advantage to learn how to adapt and enjoy something better.
+> All human wisdom is contained in these two words - Wait and Hope
 
 <!-- QUOTE_END -->
 
