@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Too many of us are not living our dreams because we are living our fears.
+> Unless you change how you are, you will always have what you got.
 
 <!-- QUOTE_END -->
 
