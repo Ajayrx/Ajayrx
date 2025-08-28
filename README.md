@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> There is only one way to happiness and that is to cease worrying about things which are beyond the power or our will.
+> You are always your own best guru, your own best teacher, the answers are always inside you.
 
 <!-- QUOTE_END -->
 
