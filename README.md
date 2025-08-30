@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Curiosity is the most powerful thing you own. Imagination is a force that can actually manifest a reality.
+> There is no right or wrong, only a series of possibilities that shift with each thought, feeling, and action that you experience.
 
 <!-- QUOTE_END -->
 
