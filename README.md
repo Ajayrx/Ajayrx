@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> If you want more luck, take more chances.
+> If you don't like something change it. If you can't change it, change your attitude about it. Don't complain.
 
 <!-- QUOTE_END -->
 
