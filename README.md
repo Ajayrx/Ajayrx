@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Nothing has any power over me other than that which I give it through my conscious thoughts.
+> A man sooner or later discovers that he is the master-gardener of his soul, the director of his life.
 
 <!-- QUOTE_END -->
 
