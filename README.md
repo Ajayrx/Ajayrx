@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Life is not just the passing of time. Life is the collection of experiences and their intensity.
+> You can only lose something that you have, but you cannot lose something that you are.
 
 <!-- QUOTE_END -->
 
