@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> The ego wants comfort and certainty. The soul wants to live fully.
+> Life goes by fast. Enjoy it. Calm down. It's all funny.
 
 <!-- QUOTE_END -->
 
