@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Success is doing what you want to do, when you want, where you want, with whom you want, as much as you want.
+> The pain of parting is nothing to the joy of meeting again.
 
 <!-- QUOTE_END -->
 
