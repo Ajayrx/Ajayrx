@@ -18,7 +18,7 @@ jobs:
       - name: Make random commits
         run: |
           # Generate random number of commits (0 to 40)
-          NUM_COMMITS=$(( RANDOM % 41 ))
+          NUM_COMMITS=$(( RANDOM % 11 ))
           echo "Number of commits to make: $NUM_COMMITS"
 
           for ((i=1; i<=NUM_COMMITS; i++)); do
