@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Your world is a living expression of how you are using and have used your mind.
+> Inspiration exists, but it has to find you working.
 
 <!-- QUOTE_END -->
 
