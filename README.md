@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> The greatest step towards a life of simplicity is to learn to let go.
+> A man who acquires the ability to take full possession of his own mind may take possession of anything else to which he is justly entitled.
 
 <!-- QUOTE_END -->
 
