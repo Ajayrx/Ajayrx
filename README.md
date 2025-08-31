@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Just because something isn't a lie does not mean that it isn't deceptive.
+> The foolish reject what they see, not what they think; the wise reject what they think, not what they see.
 
 <!-- QUOTE_END -->
 
