@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> A gentleman is one who puts more into the world than he takes out.
+> Whatever we plant in our subconscious mind and nourish with repetition and emotion will one day become reality.
 
 <!-- QUOTE_END -->
 
