@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Always keep your eyes open. Keep watching. Because whatever you see can inspire you.
+> I never dwell on what happened. You can't change it. Move forward.
 
 <!-- QUOTE_END -->
 
