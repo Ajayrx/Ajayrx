@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Never close your lips to those whom you have already opened your heart.
+> Sometimes letting things go is an act of far greater power than defending or hanging on.
 
 <!-- QUOTE_END -->
 
