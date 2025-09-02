@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> We live only now. Everything else is either passed or is unknown.
+> Be the silent watcher of your thoughts and behavior. You are beneath the thinker.
 
 <!-- QUOTE_END -->
 
