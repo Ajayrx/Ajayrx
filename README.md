@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Problems remain as problems because people are busy defending them rather than finding solutions.
+> The only defense against the world is a thorough knowledge of it.
 
 <!-- QUOTE_END -->
 
