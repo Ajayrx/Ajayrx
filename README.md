@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Determine never to be idle. No person will have occasion to complain of the want of time who never loses any.
+> The more often a stupidity is repeated, the more it gets the appearance of wisdom.
 
 <!-- QUOTE_END -->
 
