@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Wisdom is doing now what you are going to be happy with later on.
+> If you don't read the newspaper, you're uninformed. If you read the newspaper, you're misinformed.
 
 <!-- QUOTE_END -->
 
