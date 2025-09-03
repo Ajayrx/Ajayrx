@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> There are three classes of people: those who see. Those who see when they are shown. Those who do not see.
+> Why compare yourself with others? No one in the entire world can do a better job of being you than you.
 
 <!-- QUOTE_END -->
 
