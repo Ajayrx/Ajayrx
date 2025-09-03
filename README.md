@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> The question isn't who is going to let me; it's who is going to stop me.
+> Everything that is made beautiful and fair and lovely is made for the eye of one who sees.
 
 <!-- QUOTE_END -->
 
