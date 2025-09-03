@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> The biggest mistake we could ever make in our lives is to think we work for anybody but ourselves.
+> No man ever steps in the same river twice, for it's not the same river and he's not the same man.
 
 <!-- QUOTE_END -->
 
