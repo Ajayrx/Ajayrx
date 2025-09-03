@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Everybody by your side ain't on your side.
+> There are three classes of people: those who see. Those who see when they are shown. Those who do not see.
 
 <!-- QUOTE_END -->
 
