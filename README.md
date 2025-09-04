@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> If you do what you've always done, you'll get what you've always gotten.
+> Good entrepreneurs don't fail because they stay at it.
 
 <!-- QUOTE_END -->
 
