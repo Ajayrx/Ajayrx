@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> When something comes from within, when it is a part of you, you have no choice but to live it, to express it.
+> There are no shortcuts to any place worth going.
 
 <!-- QUOTE_END -->
 
