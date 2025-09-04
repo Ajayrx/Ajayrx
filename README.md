@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Do you want to know who you are? Don't ask. Act! Action will delineate and define you.
+> If you do what you've always done, you'll get what you've always gotten.
 
 <!-- QUOTE_END -->
 
