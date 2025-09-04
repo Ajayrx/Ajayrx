@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> There are no second chances in life, except to feel remorse.
+> If I cannot do great things. I can do small things in a great way.
 
 <!-- QUOTE_END -->
 
