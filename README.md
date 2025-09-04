@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> You don't earn loyalty in a day. You earn loyalty day-by-day.
+> Stop acting so small. You are the universe in ecstatic motion.
 
 <!-- QUOTE_END -->
 
