@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Most people fail in life because they major in minor things.
+> To achieve, you need thought. You have to know what you are doing and that's real power.
 
 <!-- QUOTE_END -->
 
