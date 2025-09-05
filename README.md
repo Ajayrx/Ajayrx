@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> If you want to find the secrets of the universe, think in terms of energy, frequency and vibration. 
+> Your world is a living expression of how you are using and have used your mind.
 
 <!-- QUOTE_END -->
 
