@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Death smiles at us all. All we can do is smile back.
+> An empty head is not really empty; it is stuffed with rubbish. Hence the difficulty of forcing anything into an empty head.
 
 <!-- QUOTE_END -->
 
