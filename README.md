@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Maybe you are searching among the branches, for what only appears in the roots.
+> There is only the one reality, neither to be realized nor attained.
 
 <!-- QUOTE_END -->
 
