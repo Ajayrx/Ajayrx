@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> True friendship ought never to conceal what it thinks. 
+> Rest when you're weary. Refresh and renew yourself, your body, your mind, your spirit. Then get back to work.
 
 <!-- QUOTE_END -->
 
