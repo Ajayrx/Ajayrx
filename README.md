@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> When you're at the end of your rope, tie a knot and hold on.
+> The truth is not for all men, but for those who seek it.
 
 <!-- QUOTE_END -->
 
