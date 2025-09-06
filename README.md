@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Monsters are real, and ghosts are real too. They live inside us, and sometimes, they win.
+> If you are not living each day with excitement, energy, and passion, then you are not living true to your life purpose.
 
 <!-- QUOTE_END -->
 
