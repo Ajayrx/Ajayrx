@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> If you aren't sure which way to do something, do it both ways and see which works better.
+> Actions are the seeds of fate. Deeds grow into destiny.
 
 <!-- QUOTE_END -->
 
