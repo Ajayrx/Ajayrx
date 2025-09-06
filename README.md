@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Knowledge is learning something everyday. Wisdom is letting go of something everyday.
+> What would life be if we had no courage to attempt anything? 
 
 <!-- QUOTE_END -->
 
