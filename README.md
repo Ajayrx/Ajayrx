@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> We will act consistently with our view of who we truly are, whether that view is accurate or not.
+> Be happy now, without reason - or you never will be at all.
 
 <!-- QUOTE_END -->
 
