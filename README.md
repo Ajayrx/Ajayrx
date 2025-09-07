@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> The more you extend kindness to yourself, the more it will become your automatic response to others.
+> It's easy to be a critic, but being a doer requires effort, risk, and change.  
 
 <!-- QUOTE_END -->
 
