@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Life is what you make it. Always has been, always will be.
+> If you read a lot of books, you're considered well-read. But if you watch a lot of TV, you're not considered well-viewed.
 
 <!-- QUOTE_END -->
 
