@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> My mind seems to have become a kind of machine for grinding general laws out of large collections of facts.
+> However difficult life may seem, there is always something you can do and succeed at.
 
 <!-- QUOTE_END -->
 
