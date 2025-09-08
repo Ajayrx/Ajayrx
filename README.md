@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Discipline is the bridge between goals and accomplishment.
+> Life is ten percent what you experience and ninety percent how you respond to it.
 
 <!-- QUOTE_END -->
 
