@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> You can suffer the pain of change or suffer remaining the way you are.
+> No matter how smart we may think we are, no matter how committed we are to our truth, we can lose our way.
 
 <!-- QUOTE_END -->
 
