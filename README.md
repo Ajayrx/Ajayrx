@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Talk does not cook rice.
+> We cannot expect to be happy always... by experiencing evil as well as good we become wise.
 
 <!-- QUOTE_END -->
 
