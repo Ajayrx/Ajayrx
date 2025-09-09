@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> It's the unknown we fear when we look upon death and darkness, nothing more.
+> I'd rather welcome change than cling to the past.
 
 <!-- QUOTE_END -->
 
