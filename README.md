@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Take care of your cents: dollars will take care of themselves.
+> Give out what you most want to come back.
 
 <!-- QUOTE_END -->
 
