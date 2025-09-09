@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> To lead the people, walk behind them.
+> Every time you are tempted to react in the same old way, ask if you want to be a prisoner of the past or a pioneer of the future.
 
 <!-- QUOTE_END -->
 
