@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> If you realize that you're the problem, then you can change yourself, learn something and grow wiser. Don't blame other people for your problems.
+> Just trust that everything is unfolding the way it is supposed to. Don't resist... Great things are waiting for you around the corner.
 
 <!-- QUOTE_END -->
 
