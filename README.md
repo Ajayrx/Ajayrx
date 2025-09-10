@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Study logic and math, because once you've mastered them, you won't fear any book.
+> Do not be so open-minded that your brains fall out.
 
 <!-- QUOTE_END -->
 
