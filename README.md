@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> It is literally true that you can succeed best and quickest by helping others succeed.
+> If you haven't the strength to impose your own terms upon life, then you must accept the terms it offers you.
 
 <!-- QUOTE_END -->
 
