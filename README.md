@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Every one of us is the sum total of his own thoughts.
+> The truth is, everyone is going to hurt you. You just got to find the ones worth suffering for.
 
 <!-- QUOTE_END -->
 
