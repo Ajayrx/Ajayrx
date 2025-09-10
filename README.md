@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> The fewer the words, the better the prayer.
+> If you get up one more time than you fall, you will make it through.
 
 <!-- QUOTE_END -->
 
