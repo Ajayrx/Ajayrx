@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Behind every beautiful thing, there's some kind of pain.
+> Happiness is a quality of the soul...not a function of one's material circumstances.
 
 <!-- QUOTE_END -->
 
