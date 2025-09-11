@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> You need to be doing fewer things for more effect instead of doing more things with side effects.
+> No man can get rich himself unless he enriches others.
 
 <!-- QUOTE_END -->
 
