@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Men go to far greater lengths to avoid what they fear than to obtain what they desire.
+> Remember to look up at the stars and not down at your feet.
 
 <!-- QUOTE_END -->
 
