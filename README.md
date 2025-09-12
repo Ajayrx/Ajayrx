@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Loving thoughts and actions are clearly beneficial for our physical and mental health.
+> I think it's very important to have a feedback loop, where you're constantly thinking about what you've done and how you could be doing it better.
 
 <!-- QUOTE_END -->
 
