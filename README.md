@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> It's not what you say out of your mouth that determines your life, it's what you whisper to yourself that has the most power!
+> Belief creates the actual fact.
 
 <!-- QUOTE_END -->
 
