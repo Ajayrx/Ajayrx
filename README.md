@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Even when you think you have your life all mapped out, things happen that shape your destiny in ways you might never have imagined.
+> Be who you are and say what you feel because those who mind don't matter and those who matter don't mind.
 
 <!-- QUOTE_END -->
 
