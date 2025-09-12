@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> A man is great not because he hasn't failed; a man is great because failure hasn't stopped him.
+> We are all like the bright moon, we still have our darker side.  
 
 <!-- QUOTE_END -->
 
