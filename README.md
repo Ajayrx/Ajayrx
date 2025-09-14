@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> The future depends on what you do today. 
+> The best way to find yourself is to lose yourself in the service of others.
 
 <!-- QUOTE_END -->
 
