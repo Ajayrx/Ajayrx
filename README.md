@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Grudges are for those who insist that they are owed something; forgiveness, however, is for those who are substantial enough to move on.
+> Go as far as you can see and you will see further.  
 
 <!-- QUOTE_END -->
 
