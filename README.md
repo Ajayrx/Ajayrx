@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Who you are is always right.
+> Life is not meant to be easy my child, but take courage: it can be delightful.
 
 <!-- QUOTE_END -->
 
