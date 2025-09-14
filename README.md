@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Dreams do come true, if we only wish hard enough, You can have anything in life if you will sacrifice everything else for it.
+> Be willing to be a beginner every single morning.
 
 <!-- QUOTE_END -->
 
