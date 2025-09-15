@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat.
+> Associate with people who are likely to improve you.  
 
 <!-- QUOTE_END -->
 
