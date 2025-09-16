@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Our anxiety does not empty tomorrow of its sorrows, but only empties today of its strengths.
+> What most people need to learn in life is how to love people and use things instead of using people and loving things.
 
 <!-- QUOTE_END -->
 
