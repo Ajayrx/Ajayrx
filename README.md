@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Silence is the great teacher and to learn its lessons you must pay attention to it.
+> Emancipate yourself from mental slavery, none but ourselves can free our mind.
 
 <!-- QUOTE_END -->
 
