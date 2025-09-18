@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> The majority of what you want will come from the minority of what you do.
+> Confidence is like a dragon where, for every head cut off, two more heads grow back.
 
 <!-- QUOTE_END -->
 
