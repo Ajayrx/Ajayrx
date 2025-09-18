@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> You talk when you cease to be at peace with your thoughts.
+> Courage is not having the strength to go on; it is going on when you don't have the strength.
 
 <!-- QUOTE_END -->
 
