@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> It is what we make out of what we have, not what we are given, that separates one person from another.
+> The moment you doubt whether you can fly, you cease for ever to be able to do it.
 
 <!-- QUOTE_END -->
 
