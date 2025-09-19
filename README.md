@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> We love the things we love for what they are.
+> It is safer to search in the maze than to remain in a cheeseless situation.
 
 <!-- QUOTE_END -->
 
