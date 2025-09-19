@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Darkness must pass. A new day will come. And when the sun shines, it will shine out the clearer.
+> Success and failure come and go, but don't let them define you. It's who you are that matters.
 
 <!-- QUOTE_END -->
 
