@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Do not go where the path may lead, go instead where there is no path and leave a trail.
+> The mind can calculate, but the spirit yearns, and the heart wants what the heart wants.
 
 <!-- QUOTE_END -->
 
