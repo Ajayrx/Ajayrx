@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Ask no questions, and you'll be told no lies.
+> In a world of change, the learners shall inherit the earth, while the learned shall find themselves perfectly suited for a world that no longer exists.
 
 <!-- QUOTE_END -->
 
