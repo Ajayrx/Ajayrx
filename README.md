@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> When you repeat a mistake, it is not a mistake anymore: it is a decision.
+> Ask no questions, and you'll be told no lies.
 
 <!-- QUOTE_END -->
 
