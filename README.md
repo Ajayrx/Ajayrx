@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> It's what you do in the present that will redeem the past and thereby change the future.
+> Children are our greatest natural resource.
 
 <!-- QUOTE_END -->
 
