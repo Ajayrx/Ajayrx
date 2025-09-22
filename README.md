@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Successful people ask better questions, and as a result, they get better answers.
+> When you rise in the morning, form a resolution to make the day a happy one for a fellow creature.
 
 <!-- QUOTE_END -->
 
