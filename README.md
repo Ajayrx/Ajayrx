@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> I find the best way to love someone is not to change them, but instead, help them reveal the greatest version of themselves.
+> Your gift is something that you can do innately better than anything else.
 
 <!-- QUOTE_END -->
 
