@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> The more you feed your mind with positive thoughts, the more you can attract great things into your life.
+> When uncomfortable, my instinct is not to avoid the discomfort but to become at peace with it.
 
 <!-- QUOTE_END -->
 
