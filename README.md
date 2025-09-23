@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Life is like riding a bicycle. To keep your balance you must keep moving.
+> Intelligence, imagination, and knowledge are essential resources, but only effectiveness converts them into results.
 
 <!-- QUOTE_END -->
 
