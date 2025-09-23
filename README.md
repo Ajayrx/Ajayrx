@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Truth will always be truth, regardless of lack of understanding, disbelief or ignorance. 
+> To be in harmony with the wholeness of things is not to have anxiety over imperfections.
 
 <!-- QUOTE_END -->
 
