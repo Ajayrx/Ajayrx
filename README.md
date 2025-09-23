@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> All our knowledge has its origins in our perceptions.
+> Quality is not an act, it is a habit.
 
 <!-- QUOTE_END -->
 
