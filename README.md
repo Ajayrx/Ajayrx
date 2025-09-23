@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> The quality of your commitments will determine the course of your life.
+> Judge your success by what you had to give up in order to get it.
 
 <!-- QUOTE_END -->
 
