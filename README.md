@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> If you want to see things just as they are, then you yourself must practice just as you are.
+> It's not what you've got; it's what you do that makes the difference.
 
 <!-- QUOTE_END -->
 
