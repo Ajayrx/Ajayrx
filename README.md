@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> You're never given a dream without also being given the power to make it true.
+> Awaken. Take heed, do not squander your life.
 
 <!-- QUOTE_END -->
 
