@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> The road to success and the road to failure are almost exactly the same.
+> Everything that is done in the world is done by hope.
 
 <!-- QUOTE_END -->
 
