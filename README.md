@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Reflect upon your present blessings of which every man has many - not on your past misfortunes, of which all men have some.
+> Note that this journey is uniquely yours, no one elses. So the path has to be your own.
 
 <!-- QUOTE_END -->
 
