@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> A fear of weakness only strengthens weakness.
+> The outer conditions of a person's life will always be found to reflect their inner beliefs.
 
 <!-- QUOTE_END -->
 
