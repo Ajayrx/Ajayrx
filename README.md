@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> There are only two ways to live your life. One is as if nothing is a miracle. The other is as if everything is a miracle.
+> I find the best way to love someone is not to change them, but instead, help them reveal the greatest version of themselves.
 
 <!-- QUOTE_END -->
 
