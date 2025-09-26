@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Focus on how far you have come in life rather than looking at the accomplishments of others.
+> All things come into being by conflict of opposites.
 
 <!-- QUOTE_END -->
 
