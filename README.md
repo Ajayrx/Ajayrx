@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> I learned the value of hard work by working hard. 
+> We suffer more often in imagination than in reality.  
 
 <!-- QUOTE_END -->
 
