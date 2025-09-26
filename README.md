@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> When you want something in life, you just gotta reach out and grab it.
+> Our life isn't how much we can take out, but how much we can put in.  
 
 <!-- QUOTE_END -->
 
