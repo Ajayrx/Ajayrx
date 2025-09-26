@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Your happiness is what truly matters most. Do what you have to do in order to be happy.
+> You become stronger with every problem you face and every obstacle you overcome.
 
 <!-- QUOTE_END -->
 
