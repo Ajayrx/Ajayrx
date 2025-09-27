@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Associate yourself with men of good quality, if you esteem your own reputation; for 'tis better to be alone than in bad company. 
+> The fear of death follows from the fear of life. A man who lives fully is prepared to die at any time.
 
 <!-- QUOTE_END -->
 
