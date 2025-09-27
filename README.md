@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Life can be wonderful if you're not afraid of it.
+> The one who praises you is a thief. The one who criticizes you is your true friend.
 
 <!-- QUOTE_END -->
 
