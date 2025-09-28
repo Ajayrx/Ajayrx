@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Don't blame others. it won't make you a better person.
+> Some changes look negative on the surface but you will soon realize that space is being created in your life for something new to emerge.
 
 <!-- QUOTE_END -->
 
