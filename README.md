@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Before you can see the Light, you have to deal with the darkness.
+> Be grateful for what you have now, and nothing should be taken for granted.
 
 <!-- QUOTE_END -->
 
