@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Our view of the world is truly shaped by what we decide to hear.
+> Don't blame others. it won't make you a better person.
 
 <!-- QUOTE_END -->
 
