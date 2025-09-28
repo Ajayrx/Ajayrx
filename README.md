@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> What you resist, persists.
+> It's not what we do once in a while that shapes our lives, but what we do consistently.
 
 <!-- QUOTE_END -->
 
