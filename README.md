@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> A person who does not read is no better than one cannot read.
+> A rational person can find peace by cultivating indifference to things outside of their control.
 
 <!-- QUOTE_END -->
 
