@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Success is getting what you want. Happiness is wanting what you get.
+> Waste no more time arguing about what a good man should be. Be one.
 
 <!-- QUOTE_END -->
 
