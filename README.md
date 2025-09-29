@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> A good teacher opens the door for you, but you must enter the room by yourself.
+> The only thing we have to fear is fear itself.
 
 <!-- QUOTE_END -->
 
