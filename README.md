@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> What we call the beginning is often the end. And to make an end is to make a beginning. The end is where we start from.
+> Have the courage to be ignorant of a great number of things, in order to avoid the calamity of being ignorant of everything.
 
 <!-- QUOTE_END -->
 
