@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Correct what you can. Learn from what you can't.
+> What keeps life fascinating is the constant creativity of the soul.
 
 <!-- QUOTE_END -->
 
