@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> The only time you run out of chances is when you stop taking them.
+> Try not to become a man of success, but rather try to become a man of value.
 
 <!-- QUOTE_END -->
 
