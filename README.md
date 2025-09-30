@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Live calmly. The time will come when the flowers bloom by themselves.
+> Life was meant to be lived, and curiosity must be kept alive. One must never, for whatever reason, turn his back on life.
 
 <!-- QUOTE_END -->
 
