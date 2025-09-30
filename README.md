@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Strategy is a commodity, execution is an art.
+> Today you are you, that is truer than true. There is no one alive who is you-er than you.
 
 <!-- QUOTE_END -->
 
