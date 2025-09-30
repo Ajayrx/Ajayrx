@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Begin now to be what you will be hereafter.
+> It is in the heart that makes a man rich. He is rich according to what he is, not according to what he has.
 
 <!-- QUOTE_END -->
 
