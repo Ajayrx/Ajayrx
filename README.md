@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Pleasure can be supported by an illusion; but happiness rests upon truth. 
+> Genius is patience.
 
 <!-- QUOTE_END -->
 
