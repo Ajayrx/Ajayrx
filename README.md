@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> It's beautiful to be alone. To be alone does not mean to be lonely. It means the mind is not influenced and contaminated by society.
+> It doesn't matter how much you want. What really matters is how much you want it.
 
 <!-- QUOTE_END -->
 
