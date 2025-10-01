@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Life is a gift. Never forget to enjoy and bask in every moment you are in.
+> Keep true. Never be ashamed of doing right. Decide what you think is right and stick to it.
 
 <!-- QUOTE_END -->
 
