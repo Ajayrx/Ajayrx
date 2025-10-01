@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Most people get ahead during the time that others waste.
+> The greater the impact you want to make, the greater your influence needs to be.
 
 <!-- QUOTE_END -->
 
