@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> To be heroic is to be courageous enough to die for something; to be inspirational is to be crazy enough to live a little.
+> Do not take life too seriously. You will never get out of it alive.
 
 <!-- QUOTE_END -->
 
