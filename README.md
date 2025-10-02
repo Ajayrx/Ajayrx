@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Act the way you want to be and soon you'll be the way you act.
+> When I let go of what I am, I become what I might be.
 
 <!-- QUOTE_END -->
 
