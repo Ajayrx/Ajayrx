@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> The quality, not the longevity, of one's life is what is important.
+> Your success and happiness lie in you.
 
 <!-- QUOTE_END -->
 
