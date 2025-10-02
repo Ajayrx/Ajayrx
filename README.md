@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> A good character is the best tombstone. Carve your name on hearts, not on marble.
+> Be true to yourself, help others, make each day your masterpiece
 
 <!-- QUOTE_END -->
 
