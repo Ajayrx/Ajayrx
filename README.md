@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Do not ignore the passion that burns in you. Spend time to discover your gift.
+> Don't concern yourself with the money. Be of service. Build. Work. Dream. Create.
 
 <!-- QUOTE_END -->
 
