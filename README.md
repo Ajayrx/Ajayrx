@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> There is no fear for one whose mind is not filled with desires.
+> We are willing to believe anything other than the truth.
 
 <!-- QUOTE_END -->
 
