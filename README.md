@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Any game becomes important when you know and love the players.
+> It is during our darkest moments that we must focus to see the light.
 
 <!-- QUOTE_END -->
 
