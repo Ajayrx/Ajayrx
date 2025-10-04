@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Always remember that you are absolutely unique. Just like everyone else. 
+> Life is about not knowing and then doing something anyway.
 
 <!-- QUOTE_END -->
 
