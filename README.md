@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Integrity is the ability to stand by an idea.
+> The most important thing is to enjoy your life, to be happy, it's all that matters.
 
 <!-- QUOTE_END -->
 
