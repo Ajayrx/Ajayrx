@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Walk towards the sunshine, and the shadows will fall behind you.
+> Embrace the life you have and stop wishing that you could be someone else.
 
 <!-- QUOTE_END -->
 
