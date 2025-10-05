@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> There are no secrets to success. It is the result of preparation, hard work, learning from failure.
+> The truth is rarely pure and never simple. 
 
 <!-- QUOTE_END -->
 
