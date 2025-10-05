@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> No matter how much preparation we do, in the real tests of our lives, we'll be in unfamiliar terrain.
+> Let my soul smile through my heart and my heart smile through my eyes, that I may scatter rich smiles in sad hearts. 
 
 <!-- QUOTE_END -->
 
