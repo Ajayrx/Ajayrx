@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Your task is not to seek for love, but merely to seek and find all the barriers within yourself that you have built against it.
+> Patience is a form of wisdom. It demonstrates that we understand and accept the fact that sometimes things must unfold in their own time.
 
 <!-- QUOTE_END -->
 
