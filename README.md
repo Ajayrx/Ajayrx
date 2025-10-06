@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> When you have a dream, you've got to grab it and never let go.
+> Time you enjoy wasting, was not wasted.
 
 <!-- QUOTE_END -->
 
