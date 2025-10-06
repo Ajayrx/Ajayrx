@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Progress comes to those who train and train; reliance on secret techniques will get you nowhere.
+> You may think I'm small, but I have a universe inside my mind.
 
 <!-- QUOTE_END -->
 
