@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> When people are free to do as they please, they usually imitate each other.
+> Blessed is he who expects nothing, for he shall never be disappointed.
 
 <!-- QUOTE_END -->
 
