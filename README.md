@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> In order to control myself I must first accept myself by going with and not against my nature.
+> All life is a manifestation of the spirit, the manifestation of love.
 
 <!-- QUOTE_END -->
 
