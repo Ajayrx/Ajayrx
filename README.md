@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Remember that sometimes not getting what you want is a wonderful stroke of luck.
+> Many roads lead to the path, but basically there are only two: reason and practice. 
 
 <!-- QUOTE_END -->
 
