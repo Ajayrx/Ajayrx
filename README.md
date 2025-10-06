@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Every night before going to sleep, we must ask ourselves: what weakness did I overcome today? What virtue did I acquire?
+> How many times do you have to get hit over the head until you figure out who's hitting you?
 
 <!-- QUOTE_END -->
 
