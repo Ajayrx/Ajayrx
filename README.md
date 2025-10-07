@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Every day is an opportunity to a make a new happy ending.
+> It will never rain roses: when we want to have more roses, we must plant more roses.
 
 <!-- QUOTE_END -->
 
