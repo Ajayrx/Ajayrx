@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> The measure of who we are is what we do with what we have.
+> Inspire yourself to be great. Being good isn't good enough.
 
 <!-- QUOTE_END -->
 
