@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Incredible change happens in your life when you decide to take control of what you do have power over instead of craving control over what you don't.
+> Death is not an ending. It is a transformation.
 
 <!-- QUOTE_END -->
 
