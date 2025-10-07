@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Success comes from knowing that you did your best to become the best that you are capable of becoming.
+> A moving door hinge never corrodes. Flowing water never grows stagnant.
 
 <!-- QUOTE_END -->
 
