@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> I am not proud, but I am happy; and happiness blinds, I think, more than pride.
+> The fear of death is more to be feared, than death itself.
 
 <!-- QUOTE_END -->
 
