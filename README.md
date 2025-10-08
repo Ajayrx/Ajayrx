@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Courage is the price that life exacts for granting peace.
+> Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day.
 
 <!-- QUOTE_END -->
 
