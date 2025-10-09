@@ -65,7 +65,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Shoot for the moon. Even if you miss, you'll land among the stars.
+> Success is the progressive realization of a worthy goal or ideal.
 
 <!-- QUOTE_END -->
 
