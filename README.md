@@ -149,7 +149,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
                     </svg>
                     <img src="https://img.shields.io/badge/Followers%20💚-F5EEDC" style="height:35px;">
                     <img src="https://img.shields.io/badge/Thank%20You%20SO%20Much❤️-F5EEDC" style="height:35px;">
-                    <img src="https://visitor-badge.laobi.icu/badge?page_id=Ajayrx.Ajayrx&color=%23F5EEDC&labelColor=000000" style="height:35px;">
+                    <!-- <img src="https://visitor-badge.laobi.icu/badge?page_id=Ajayrx.Ajayrx&color=%23fffff&labelColor=000000" style="height:35px;"> -->
                 </h2>
                 <div class="row">
     <section class="people">
