@@ -52,13 +52,14 @@
 <div>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=F5EEDC&width=435&lines=Nice+to+e-meet+you!;Welcome+to+my+GitHub+space!+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Check+Out+My+Content+%F0%9F%A7%A1" alt="Typing SVG" /></a>
 </div>
-<p><b>Hey there! I'm Ajay Bala, a developer skilled in Java, Python, C, and Web Development. Over 1+ year of experience as a Minecraft Server Developer, creating innovative mods and solutions.
+<p><b>Hey there! I'm Ajay Bala, a developer skilled in Java, Python, C, and Web Development. Over a year of experience as a Minecraft Server Developer, building, optimizing, and maintaining custom plugins, mods, and gameplay systems.
     <br>
     <br>
 Enough about the code, here’s the person behind it <img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="20" />
 
 * 👨‍🎓 B.Tech CSE Student at @GIET - BPUT University.
 * 🦸‍♂️ Crafting websites & building the web.
+* 🔥 DSA where logic meets creativity.
 * 🎮 Love for Minecraft.
 * 🎨 Art & adventure.
 * 🤝 Exploring open-source contributions. </b></p>
