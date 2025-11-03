@@ -19,6 +19,7 @@
   <!-- <a href="https://discord.gg/C7vCuVYAzx" target="_blank">
     <img src="https://img.shields.io/badge/Click%20to%20Join-My%20Github%20Community-35CFF8" style="height: 40px;" />
   </a> -->
+  
 </div>
 </h1>
 
@@ -36,18 +37,19 @@
     <br>
 </a>
 <br>
-<br>
-<div style="text-align: center;">
+<h3>
+  <div style="text-align: center;">
   <img src="https://img.shields.io/badge/About%20Me!%20🫶-F5EEDC" style="height: 35px;" />
   <a href="https://ajaybala.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Click%20Me%20✨%20My%20Portfolio!%20🚀%20-F5EEDC" style="height: 35px;" />
-    
-  </a>
+    <img src="https://img.shields.io/badge/Click%20Me%20✨%20My%20Portfolio!%20🚀%20-F5EEDC" style="height: 35px;"  />  </a>
+    <a href="https://drive.google.com/file/d/1PBqLgYOqP-BIt5VRIMQaGlGFsr3BIzUY/view?usp=sharing"> 
+  <img src="https://img.shields.io/badge/Resume%20May%20🧿-F5EEDC" style="height: 35px" alt="Resume" /> </a>
 </div>
+</h3>
+
 
 
 <div>
-    <br>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=F5EEDC&width=435&lines=Nice+to+e-meet+you!;Welcome+to+my+GitHub+space!+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Check+Out+My+Content+%F0%9F%A7%A1" alt="Typing SVG" /></a>
 </div>
 <p><b>Hey there! I'm Ajay Bala, a developer skilled in Java, Python, C, and Web Development. Over 1+ year of experience as a Minecraft Server Developer, creating innovative mods and solutions.
