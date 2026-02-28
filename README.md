@@ -109,7 +109,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <div align="left">
     <br>
-    <img src="https://img.shields.io/badge/🤍%20Githhub%20Contributions-F5EEDC" style="height:35px;"/>
+    <img src="https://img.shields.io/badge/Githhub%20Contributions%20🤝-F5EEDC" style="height:35px;"/>
     <img src="https://img.shields.io/badge/2023-F5EEDC" style="height:35px;"/>
     <img src="https://img.shields.io/badge/2024-F5EEDC" style="height:35px;"/>
     <img src="https://img.shields.io/badge/2025-F5EEDC" style="height:35px;" -->
@@ -166,12 +166,11 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
         <img class="avatar" src="https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y" width="35" height="35" alt="Default Avatar" /> 
         <img class="avatar" src="https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y" width="35" height="35" alt="Default Avatar" />
         <img class="avatar" src="https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y" width="35" height="35" alt="Default Avatar" />
-      
 <!--         <img class="avatar" src="https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y" width="35" height="35" alt="Default Avatar" />
         <img class="avatar" src="https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y" width="35" height="35" alt="Default Avatar" /> -->
     </section>
 </div>
-            </section>
+  <!-- </section> -->
 
 
 
