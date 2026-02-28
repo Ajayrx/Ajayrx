@@ -162,8 +162,11 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
         <img class="avatar" src="https://avatars.githubusercontent.com/u/161880837?v=4" width="35" height="35" alt="Default Avatar" />
         <img class="avatar" src="https://avatars.githubusercontent.com/u/223706601?v=4" width="35" height="35" alt="Default Avatar" />
         <img class="avatar" src="https://avatars.githubusercontent.com/u/204497330?v=4" width="35" height="35" alt="Default Avatar" />
+        <img class="avatar" src="https://avatars.githubusercontent.com/u/235091564?v=4" width="35" height="35" alt="Default Avatar" />
+        <img class="avatar" src="https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y" width="35" height="35" alt="Default Avatar" /> 
         <img class="avatar" src="https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y" width="35" height="35" alt="Default Avatar" />
         <img class="avatar" src="https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y" width="35" height="35" alt="Default Avatar" />
+      
 <!--         <img class="avatar" src="https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y" width="35" height="35" alt="Default Avatar" />
         <img class="avatar" src="https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y" width="35" height="35" alt="Default Avatar" /> -->
     </section>
