@@ -68,9 +68,9 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
   <!-- QUOTE_START -->
 
-<img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-F5EEDC" style="height: 35px;"/>
+<img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> When one does not have what one wants, one must want what one has.
+> There can be no deep disappointment where there is not deep love.
 
 <!-- QUOTE_END -->
 
