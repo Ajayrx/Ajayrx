@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Excuses are the lies you convince yourself are true to avoid proving you are worthy of the gift you were given.
+> Be the change that you want to see in the world.
 
 <!-- QUOTE_END -->
 
