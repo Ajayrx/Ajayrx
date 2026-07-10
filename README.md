@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Meditate. It won't be fun but it will surface what you need to deal with.
+> A man who cannot tolerate small misfortunes can never accomplish great things.
 
 <!-- QUOTE_END -->
 
