@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> The only lost cause is one we give up on before we enter the struggle.
+> You have a brain and mind of your own. Use it, and reach your own decisions.
 
 <!-- QUOTE_END -->
 
