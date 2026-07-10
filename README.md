@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Whenever you do a thing, act as if all the world were watching.
+> Even if I knew that tomorrow the world would go to pieces, I would still plant my apple tree.
 
 <!-- QUOTE_END -->
 
