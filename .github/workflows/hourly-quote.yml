@@ -1,8 +1,8 @@
-name: Quotes Every 2 hour
+name: Quotes Every 6 hour
 
 on:
   schedule:
-    - cron: '0 */4 * * *'  # Every 4 hours
+    - cron: '0 */6 * * *'  # Every 6 hours
   workflow_dispatch:  
 
 jobs:
