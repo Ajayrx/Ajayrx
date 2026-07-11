@@ -2,7 +2,7 @@ name: Quotes Every 2 hour
 
 on:
   schedule:
-    - cron: '0 */2 * * *'  # Every 2 hours
+    - cron: '0 */4 * * *'  # Every 4 hours
   workflow_dispatch:  
 
 jobs:
