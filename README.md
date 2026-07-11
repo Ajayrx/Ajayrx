@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Better the cottage where one is merry than the palace where one weeps.
+> A gentleman accepts the responsibility of his actions and bears the burden of their consequences.
 
 <!-- QUOTE_END -->
 
