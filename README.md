@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Those who seek the easy way do not seek the true way.
+> Why live an ordinary life, when you can live an extraordinary one.
 
 <!-- QUOTE_END -->
 
