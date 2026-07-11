@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> You are a function of what the whole universe is doing in the same way that a wave is a function of what the whole ocean is doing.
+> It is ignorance that causes most mistakes.
 
 <!-- QUOTE_END -->
 
