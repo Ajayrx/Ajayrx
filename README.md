@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> When obstacles arise, you change your direction to reach your goal; you do not change your decision to get there.
+> Develop success from failures. Discouragement and failure are two of the surest stepping stones to success.
 
 <!-- QUOTE_END -->
 
