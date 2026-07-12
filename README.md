@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Everything starts with a dream. A particle of our imagination that teases us of what the future could be like, as long as we fight for it.
+> When you're curious, you find lots of interesting things to do.
 
 <!-- QUOTE_END -->
 
