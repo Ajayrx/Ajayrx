@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Would you rather learn to deal with the truth now than be forced to do so later on?
+> Start each day with a positive thought and a grateful heart.
 
 <!-- QUOTE_END -->
 
