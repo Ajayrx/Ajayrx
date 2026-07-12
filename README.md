@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Others have seen what is and asked why. I have seen what could be and asked why not
+> You have to go through the falling down in order to learn to walk. It helps to know that you can survive it. That's an education in itself.
 
 <!-- QUOTE_END -->
 
