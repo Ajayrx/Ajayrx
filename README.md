@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> What we learn from history is that people don't learn from history.
+> True life is lived when tiny changes occur.
 
 <!-- QUOTE_END -->
 
