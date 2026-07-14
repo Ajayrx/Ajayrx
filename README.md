@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> I can't change the direction of the wind, but I can adjust my sails to always reach my destination.
+> Whenever you find yourself on the side of the majority, it is time to reform.
 
 <!-- QUOTE_END -->
 
