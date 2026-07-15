@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> We don't stumble accidentally into an amazing life. It takes decision, a commitment to consistently work on ourselves.
+> Ask no questions, and you'll be told no lies.
 
 <!-- QUOTE_END -->
 
