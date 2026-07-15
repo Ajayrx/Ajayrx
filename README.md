@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Friendship is one of the most tangible things in a world which offers fewer and fewer supports.
+> Dark times lie ahead of us and there will be a time when we must choose between what is easy and what is right.
 
 <!-- QUOTE_END -->
 
