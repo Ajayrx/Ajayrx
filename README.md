@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> An un-examined life is not worth living.
+> The world is a puzzle; no need to make sense out of it.
 
 <!-- QUOTE_END -->
 
