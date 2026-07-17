@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> The first step toward getting somewhere is to decide that you are not going to stay where you are.
+> Here is the test to find whether your mission on earth is finished. If you're alive, it isn't.
 
 <!-- QUOTE_END -->
 
