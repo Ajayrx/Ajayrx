@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Like it or not, this moment is all we really have to work with.
+> To live outside the law, you must be honest.
 
 <!-- QUOTE_END -->
 
