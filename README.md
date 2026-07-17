@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Truth is like the sun. You can shut it out for a time, but it ain't going away.
+> He who can no longer pause to wonder and stand rapt in awe, is as good as dead; his eyes are closed.
 
 <!-- QUOTE_END -->
 
