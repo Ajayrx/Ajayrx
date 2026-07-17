@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Attitude is a little thing that makes a big difference.
+> Everyone must choose one of two pains: The pain of discipline or the pain of regret.
 
 <!-- QUOTE_END -->
 
