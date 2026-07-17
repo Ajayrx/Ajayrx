@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> He who can no longer pause to wonder and stand rapt in awe, is as good as dead; his eyes are closed.
+> You will never do anything in this world without courage. It is the greatest quality of the mind next to honor.
 
 <!-- QUOTE_END -->
 
