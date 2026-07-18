@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Old age is like everything else. To make a success of it, you've got to start young.
+> Success seems to be connected to action. Successful people keep moving. They make mistakes, but they don't quit.
 
 <!-- QUOTE_END -->
 
