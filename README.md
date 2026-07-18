@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Do not look upon this world with fear and loathing. Bravely face whatever the gods offer.
+> Old age is like everything else. To make a success of it, you've got to start young.
 
 <!-- QUOTE_END -->
 
