@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> You want to live but do you know how to live? You are scared of dying and tell me, is the kind of life you lead really any different from being dead?
+> A Hero is an ordinary individual who finds the strength to persevere and endure in spite of overwhelming obstacles.
 
 <!-- QUOTE_END -->
 
