@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> The privilege of a lifetime is to become who you truly are.
+> Catch, then, O catch the transient hour; Improve each moment as it flies!
 
 <!-- QUOTE_END -->
 
