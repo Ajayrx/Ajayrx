@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> No experience is a cause of success or failure. We do not suffer from the shock of our experiences, so-called trauma - but we make out of them just what suits our purposes.
+> We are willing to believe anything other than the truth.
 
 <!-- QUOTE_END -->
 
