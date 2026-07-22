@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Our heart is a treasury; if you pour out all its wealth at once, you are bankrupt.
+> Life can be the scariest and most beautiful thing simultaneously.
 
 <!-- QUOTE_END -->
 
