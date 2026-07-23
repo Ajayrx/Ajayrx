@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Throughout this life, you can never be certain of living long enough to take another breath.
+> The real measure of your wealth is how much you'd be worth if you lost all your money.
 
 <!-- QUOTE_END -->
 
