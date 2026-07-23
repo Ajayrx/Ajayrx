@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> The real measure of your wealth is how much you'd be worth if you lost all your money.
+> No matter what happens in life, never lose sight of who you are.
 
 <!-- QUOTE_END -->
 
