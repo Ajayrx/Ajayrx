@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> He who is not contented with what he has, would not be contented with what he would like to have.
+> The two most important days in your life are the day you are born and the day you find out why.
 
 <!-- QUOTE_END -->
 
