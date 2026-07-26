@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> A warrior does not give up what he loves, he finds the love in what he does.
+> Believe that life is worth living and your belief will help create the fact.
 
 <!-- QUOTE_END -->
 
