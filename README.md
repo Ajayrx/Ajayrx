@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Doing the best at this moment puts you in the best place for the next moment.
+> Nothing endures but change.
 
 <!-- QUOTE_END -->
 
