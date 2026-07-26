@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Life is about choice. You can choose to be a victim or anything else you like to be.
+> Whether you have a problem in your life or not depends upon your own attitude, your own understanding.
 
 <!-- QUOTE_END -->
 
