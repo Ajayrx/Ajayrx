@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> I have no methods; all I do is accept people as they are.
+> Watch your actions, they become habits; watch your habits, they become character; watch your character, for it becomes your destiny.
 
 <!-- QUOTE_END -->
 
