@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> The nearer a man comes to a calm mind, the closer he is to strength.
+> It does not matter how slowly you go so long as you do not stop.
 
 <!-- QUOTE_END -->
 
