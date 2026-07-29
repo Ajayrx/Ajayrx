@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Know yourself and you will win all battles.
+> Leaders spend 5% of their time on the problem & 95% of their time on the solution. Get over it & crush it!
 
 <!-- QUOTE_END -->
 
