@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Dreams have only one owner at a time. That's why dreamers are lonely.
+> Far and away the best prize that life has to offer is the chance to work hard at work worth doing.
 
 <!-- QUOTE_END -->
 
