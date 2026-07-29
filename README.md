@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Wrong turns are as important as right turns. More important, sometimes.
+> We can choose to look at whatever we want.  We can look at what's wrong in our life or we can look at what's right.
 
 <!-- QUOTE_END -->
 
