@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> People tend to complicate their own lives, as if living weren't already complicated enough.
+> The seasons do not push one another; neither do clouds race the wind across the sky. All things happen in their own good time.
 
 <!-- QUOTE_END -->
 
