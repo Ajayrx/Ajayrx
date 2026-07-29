@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Love your enemies, for they tell you your faults.
+> You were born to win, but to be a winner you must plan to win, prepare to win, and expect to win.
 
 <!-- QUOTE_END -->
 
