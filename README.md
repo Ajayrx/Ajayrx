@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> There is peace even in the storm.
+> You have to make time, even for something as universal as staring at the stars.
 
 <!-- QUOTE_END -->
 
