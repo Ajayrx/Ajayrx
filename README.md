@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Do not believe that you will reach your destination without leaving the shore.
+> Winners are not afraid of losing. But losers are. Failure is part of the process of success. People who avoid failure also avoid success.
 
 <!-- QUOTE_END -->
 
