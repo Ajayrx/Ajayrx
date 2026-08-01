@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> We must embrace pain and burn it as fuel for our journey.
+> No one can compete with you on being you. Most of life is a search for who and what needs you the most.
 
 <!-- QUOTE_END -->
 
