@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Procrastination is one of the most common and deadliest of diseases and its toll on success and happiness is heavy.
+> Don't be pushed around by the fears in your mind. Be led by the dreams in your heart.
 
 <!-- QUOTE_END -->
 
