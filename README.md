@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> If you run you stand a chance of losing, but if you don't run you've already lost.
+> You miss 100% of the shots you don't take.
 
 <!-- QUOTE_END -->
 
