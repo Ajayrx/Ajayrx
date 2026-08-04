@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Everything you've ever wanted is on the other side of fear.
+> We can change our lives. We can do, have, and be exactly what we wish.
 
 <!-- QUOTE_END -->
 
