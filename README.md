@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Time stays long enough for anyone who will use it.
+> To be angry is to revenge the faults of others on ourselves.
 
 <!-- QUOTE_END -->
 
