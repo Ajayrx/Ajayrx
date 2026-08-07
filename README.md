@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Help others achieve their dreams and you will achieve yours.
+> The way we feel is the direct result of what we think.
 
 <!-- QUOTE_END -->
 
