@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> We can have more than we've got because we can become more than we are.
+> Do not try to be on the side of the majority, but live according to your inner laws.
 
 <!-- QUOTE_END -->
 
