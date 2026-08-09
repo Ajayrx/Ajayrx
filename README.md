@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> The ladder of success is best climbed by stepping on the rungs of opportunity.
+> It isn't what you do, but how you do it.
 
 <!-- QUOTE_END -->
 
