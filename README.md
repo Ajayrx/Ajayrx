@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Only those who will risk going too far can possibly find out how far one can go.
+> One of the oldest human needs is having someone to wonder where you are when you don't come home at night.
 
 <!-- QUOTE_END -->
 
