@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Success is built sequentially. It's one thing at a time.
+> The man who asks a question is a fool for a minute, the man who does not ask is a fool for life.
 
 <!-- QUOTE_END -->
 
