@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Today is the oldest you've ever been, and the youngest you'll ever be again.
+> To love means loving the unlovable.
 
 <!-- QUOTE_END -->
 
