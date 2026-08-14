@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Watch what you say, and whatever you say, practice it.
+> Enthusiasm makes up for a host of deficiencies.
 
 <!-- QUOTE_END -->
 
