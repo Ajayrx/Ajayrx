@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Don't let the past steal your present.
+> Success is not to be pursued, it is to be attracted by the person you become.
 
 <!-- QUOTE_END -->
 
