@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Greatest success comes just one step beyond the point at which defeat overtakes you.
+> If you love somebody, let them go, for if they return, they were always yours. If they don't, they never were.
 
 <!-- QUOTE_END -->
 
