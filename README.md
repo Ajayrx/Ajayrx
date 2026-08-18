@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Don't give up the fight, Stand up for your rights.
+> If we all did the things we are capable of doing, we would literally astound ourselves.
 
 <!-- QUOTE_END -->
 
