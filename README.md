@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Surround yourself with only people who are going to lift you higher.
+> The greatest work that kindness does to others is that it makes them kind themselves.
 
 <!-- QUOTE_END -->
 
