@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> A dream you dream alone is only a dream. A dream you dream together is reality.
+> Those who can make you believe absurdities can make you commit atrocities.
 
 <!-- QUOTE_END -->
 
