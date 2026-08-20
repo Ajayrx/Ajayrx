@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Cleverness is not wisdom.
+> Conscience is a dog that does not stop us from passing but that we cannot prevent from barking.
 
 <!-- QUOTE_END -->
 
