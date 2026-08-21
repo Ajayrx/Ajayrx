@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> The secret of happiness, you see, is not found in seeking more, but in developing the capacity to enjoy less.
+> It is better to change an opinion than to persist in a wrong one.
 
 <!-- QUOTE_END -->
 
