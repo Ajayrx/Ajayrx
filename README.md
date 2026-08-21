@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Having lots of money while not having inner peace is like dying of thirst while bathing in the ocean.
+> Keep your face always toward the sunshine -  shadows will fall behind you.
 
 <!-- QUOTE_END -->
 
