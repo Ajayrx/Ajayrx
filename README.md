@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Anything becomes interesting if you look at it long enough..
+> If you don't program yourself, life will program you.
 
 <!-- QUOTE_END -->
 
