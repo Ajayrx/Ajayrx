@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Experience is simply the name we give our mistakes.
+> The biggest adventure you can ever take is to live the life of your dreams.
 
 <!-- QUOTE_END -->
 
