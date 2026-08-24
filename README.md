@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Curiosity is the most powerful thing you own.
+> Do not use life to give life to death. Do not use death to bring death to life.
 
 <!-- QUOTE_END -->
 
