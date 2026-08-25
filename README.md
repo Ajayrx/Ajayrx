@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Distant water does not put out a nearby fire.
+> Give credit where credit is due: simply said, if you want loyalty and best effort, you must be thoughtful.
 
 <!-- QUOTE_END -->
 
