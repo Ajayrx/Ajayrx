@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> People have the illusion that all over the world, all the time, all kinds of fantastic things are happening.
+> Logic is like the sword - those who appeal to it shall perish by it.
 
 <!-- QUOTE_END -->
 
