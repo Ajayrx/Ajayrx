@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> The only place success comes before work is in the dictionary.
+> It is not because things are difficult that we do not dare; it is because we do not dare that things are difficult.
 
 <!-- QUOTE_END -->
 
