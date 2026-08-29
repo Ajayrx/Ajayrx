@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> The pessimist sees difficulty in every opportunity. The optimist sees opportunity in every difficulty.
+> The wise pursue wisdom, the dull follow in blind faith.
 
 <!-- QUOTE_END -->
 
