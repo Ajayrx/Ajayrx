@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Some of us learn from other people's mistakes and the rest of us have to be other people.
+> Routine, done for long enough and done sincerely enough, becomes more than routine. It becomes ritual—it becomes sanctified and holy.
 
 <!-- QUOTE_END -->
 
