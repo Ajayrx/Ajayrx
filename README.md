@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> The power of human thought grows exponentially with the number of minds that share that thought.
+> Those who realize their folly are not true fools.
 
 <!-- QUOTE_END -->
 
