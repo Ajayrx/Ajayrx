@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Resilience is not what happens to you. It's how you react to, respond to, and recover from what happens to you.
+> Genius is one percent inspiration and ninety-nine percent perspiration.
 
 <!-- QUOTE_END -->
 
