@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Your friends will know you better in the first minute you meet than your acquaintances will know you in a thousand years.
+> We learn to walk by falling down. If we never fell down, we would never walk.
 
 <!-- QUOTE_END -->
 
