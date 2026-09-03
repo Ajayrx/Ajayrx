@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day.
+> Resentment or grudges do no harm to the person against whom you hold these feelings but every day and every night of your life, they are eating at you.
 
 <!-- QUOTE_END -->
 
