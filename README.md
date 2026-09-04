@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more.
+> Where there is anger, there is always pain underneath.
 
 <!-- QUOTE_END -->
 
