@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Anger begins with folly, and ends with repentance.
+> If you can handle rejection, you'll learn to get everything you want.
 
 <!-- QUOTE_END -->
 
