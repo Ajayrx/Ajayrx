@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> I am who I am today because of the choices I made yesterday.
+> Stop being a prisoner of your past. Become the architect of your future.
 
 <!-- QUOTE_END -->
 
