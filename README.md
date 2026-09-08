@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> The future belongs to those who believe in the beauty of their dreams.
+> Don't ever save anything for a special occasion. Being alive is the special occasion.
 
 <!-- QUOTE_END -->
 
