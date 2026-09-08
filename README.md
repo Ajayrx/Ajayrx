@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Your work is to discover your work and then, with all your heart, to give yourself to it.
+> What is planted in each person's soul will sprout.
 
 <!-- QUOTE_END -->
 
