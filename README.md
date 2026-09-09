@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Strive for excellence, not perfection, because we don't live in a perfect world.
+> It is better to offer no excuse than a bad one.
 
 <!-- QUOTE_END -->
 
