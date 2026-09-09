@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> The worst part of success is trying to find someone who is happy for you.
+> Putting off an easy thing makes it hard, and putting off a hard one makes it impossible.
 
 <!-- QUOTE_END -->
 
