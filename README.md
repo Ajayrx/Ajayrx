@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> When you are able to employ your will always for constructive purposes, you become the controller of your destiny.
+> Duty makes us do things well, but love makes us do them beautifully.
 
 <!-- QUOTE_END -->
 
