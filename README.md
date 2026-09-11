@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> A loving heart is the truest wisdom.
+> The people who are most successful are those who are doing what they love.
 
 <!-- QUOTE_END -->
 
