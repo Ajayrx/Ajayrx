@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Your next step is simple. You are the first domino.
+> When at last you are come to the ocean of happiness, do not go back thirsty.
 
 <!-- QUOTE_END -->
 
