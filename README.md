@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Whatever happened, happened for the good. Whatever is happening, is happening for the good. Whatever will happen, will also happen for the good.
+> Everyone can rise above their circumstances and achieve success if they are dedicated to and passionate about what they do.
 
 <!-- QUOTE_END -->
 
