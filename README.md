@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Become the kind of leader that people would follow voluntarily, even if you had no title or position.
+> The most important thing is to enjoy your life, to be happy, it's all that matters.
 
 <!-- QUOTE_END -->
 
