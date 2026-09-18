@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> The more you are grateful for what you have the more you will have to be grateful for.
+> Surround yourself with people who take their work seriously, but not themselves, those who work hard and play hard.
 
 <!-- QUOTE_END -->
 
