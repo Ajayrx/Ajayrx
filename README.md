@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> It is not that we have too little time to do all the things we need to do , it is that we feel the need to do too many things in the time we have.
+> The scariest monsters are the ones that lurk within our souls.
 
 <!-- QUOTE_END -->
 
