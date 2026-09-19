@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Closing your eyes and listening to silence is self-care.
+> So long as we are being remembered, we remain alive.
 
 <!-- QUOTE_END -->
 
