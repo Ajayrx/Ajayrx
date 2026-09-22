@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> The power to make and break habits and learning how to do that is really important.
+> Success is doing what you want to do, when you want, where you want, with whom you want, as much as you want.
 
 <!-- QUOTE_END -->
 
