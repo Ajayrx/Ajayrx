@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> The only way to 'find out if it will work out' is to do it.
+> True life is lived when tiny changes occur.
 
 <!-- QUOTE_END -->
 
