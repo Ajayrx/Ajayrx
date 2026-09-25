@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Rivers know this: there is no hurry. We shall get there some day.
+> Only to the extent that we expose ourselves over and over to annihilation can that which is indestructible in us be found.
 
 <!-- QUOTE_END -->
 
