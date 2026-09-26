@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> There is only one thing in the world worse than being talked about, and that is not being talked about.
+> Whatever you do, strive to do it so well that no man living and no man dead and no man yet to be born could do it any better.
 
 <!-- QUOTE_END -->
 
