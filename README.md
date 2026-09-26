@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> If you are lucky enough to find love, remember it is there and don't throw it away.
+> Your only limitations are those you set up in your mind or permit others to set up for you.
 
 <!-- QUOTE_END -->
 
