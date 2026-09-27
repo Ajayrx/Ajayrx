@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> An empty head is not really empty; it is stuffed with rubbish. Hence the difficulty of forcing anything into an empty head.
+> In order to be irreplaceable one must always be different.
 
 <!-- QUOTE_END -->
 
