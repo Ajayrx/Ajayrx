@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Logic is like the sword - those who appeal to it shall perish by it.
+> Beginning today, treat everyone you meet as if they were going to be dead by midnight. Your life will never be the same again.
 
 <!-- QUOTE_END -->
 
