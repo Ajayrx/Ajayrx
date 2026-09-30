@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Great leaders are almost always great simplifiers, who can cut through argument, debate and doubt, to offer a solution everybody can understand.
+> To live fully is to be always in no-man's-land, to experience each moment as completely new and fresh.
 
 <!-- QUOTE_END -->
 
