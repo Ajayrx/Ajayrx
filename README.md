@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Life should be touched, not strangled.
+> 20 percent of your activities will account for 80 percent of your results.
 
 <!-- QUOTE_END -->
 
