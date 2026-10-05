@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> You are the sky. Everything else - it's just the weather.
+> Do not follow the ideas of others, but learn to listen to the voice within yourself.
 
 <!-- QUOTE_END -->
 
