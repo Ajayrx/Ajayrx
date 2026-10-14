@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> The big secret in life is that there is no big secret. Whatever your goal, you can get there if you're willing to work.
+> Your happiness is what truly matters most. Do what you have to do in order to be happy.
 
 <!-- QUOTE_END -->
 
