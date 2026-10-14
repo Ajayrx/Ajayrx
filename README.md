@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Never do things others can do and will do if there are things others cannot do or will not do.
+> The one who praises you is a thief. The one who criticizes you is your true friend.
 
 <!-- QUOTE_END -->
 
