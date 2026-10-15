@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> The goal is not to show how great you are to others, but how vulnerable you are to yourself.
+> We will now discuss in a little more detail the Struggle for Existence.
 
 <!-- QUOTE_END -->
 
