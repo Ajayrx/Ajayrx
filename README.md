@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Death is as sure for that which is born, as birth is for that which is dead. Therefore grieve not for what is inevitable.
+> Too many requests. Obtain an auth key for unlimited access.
 
 <!-- QUOTE_END -->
 
