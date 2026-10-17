@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Live as if you were to die tomorrow. Learn as if you were to live forever.
+> A wise man makes his own decisions, but an ignorant man mindlessly follows the crowd.
 
 <!-- QUOTE_END -->
 
