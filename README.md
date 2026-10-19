@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Why do you stay in prison when the door is so wide open?
+> The most virtuous are those who content themselves with being virtuous without seeking to appear so.
 
 <!-- QUOTE_END -->
 
