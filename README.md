@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> My guiding principle is this: Guilt is never to be doubted.
+> People don't realize that now is all there ever is; there is no past or future except as memory or anticipation in your mind.
 
 <!-- QUOTE_END -->
 
