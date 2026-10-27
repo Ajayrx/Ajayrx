@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> A hero is an ordinary person doing things in an extra ordinary way.
+> Those who are possessed by nothing possess everything.
 
 <!-- QUOTE_END -->
 
