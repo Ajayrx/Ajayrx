@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Given the choice between the experience of pain and nothing, I would choose pain.
+> Even when a friend does something you do not like, he continues to be your friend.
 
 <!-- QUOTE_END -->
 
