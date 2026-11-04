@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Peace is not absence of conflict, it is the ability to handle conflict by peaceful means.
+> It is easier to put leather on the soles of one's feet than cover the world with leather.
 
 <!-- QUOTE_END -->
 
