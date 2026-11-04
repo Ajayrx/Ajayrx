@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> It is easier to put leather on the soles of one's feet than cover the world with leather.
+> Let my soul smile through my heart and my heart smile through my eyes, that I may scatter rich smiles in sad hearts.
 
 <!-- QUOTE_END -->
 
