@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> A clever person turns great troubles into little ones, and little ones into none at all.
+> The difference between treason and patriotism is only a matter of dates.
 
 <!-- QUOTE_END -->
 
