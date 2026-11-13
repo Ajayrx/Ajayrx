@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> I am not what happened to me, I am what I choose to become.
+> Success is an iceberg.
 
 <!-- QUOTE_END -->
 
