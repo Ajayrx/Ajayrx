@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> The only limits in your life are those that you set yourself.
+> The more you are focused on time - past and future - the more you miss the Now, the most precious thing there is.
 
 <!-- QUOTE_END -->
 
