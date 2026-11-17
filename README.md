@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Where your talents and the needs of the world cross, there lies your vocation.
+> Strategy is a commodity, execution is an art.
 
 <!-- QUOTE_END -->
 
