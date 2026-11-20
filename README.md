@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> The best way to not feel hopeless is to get up and do something.
+> What have you done today to make someone else happy?
 
 <!-- QUOTE_END -->
 
