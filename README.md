@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> The more you like yourself, the less you are like anyone else, which makes you unique.
+> We need a backbone, not a wishbone.
 
 <!-- QUOTE_END -->
 
