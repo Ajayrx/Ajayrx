@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Believe nothing you hear, and only one half that you see.
+> The secret of happiness is not in doing what you like but in liking what you have to do.
 
 <!-- QUOTE_END -->
 
