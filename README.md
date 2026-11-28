@@ -70,7 +70,7 @@ Enough about the code, here’s the person behind it <img src="https://emojis.sl
 
 <img src="https://img.shields.io/badge/📜%20Quote%20of%20the%20Moment!-53A2FE" style="height: 35px;"/>
 
-> Keep smiling, because life is a beautiful thing and there's so much to smile about.
+> Choose to be optimistic, it feels better.
 
 <!-- QUOTE_END -->
 
